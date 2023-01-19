@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_ms_poc_sdg_ui_name": {
+            "value": null
+        },
+        "sites_ms_poc_sdg_api_name": {
+            "value": null
+        },
+        "serverfarms_sp_ms_poc_sdg_ui_name": {
+            "value": null
+        },
+        "namespaces_asb_ms_poc_sdg_name": {
+            "value": null
+        },
+        "sites_func_ms_poc_sdg_eventSubscriber_name": {
+            "value": null
+        },
+        "storageAccounts_storagesearchdocuments_name": {
+            "value": null
+        },
+        "storageAccounts_emtecmscognitivesea8177_name": {
+            "value": null
+        },
+        "storageAccounts_emtecmscognitiveseabac3_name": {
+            "value": null
+        },
+        "serverfarms_ASP_emtecmscognitivesearch_85f1_name": {
+            "value": null
+        },
+        "accounts_lang_cognitive_search_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___func_ms_cognitive_search_name": {
+            "value": null
+        },
+        "components_func_ms_cognitive_search_externalid": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        }
+    }
+}

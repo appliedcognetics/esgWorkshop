@@ -1,0 +1,2167 @@
+{
+    "projectFileVersion": "2022-10-01-preview",
+    "stringIndexType": "Utf16CodeUnit",
+    "metadata": {
+        "projectKind": "CustomEntityRecognition",
+        "storageInputContainerName": "langmodel",
+        "settings": {
+            "confidenceThreshold": 1
+        },
+        "projectName": "lang_model_train",
+        "multilingual": true,
+        "description": "",
+        "language": "en"
+    },
+    "assets": {
+        "projectKind": "CustomEntityRecognition",
+        "entities": [
+            {
+                "category": "SDG 1. No Poverty"
+            },
+            {
+                "category": "SDG 2. Zero Hunger"
+            },
+            {
+                "category": "SDG 3. Good Health And Well Being"
+            },
+            {
+                "category": "SDG 4. Quality Education"
+            },
+            {
+                "category": "SDG 5. Gender Equality"
+            },
+            {
+                "category": "SDG 6. Clean Water And Sanitation"
+            },
+            {
+                "category": "SDG 7. Affordable And Clean Energy"
+            },
+            {
+                "category": "SDG 8. Decent Work And Economic Growth"
+            },
+            {
+                "category": "SDG 9. Industry Innovation And Infrastructure"
+            },
+            {
+                "category": "SDG 10. Reduce Inequalities"
+            },
+            {
+                "category": "SDG 11. Sustainable Cities And Communities"
+            },
+            {
+                "category": "SDG 12. Responsible Consumption And Production"
+            },
+            {
+                "category": "SDG 13. Climate Action"
+            },
+            {
+                "category": "SDG 14. Life Below Water"
+            },
+            {
+                "category": "SDG 15. Life On Land"
+            },
+            {
+                "category": "SDG 16. Peace Justice And Strong Institutions"
+            },
+            {
+                "category": "SDG 17. Partnerships For The Goals"
+            }
+        ],
+        "documents": [
+            {
+                "location": "10-hitachi-green-financing-framework-2021.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 3955,
+                        "regionLength": 13450,
+                        "labels": [
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 3955,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3973,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 4011,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 5768,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10123,
+                                "length": 38
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10179,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10213,
+                                "length": 44
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10272,
+                                "length": 48
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10450,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10724,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10768,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10921,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11019,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 16. Peace Justice And Strong Institutions",
+                                "offset": 17265,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 16. Peace Justice And Strong Institutions",
+                                "offset": 17388,
+                                "length": 17
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "3-2020july-db-sustainable-finance-framework-final-for-disclosure.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 5297,
+                        "regionLength": 16750,
+                        "labels": [
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5297,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5409,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5542,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5662,
+                                "length": 55
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5809,
+                                "length": 42
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5855,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 16. Peace Justice And Strong Institutions",
+                                "offset": 6080,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 16. Peace Justice And Strong Institutions",
+                                "offset": 6120,
+                                "length": 47
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 6174,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 1. No Poverty",
+                                "offset": 6190,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 6254,
+                                "length": 37
+                            },
+                            {
+                                "category": "SDG 1. No Poverty",
+                                "offset": 6343,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 6395,
+                                "length": 41
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 11198,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11493,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12005,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12053,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12103,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12123,
+                                "length": 5
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12132,
+                                "length": 4
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12140,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12156,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12171,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12203,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12268,
+                                "length": 1
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12342,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12440,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 13601,
+                                "length": 50
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 13838,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 13858,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 13879,
+                                "length": 43
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 20609,
+                                "length": 35
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 20646,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 20699,
+                                "length": 71
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 20869,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 20896,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 20954,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 21001,
+                                "length": 58
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 21097,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 4. Quality Education",
+                                "offset": 21168,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 16. Peace Justice And Strong Institutions",
+                                "offset": 21225,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 21340,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 21427,
+                                "length": 47
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 21497,
+                                "length": 35
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 21554,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 4. Quality Education",
+                                "offset": 21606,
+                                "length": 35
+                            },
+                            {
+                                "category": "SDG 4. Quality Education",
+                                "offset": 21655,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 4. Quality Education",
+                                "offset": 21687,
+                                "length": 46
+                            },
+                            {
+                                "category": "SDG 4. Quality Education",
+                                "offset": 21737,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 21794,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 21825,
+                                "length": 48
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 21877,
+                                "length": 53
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 22007,
+                                "length": 40
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "4-BASF_Green-Finance-Framework.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 1888,
+                        "regionLength": 17819,
+                        "labels": [
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 1888,
+                                "length": 41
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 1931,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 2108,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 2155,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 4813,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 6271,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9494,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17330,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17373,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17857,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 19139,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 19169,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 19431,
+                                "length": 53
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 19491,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 19580,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 19612,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 19634,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 19664,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 2. Zero Hunger",
+                                "offset": 19687,
+                                "length": 20
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "5-cs-green-bond-framework.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 2502,
+                        "regionLength": 7962,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 2502,
+                                "length": 35
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 2556,
+                                "length": 5
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 2576,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 2587,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 2703,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 2845,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 3248,
+                                "length": 37
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 3290,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 3392,
+                                "length": 47
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 3452,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 3505,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 3581,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 8. Decent Work And Economic Growth",
+                                "offset": 3653,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3983,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9401,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9560,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9695,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9826,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 9962,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10007,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10092,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10162,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10453,
+                                "length": 11
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "6-engie-green-bond-framework-March 2020-version finale 2_0.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 3759,
+                        "regionLength": 36674,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3759,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3783,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3809,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3829,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3852,
+                                "length": 7
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3861,
+                                "length": 6
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 11891,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 32521,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 33179,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 33260,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 33729,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 33884,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 34037,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 34053,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 34157,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 38710,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 40034,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 40204,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 40285,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 40363,
+                                "length": 37
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 40407,
+                                "length": 26
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "7-Eqix-SPO-Green-Finance-Framework_Final.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 1764,
+                        "regionLength": 22683,
+                        "labels": [
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 1764,
+                                "length": 61
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 3234,
+                                "length": 32
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 3514,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 4599,
+                                "length": 57
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 5941,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 8423,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 12079,
+                                "length": 33
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 14755,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 14940,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 15047,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 16429,
+                                "length": 33
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 16607,
+                                "length": 88
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 16735,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 16768,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16890,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 17170,
+                                "length": 49
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 23740,
+                                "length": 43
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 23895,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 24021,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 24104,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 24194,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 24241,
+                                "length": 45
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 24319,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 24415,
+                                "length": 32
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "8-glp-green-finance-framework_20201126_clean-final_0_0.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 2994,
+                        "regionLength": 7855,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 2994,
+                                "length": 43
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3038,
+                                "length": 4
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10471,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10841,
+                                "length": 8
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "9-green-finance-framework_2022.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 88,
+                        "regionLength": 7852,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 88,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 190,
+                                "length": 54
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 1150,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 1182,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 1778,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 3590,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3609,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 7605,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 7893,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 7923,
+                                "length": 17
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File6-GTC Green Bond Framework June_2021.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 3811,
+                        "regionLength": 6578,
+                        "labels": [
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 3811,
+                                "length": 48
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 3955,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 4184,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5114,
+                                "length": 72
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5188,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5615,
+                                "length": 37
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5680,
+                                "length": 38
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5765,
+                                "length": 51
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 5932,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 9185,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 9644,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9682,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10218,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10313,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10353,
+                                "length": 36
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File7-Green-Financing-Framework-2021.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 8463,
+                        "regionLength": 7236,
+                        "labels": [
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 8463,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 8515,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 8829,
+                                "length": 33
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 8945,
+                                "length": 30
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 9024,
+                                "length": 74
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 9273,
+                                "length": 45
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 9671,
+                                "length": 65
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9823,
+                                "length": 57
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10123,
+                                "length": 48
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10276,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10306,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10391,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 10577,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 10688,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 10765,
+                                "length": 65
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 10900,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 15. Life On Land",
+                                "offset": 11078,
+                                "length": 49
+                            },
+                            {
+                                "category": "SDG 15. Life On Land",
+                                "offset": 11139,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 15180,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 15357,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 15524,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 15551,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 15. Life On Land",
+                                "offset": 15659,
+                                "length": 40
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File8-green-finance-framework-lenovo.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 10498,
+                        "regionLength": 2519,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10498,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10694,
+                                "length": 70
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 10853,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 10916,
+                                "length": 63
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10986,
+                                "length": 132
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11725,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11787,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11856,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 12166,
+                                "length": 37
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 12229,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12621,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12649,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12720,
+                                "length": 44
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12769,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 12924,
+                                "length": 53
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 12982,
+                                "length": 35
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File9-greenfinance_framework_en.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 5836,
+                        "regionLength": 11594,
+                        "labels": [
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5836,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 5918,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 5962,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 8. Decent Work And Economic Growth",
+                                "offset": 6876,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 8. Decent Work And Economic Growth",
+                                "offset": 6909,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 7326,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 7384,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 8563,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 8585,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 8637,
+                                "length": 54
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 8761,
+                                "length": 30
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 9137,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 9222,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10159,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10182,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10206,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 10238,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11139,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11325,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 12170,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 13318,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 15741,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 15950,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 16119,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 16383,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16650,
+                                "length": 30
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17363,
+                                "length": 67
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File4-macquarie-green-finance-framework-2020.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 3064,
+                        "regionLength": 4478,
+                        "labels": [
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3064,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 3077,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 3094,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 5948,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 6225,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 6256,
+                                "length": 5
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 6265,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 6303,
+                                "length": 19
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6516,
+                                "length": 32
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6595,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6624,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6684,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6819,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 6940,
+                                "length": 6
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 6960,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 7037,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 7078,
+                                "length": 27
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 7153,
+                                "length": 30
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 7506,
+                                "length": 36
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File5-Intel_Green_Financing_Framework_vF.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 9208,
+                        "regionLength": 24525,
+                        "labels": [
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 9208,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16249,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 16444,
+                                "length": 43
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 16516,
+                                "length": 4
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 16540,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 16587,
+                                "length": 6
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16656,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16849,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16875,
+                                "length": 4
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16883,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 16898,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 16957,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 17257,
+                                "length": 23
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 17282,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 17380,
+                                "length": 32
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 17424,
+                                "length": 41
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17522,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17691,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 17920,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 18082,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 18239,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 18356,
+                                "length": 29
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 18521,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 18742,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 33692,
+                                "length": 41
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File1-Yanlord_Green_Finance_Framework.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 9898,
+                        "regionLength": 20592,
+                        "labels": [
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 9898,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10053,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10092,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10131,
+                                "length": 44
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10185,
+                                "length": 9
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10248,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 3. Good Health And Well Being",
+                                "offset": 10361,
+                                "length": 11
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 15045,
+                                "length": 30
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 15080,
+                                "length": 28
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 21974,
+                                "length": 48
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 22157,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 22183,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 22468,
+                                "length": 5
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22539,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22579,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22607,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22633,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22650,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22671,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22688,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22741,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22782,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22834,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 22885,
+                                "length": 49
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 23070,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 23094,
+                                "length": 16
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 30147,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 30184,
+                                "length": 12
+                            },
+                            {
+                                "category": "SDG 6. Clean Water And Sanitation",
+                                "offset": 30219,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 30384,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 30418,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 30466,
+                                "length": 24
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File10-green_finance_framework_neste.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 545,
+                        "regionLength": 25480,
+                        "labels": [
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 545,
+                                "length": 51
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 635,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 752,
+                                "length": 13
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 778,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 800,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 868,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 1189,
+                                "length": 25
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 1346,
+                                "length": 45
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 3663,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5014,
+                                "length": 22
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5320,
+                                "length": 32
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5409,
+                                "length": 33
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 5555,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 6697,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 7258,
+                                "length": 24
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 8370,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 8788,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 8825,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9313,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 9353,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 9589,
+                                "length": 35
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 9672,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 9784,
+                                "length": 56
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11021,
+                                "length": 18
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 11044,
+                                "length": 43
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 11091,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 8. Decent Work And Economic Growth",
+                                "offset": 12177,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 12216,
+                                "length": 40
+                            },
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 12265,
+                                "length": 34
+                            },
+                            {
+                                "category": "SDG 12. Responsible Consumption And Production",
+                                "offset": 12308,
+                                "length": 39
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 12356,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 17. Partnerships For The Goals",
+                                "offset": 12383,
+                                "length": 26
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 14842,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 15675,
+                                "length": 14
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 19421,
+                                "length": 33
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 19697,
+                                "length": 10
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 19801,
+                                "length": 31
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 20357,
+                                "length": 36
+                            },
+                            {
+                                "category": "SDG 9. Industry Innovation And Infrastructure",
+                                "offset": 20418,
+                                "length": 62
+                            },
+                            {
+                                "category": "SDG 7. Affordable And Clean Energy",
+                                "offset": 20663,
+                                "length": 15
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 20912,
+                                "length": 20
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 25919,
+                                "length": 21
+                            },
+                            {
+                                "category": "SDG 13. Climate Action",
+                                "offset": 25982,
+                                "length": 43
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File2-Yango Green Financing Framework.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 8650,
+                        "regionLength": 19,
+                        "labels": [
+                            {
+                                "category": "SDG 11. Sustainable Cities And Communities",
+                                "offset": 8650,
+                                "length": 19
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "File3-sparebank1-nord-norge-green-finance-framework.txt",
+                "language": "en",
+                "entities": [
+                    {
+                        "regionOffset": 5367,
+                        "regionLength": 38,
+                        "labels": [
+                            {
+                                "category": "SDG 1. No Poverty",
+                                "offset": 5367,
+                                "length": 17
+                            },
+                            {
+                                "category": "SDG 5. Gender Equality",
+                                "offset": 5386,
+                                "length": 19
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            }
+        ]
+    }
+}

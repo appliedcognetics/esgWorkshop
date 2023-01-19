@@ -1,0 +1,514 @@
+Sustainability.equinix.com
+Part 1: Introduction
+1.1 Company Overview
+Equinix, Inc., together with its subsidiaries (hereby 
+referred to as “Equinix” or the “Company”), connects 
+more than 9,500 companies directly to their customers 
+and partners across the world’s most interconnected 
+data center and interconnection platform. Platform 
+Equinix® combines a global footprint of state-ofthe-art International Business Exchange™ (IBX®) data 
+centers, a variety of interconnection solutions, unique 
+business and digital ecosystems and expert support. 
+Today, businesses leverage the Equinix interconnection 
+platform in 56 strategic markets across the Americas, 
+Asia-Pacific, and Europe, the Middle East and Africa 
+(“EMEA”). Equinix operates as a real estate investment 
+trust for federal income tax purposes (“REIT”).
+The Company’s objective is to expand its global 
+leadership position as the premier network and cloudneutral data center and interconnection platform for 
+enterprises, cloud and IT services providers, media and 
+content companies, financial services firms, IoT and 
+big data providers, and network and mobile services 
+providers. Equinix’s global, state-of-the-art data centers 
+meet strict standards of security, reliability, certification 
+and sustainability.
+1.2 Approach to Sustainability
+Equinix is dedicated to protecting, connecting and 
+powering a more sustainable digital world. The 
+Company is advancing a bold sustainability agenda and 
+has made meaningful progress across its environmental, 
+social and governance commitments. In 2019, 92% 
+of its global IBX energy consumption was covered 
+by renewable energy sources. Major sustainability 
+achievements in 2019 include:
+§ Recognition by the U.S. Environmental Protection 
+Agency (EPA) for its leading green power use (the 
+same Green Power Leadership Award was granted to 
+Equinix in 2018 and 2017).
+§ Ranked number four on the EPA’s National Top 
+100 Green Power Partners list. 
+§ Ranked 89th out of 992 public companies and 
+2nd in the Real Estate sector, including 1st for the 
+environment in the sector, by Forbes/Just Capital’s 
+America’s Most JUST Companies.
+Advocacy and transparency are hallmarks of Equinix’s 
+sustainability approach. The Company continues to 
+expand its work with the Renewable Energy Buyers 
+Alliance (REBA) as a founding and board member, 
+educating peers, advocating for a swift transition toward 
+low carbon energy and calling on other companies to 
+join REBA and set renewable energy targets.
+The Company is committed to transparency around the 
+impact of its operations and has published an annual 
+Global Reporting Initiative (GRI)-aligned sustainability 
+report since 2015. Equinix also empowers its customers 
+to quantify their environmental impacts within Equinix 
+infrastructure—including their energy consumption, 
+renewable energy usage and carbon footprints. The 
+Company offers customers customized Green Power 
+Reports based on the principles of The Greenhouse Gas 
+(GHG) Protocol. These reports equip customers that 
+are colocated in Equinix IBX data centers with the data 
+they need to understand their renewable energy usage 
+and meet their greenhouse gas reduction targets.
+Equinix’s Corporate Sustainability Program is comprised 
+of environment, social and governance (ESG) initiatives 
+that focus on material issues to positively impact key 
+stakeholders.
+Environment: 
+§ Protecting our planet and climate using low-carbon 
+technologies.
+§ Protecting worldwide energy and natural resources by 
+reducing our consumption. 
+§ Protecting our infrastructure through design and 
+innovation.
+Report 
+Sustainability Program Office
+GREEN FINANCE FRAMEWORK
+Sustainability.equinix.com
+Social: 
+§ Connecting our employees to the best opportunities 
+the digital world has to offer.
+§ Connecting the communities we inhabit to the 
+advantages of a digital world.
+Governance: 
+§ Powering global trust. 
+§ Powering global responsibility.
+Equinix routinely evaluates its ESG programs to 
+increase the benefits it brings in a changing world. Our 
+materiality assessment guides our priorities around 
+sustainability to underscore the most important ESG 
+issues to both the business and to stakeholders. Based 
+on this materiality assessment, Equinix reports on the 
+most material ESG issues, summarized below, and sets 
+long-term targets to mitigate any potential ESG risks 
+identified (See Section 1.4).
+Equinix Material ESG Issues
+Environment Social Governance
+Energy and 
+renewables
+Health and safety – 
+physical, emotional 
+and wellbeing
+Board 
+management and 
+diversity
+Carbon emissions 
+reduction
+Diversity, inclusion 
+and belonging
+Ethics and 
+integrity
+Innovation and 
+building green 
+data centers
+Meaningful 
+work and career 
+development
+Public policy and 
+government affairs
+Healthy and 
+sustainable offices
+Community 
+engagement – 
+linking purpose 
+and impact
+Privacy and 
+security
+Through our sustainability efforts, we are creating 
+shared value with our customers, partners, investors 
+and employees. Our approach has won numerous 
+accolades from a variety of organizations, including:
+More information about our approach and progress 
+can be found on our Corporate Sustainability Program 
+website: sustainability.equinix.com.
+1.3 Sustainability Reporting
+Alignment to the United Nations’ Sustainable 
+Development Goals
+Equinix, along with other companies, countries 
+and Non-governmental Organizations (NGOs), has 
+chosen to align its objectives with the United Nations 
+Sustainable Development Goals (SDGs) to accelerate 
+collective progress on the world’s most important 
+social and environmental challenges. The Company has 
+prioritized alignment with the six (6) SDGs that are the 
+most relevant and material to its business. Additionally, 
+other SDGs such as #6 Clean Water and Sanitation, 
+#11 Sustainable Cities and communities and #12 
+Responsible Consumption and Production, are areas 
+the Company can have an impact on through its green 
+initiatives.
+UN SDGs Equinix has prioritized
+Alignment to reporting frameworks and initiatives
+As part of its annual sustainability report, Equinix 
+continues to evolve its reporting to meet the 
+requirements for a variety of industry frameworks. 
+Any impact reporting as part of the Green Finance 
+Framework commitments will align with ESG reporting 
+frameworks wherever possible, including:
+Equinix currently reports its sustainability impacts in its 
+annual sustainability report in accordance with the GRI 
+Standards-Core option. Equinix’s energy consumption, 
+renewable energy, and GHG emissions are assured by an 
+ Sustainability Program Office Report 2
+Sustainability.equinix.com
+independent auditor to ISO 14064 standards. Equinix has 
+reported its climate change data and risk management 
+procedures to CDP (formerly Carbon Disclosure Project) 
+on an annual basis since 2015. Equinix also responds 
+to the CDP Supply Chain questionnaire on behalf of 
+17 global customers. Furthermore, Equinix is extending 
+its leadership into its supply chain as it engages its 
+procurement department on revisions to its Business 
+Partner Code of Conduct to ensure its suppliers meet 
+sustainability and diversity criteria.
+1.4 Environmental Commitments
+Pertinent to this Green Finance Framework (this 
+framework), Equinix has made several long-term 
+environmental commitments. The Company intends 
+to be a good steward of the environment and all the 
+resources it consumes, while also helping its customers 
+operate more sustainably. Equinix recognizes that its 
+operational footprint in its data centers directly impacts 
+its customers’ abilities to maintain green digital supply 
+chains. The Company’s goals include:
+§ Sustainable Buildings—Building and maintaining 
+healthy sustainable office and data center settings to 
+promote responsible living across its portfolio. LEED 
+and other standards are visible reminders that we 
+must minimize the use of all resources and operate 
+more sustainably and with a lower operational and 
+embedded carbon footprint.
+§ Renewable Energy—Reaching a long-term goal of 
+100% clean and renewable energy across its global 
+portfolio. As of December 31, 2019, Equinix is currently 
+at 92% of this goal and has 225 MW of wind power 
+under long-term contracts as well as numerous supply 
+contracts for renewable power around the world.
+§ Energy Efficiency—Deploying best-in-class data 
+center energy efficiency technologies and innovations 
+for the reduction of energy consumption around the 
+world including retrofits, new builds and working with 
+landlords where possible. Among other initiatives, 
+Equinix’s Center of Excellence for Energy Efficiency is 
+driving a global approach to cooling our data centers 
+more efficiently. 
+§ Greenhouse Gas Emissions Reduction—Responding 
+to the threat of global climate change and uncertain 
+regulatory paradigms. Equinix is managing its global 
+carbon footprint across direct (Scope 1), indirect 
+energy (Scope 2), and indirect value chain (Scope 
+3) emissions—working to quantify and manage all 
+aspects of its emissions. Since 2015, Equinix has 
+reduced its Scope 2 emissions 60%, even as its global 
+footprint has doubled.
+§ Accountability—Accepting responsibility for climate 
+change and our proportional share of GHG emissions 
+and the need for urgent reduction. Equinix is a 
+member of leading organizations—such as Accounting 
+for Sustainability (A4S)—working toward corporate 
+accountability on the management and disclosure of 
+nonfinancial impacts (e.g., climate change).
+2,500
+2,340
+*Only U.S. is shown 
+ for Americas
+2,190
+890
+690
+1,940
+1,850
+0 500 1,000 1,500 2,000
+Americas*
+Asia-Pacific
+EMEA
+GWh
+Electricity
+Renewable Energy
+Equinix has made significant strides toward reaching its 100% 
+clean and renewable energy goal as reported in its 2019 Corporate 
+Sustainability Report which was released on May 5, 2020.
+Part 2: Green Finance Framework
+The ICMA Green Bond Principles and the LMA, APLMA 
+& LSTA Green Loan Principles are a set of voluntary 
+guidelines that recommend transparency and disclosure 
+and promote integrity in the development of green debt 
+like Green Bonds, Green Loans, Green Schuldscheine, 
+Green Commercial Paper, and Green Private Placements. 
+This Framework follows the Green Bond Principles 
+(GBP) 2018 and the Green Loan Principles (GLP) 2020, 
+both of which provide guidelines in four key areas:
+1. Use of Proceeds
+2. Process for Project Evaluation and Selection
+3. Management of Proceeds
+4. Reporting
+This Framework may be used to govern the financing 
+of proceeds of which are intended to be used for a 
+portfolio of eligible green projects (the “Eligible Green 
+Projects” or the “Eligible Green Project Portfolio”) 
+defined, selected, tracked and reported on in 
+accordance with this Framework.
+ Sustainability Program Office Report 3
+Sustainability.equinix.com
+2.1 Use of Proceeds
+An amount equal to the net proceeds from the 
+contemplated green bond issuance by Equinix, Inc. (the 
+“Green Financing”) is intended to be applied to fund or 
+refinance Eligible Green Projects that are intended to 
+provide clear environmental benefits. 
+The GBP recognizes eligible green categories 
+for utilization of Green Financing net proceeds, 
+contributing to five high-level environmental objectives: 
+climate change mitigation, climate change adaptation, 
+natural resource conservation, biodiversity conservation 
+and pollution prevention and control.
+In line with the GBP and GLP, Equinix intends to 
+allocate an amount equal to 100% of the Green 
+Financing net proceeds to a portfolio of Eligible Green 
+Projects, outlined in Table 1 below. These Eligible 
+Green Projects showcase how Equinix is building and 
+operating sustainably. These include:
+§ Green Buildings 
+§ Renewable Energy
+§ Energy Efficiency
+§ Sustainable Water and Wastewater Management
+§ Waste Management
+§ Clean Transportation
+Table 1 also provides examples of potential use of 
+proceeds within each of the stated six Eligible Green 
+Project categories. Equinix also maps the project 
+categories to the United Nations SDGs. 
+ICMA GBP/GLP 
+Category UN SDG Eligibility Criteria
+Green Buildings 1. Expenditures related to the design, construction and maintenance of buildings – data 
+centers and offices – that have recently or are expected to achieve a LEED V4.0 or V4.1 Gold 
+or greater certification or other equivalent local and regional certifications as applicable and 
+outlined by Equinix’s Global Design & Construction procedures -or- are data centers with 
+a design average annual Power Usage Effectiveness (PUE) at or below 1.451. Certifications 
+include but not limited to:
+§ LEED V4.0 or V4.1 (Gold, Platinum)
+§ Green Globes (3 or 4 Globes)
+§ BREEAM (Very Good, Excellent, or Outstanding)
+§ SS 564 Singapore Green Data Center Standard
+§ BCA Green Mark GoldPlus or better
+§ NABERS 4.5 stars or better
+2. Expenditures related to quantifying the embodied carbon emissions in construction, for 
+example: 
+§ Whole building lifecycle analysis (WBLCA) to quantify the carbon emissions associated with 
+the built environment of a data center2
+1 Power Usage Effectiveness (PUE) is a widely accepted metric for measuring data center efficiency. As recently as July 2020, the Uptime Institute 
+has surveyed data center operators and reported global average PUE for data centers as 1.59, a slight improvement since 2019 but no better than 
+2018. Equinix’s commitment to the environment extends to its design standards which ensure that the IT equipment inside our sites is cooled as 
+efficiently as possible; as such the company has selected a target PUE of less than or equal to 1.45, and well below industry benchmark. Reference: 
+UI Intelligence Report 38. Uptime Institute Global Data Center Survey 2020. R. Ascierto and A. Lawrence. July 2020. https://uptimeinstitute.
+com/2020-data-center-industry-survey-results.
+2 The amount of CO2 created by concrete is not yet well defined or accessible across the industry. Over time, Equinix plans to develop a benchmark 
+around the CO2 intensity (kg CO2e / gross square feet) of the concrete and pre-cast concrete used in its buildings and develop a low-carbon 
+concrete standard.
+Table 1: Eligible Green Projects and potential use of proceeds by Equinix.
+ Sustainability Program Office Report 4
+Sustainability.equinix.com
+ICMA GBP/GLP 
+Category UN SDG Eligibility Criteria
+Renewable 
+Energy
+1. Expenditures and associated costs of renewable energy generation and procurement at 
+Equinix sites and offices:
+§ Direct & virtual power purchase agreements (PPAs)
+§ On-site renewable energy generation (e.g., installed solar capacity, biogas or hydrogen 
+fuel cells)
+§ Eligible PPAs will be selected to meet Equinix’s core “Renewable Energy Principles,” as 
+published on Equinix’s Corporate Sustainability website.3
+2. Associated costs of conversion of onsite backup generation to clean fuels: 
+§ Cost to convert to biodiesel, HVO or other carbon-neutral (non-fossil) fuel 
+Energy Efficiency Expenditures and investments to increase the energy performance of new or existing Equinix 
+sites. Examples of projects may include, but are not limited to:
+§ Upgrades, retrofits or improvements that result in either (1) a 2% per annum energy 
+efficiency improvement in a site’s power usage by a reduction in losses or improvement in 
+electrical or mechanical plant efficiencies, or (2) a top 15% score according to the U.S. EPA 
+ENERGY STAR Industry (Data Centers) benchmark
+§ Installing innovative cooling systems (e.g., aquifer thermal energy system cooling)
+§ Deploying optimization technologies, including sensors and controls for energy 
+management, and employment of artificial intelligence or expert systems to optimize plant 
+efficiency and improve plant maintenance
+§ Community heating and cooling schemes to increase the amount of co-benefits data centers 
+can provide to local communities such as driving wider energy and carbon savings
+Sustainable Water 
+& Wastewater 
+Management
+Expenditures and investments to implement sustainable water management projects at data 
+centers:
+§ Water-efficient cooling solutions 
+§ Water infrastructure upgrades (including metering and reporting)
+§ Shared cooling systems (e.g., river water cooling loops)
+§ Measures to promote water efficiency and reductions in the use of chemical treatment of 
+water used 
+§ Green or living roofs resulting in stormwater runoff reductions 
+§ Rainwater capture systems
+Waste 
+Management
+Expenditures and investments on pollution prevention and control including waste reduction 
+and recycling: 
+§ Equipment takeback programs and initiatives 
+Clean 
+Transportation
+Expenditures and investments to implement clean transportation solutions that positively 
+impact employees and communities who use or are located near our data centers:
+§ EV charging stations to promote electric vehicles
+3 https://sustainability.equinix.com/environment/renewable-energy/
+Table 1: Eligible Green Projects and potential use of proceeds by Equinix. (continued)
+ Sustainability Program Office Report 5
+Sustainability.equinix.com
+2.2 Process for Project Evaluation 
+and Selection
+Projects financed and/or refinanced with the Green 
+Financing net proceeds are evaluated and selected 
+based on compliance with the Eligible Green 
+Project eligibility criteria listed above by Equinix’s 
+Green Finance Committee. Equinix’s Green Finance 
+Committee consists of representatives from Equinix’s 
+Sustainability Program Office and representatives from 
+the Legal, Treasury and Investor Relations functions, 
+as well as other parties to be nominated as subject 
+matter experts.
+Equinix complies with all local and regional required 
+regulations at its sites, including environmental 
+impact assessments and ongoing environmental and 
+health and safety requirements. This includes sites 
+financed or refinanced with an amount equal to the 
+net proceeds of the sale of any Green Financing 
+instruments, including green bonds (the “Green 
+Financing Instruments”). Equinix also applies risk 
+management measures in its capital allocation 
+decisions which are supported by a company-wide 
+planning, reporting and controlling system. 
+2.3 Management of Proceeds
+Equinix intends to allocate an amount equal to the net 
+proceeds from the Green Financing Instruments to an 
+Eligible Green Project Portfolio, selected in accordance 
+with the use of proceeds criteria and evaluation and 
+selection process presented above. These projects can 
+be new construction, existing projects, and can also 
+include refurbishments and refinancings of existing 
+projects.
+To ensure an amount equal to the net proceeds is 
+allocated in accordance with this Green Finance 
+Framework, the Equinix Green Finance Committee will 
+track investments in Eligible Green Projects funded, 
+acquired or developed within the period commencing 
+two years before the issuance of the applicable Green 
+Financing Instruments and ending on the maturity date 
+of the applicable Green Financing Instruments.
+Equinix will strive, over time, to achieve a level of 
+allocation for the Eligible Green Project Portfolio which 
+matches or exceeds the balance of net proceeds from 
+its outstanding Green Financings. Additional Eligible 
+Green Projects will be added to the Company’s Eligible 
+Green Project Portfolio to the extent required to ensure 
+that the net proceeds from the Green Financing and 
+any such future financings will be allocated to Eligible 
+Green Projects.
+Pending the allocation of the Green Financing net 
+proceeds, the Company will hold or invest an amount 
+equal to the unallocated balance of the net proceeds 
+in cash, cash equivalents and/or U.S. government 
+securities. In the case of divestment or if a project 
+no longer meets the Eligible Green Project eligibility 
+criteria listed above, Equinix intends to reallocate the 
+funds to one or more other Eligible Green Projects.
+2.4 Reporting
+Equinix intends to make public and keep readily 
+available a report of the net proceeds allocation from 
+the Green Financing starting from the first anniversary 
+of the closing of the Green Financing and to be 
+updated annually until the full allocation of the net 
+proceeds is reported or the applicable Green Financing 
+Instruments are no longer outstanding. Equinix intends 
+to show the allocation and impact of the net proceeds 
+of the Green Financing to the Eligible Green Project 
+Portfolio at least at the category level and on an 
+aggregated basis for all of Equinix’s green bonds and 
+other potential Green Financing Instruments that are 
+outstanding from time to time.
+Equinix intends to align the reporting with the portfolio 
+approach described in “The Green Bond Principles - 
+Harmonized Framework for Impact Reporting” (ICMA, 
+April 2020).
+Allocation Reporting
+The allocation report will provide, on a portfolio basis, 
+on indicators such as:
+§ Total amount of proceeds allocated to eligible 
+projects.
+§ Balance of unallocated proceeds.
+§ Amount or the percentage of new financing and 
+refinancing.
+Impact Reporting
+The impact report may provide:
+§ Description of the Eligible Green Projects.
+§ Breakdown of Eligible Green Projects by GBP 
+category.
+§ Metrics regarding projects’ environmental impacts 
+(see examples in Table 2).
+ Sustainability Program Office Report 6
+Sustainability.equinix.com Questions? Equinix.com/Contact-Us
+The global interconnection platform for a cloud-first world
+Globally deploy your infrastructure and services wherever opportunity leads. 
+Directly and privately interconnect to your most important clouds, services and 
+networks. Activate edge services on demand to scale for success. On Platform 
+Equinix, you’ll reach everywhere, interconnect everyone and integrate everything 
+you need to create your best future. Get digital ready with Equinix.
+© 2020 Equinix, Inc.
+Equinix-Sustainability Program Office-Green Finance Framework_D7.1_US-EN | 12272 | v090320 | 0820 | Q120
+Both the allocation reporting and impact reporting will 
+be made available via Equinix’s Corporate Sustainability 
+website. 
+2.5 External Review
+Second-Party Opinion (pre-issuance)
+This Framework has been reviewed by Sustainalytics 
+who has issued a Second-Party Opinion. The 
+Second-Party Opinion and this Framework will be 
+made available to investors via Equinix’s Corporate 
+Sustainability website.
+Verification (post-issuance)
+Equinix intends to request, one year after issuance, after 
+full allocation of the net proceeds from the sale of the 
+Green Financing Instruments or following any material 
+events related to the Eligible Green Project Portfolio, 
+assurance by its external auditor or other third party of 
+a management statement on the allocation of the Green 
+Financing net proceeds to the Eligible Green Project 
+Portfolio.
+Table 2: Examples of potential impact reporting metrics for each Green Project Category.
+GBP/GLP Category Examples of Reporting
+Green Buildings § Data center or office space that is certified including the type of scheme, certification level and sq. m./sq. ft certified
+§ Design average annual PUE (#) (site-level)
+§ Greenhouse gas emissions avoided (mtCO2e) over a building’s lifetime or annually
+§ Embodied carbon quantified (kg CO2e/square foot by project)
+Renewable Energy § Electricity from clean and renewable energy (MWh)
+§ Percent renewable energy for global portfolio (MWh renewable / MWh electricity consumption)
+§ Annual greenhouse gas emissions reduced/avoided (mtCO2e)
+Energy Efficiency § Energy savings (MWh/year or over project lifetime) 
+§ GHG emissions avoided (mtCO2e)
+§ Operational average annual PUE (#) (site-level)
+Sustainable Water 
+and Wastewater 
+Management
+§ Water use savings (gallons)
+§ Avoided water treatment chemicals (amount and type)
+§ Reclaimed (greywater or rainwater) water used (gallons)
+Waste 
+Management § Waste recycled (tons by type)
+§ Waste diverted from landfills (tons)
+Clean 
+Transportation § Electric vehicle charging points installed (#)
+ Sustainability Program Office Report 7

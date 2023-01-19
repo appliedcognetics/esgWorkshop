@@ -1,0 +1,604 @@
+Lenovo Green Finance Framework 2022 1
+ 
+ 
+ 
+ 
+ 
+ 
+Lenovo Group Limited 
+Green Finance Framework 
+Stock Code 992.HK 
+July 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Lenovo Green Finance Framework 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+3 1.0 Introduction 
+4 About Lenovo Group 
+5 ESG Governance and Management System 
+6 Signatory of the UN Global Compact 
+7 Establishment of Science-Based Targets 
+8 Contributions to Society 
+10 2.0 Green Finance Framework 
+11 Use of Proceeds 
+13 Process for Project Evaluation and Selection 
+15 Management of Proceeds 
+16 Reporting 
+17 External Review 
+18 3.0 Amendments to the Framework 
+Lenovo Green Finance Framework 2022 3
+ 
+Introduction 
+ 
+ 
+ 
+4 About Lenovo Group 
+5 ESG Governance and Management System 
+6 Signatory of the UN Global Compact 
+7 Establishment of Science-Based Targets 
+8 Contributions to Society 
+ 
+4 Lenovo Green Finance Framework 2022 
+ABOUT LENOVO GROUP 
+ 
+ 
+ 
+Lenovo Group (“Lenovo” or the 
+“Company”) is a USD 71 billion 
+revenue, Fortune Global 500 
+company that serves customers in 
+more than 180 markets around the 
+world1
+. The Company designs, 
+develops, manufactures and 
+distributes a wide range of smart 
+devices (including personal 
+computers, tablets, smartphones), 
+infrastructure, solutions and services. 
+It is the world’s largest personal 
+computer vendor by unit of sales as 
+of June 20222. An international 
+organization with expansive coverage 
+around the world, Lenovo is listed in 
+Hong Kong SAR, China, with 
+headquarters in Beijing, China and 
+North Carolina, USA. 
+Lenovo is focused on a bold vision to 
+deliver smarter technology for all and 
+create a more inclusive, trustworthy, 
+and sustainable digital society for 
+everyone, everywhere. To achieve 
+this, the Company is developing 
+world-changing technologies that 
+power its millions of customers with 
+its wide range of electronic devices 
+and infrastructure, and at the same 
+time empower its customers with its 
+innovative IT solutions, tailoredservices, and software. 
+ 
+ 
+ 
+1
+ Data as of 31st March 2022, https://doc.irasia.com/l
+istco/hk/lenovo/annual/2022/ar2022.pdf 
+2 Data for 2Q 2022, https://www.idc.com/getdoc.js
+p?containerId=prAP49455522
+Lenovo Green Finance Framework 2022 5
+ESG GOVERNANCE AND MANAGEMENT SYSTEM 
+The Company has established robust 
+ESG governance structure, allowing 
+for accountability and transparency 
+at the highest levels of the 
+organization. The Chief Corporate 
+Responsibility Officer provides 
+executive leadership for the 
+Company’s ESG position, including 
+any climate change programs or 
+initiatives. In addition, the ESG 
+Executive Oversight Committee 
+provides strategic direction and 
+facilitates the coordination of ESG 
+efforts across the Company. The 
+Board of Directors is briefed on the 
+Company’s ESG strategy and 
+progress towards its climate change 
+mitigation goals through formal 
+periodic reporting. 
+The Company manages the 
+environmental elements of its 
+operations through a comprehensive 
+global environmental management 
+system (EMS)3 that covers the 
+Company’s worldwide product 
+design, development, and 
+manufacturing operations (including 
+distribution, fulfillment, and internal 
+repair operations) for computer 
+products, data center products, 
+mobile devices, smart devices, and 
+accessories. The scope encompasses 
+these same activities when 
+performed by its subsidiary and/or 
+affiliate companies. 
+Within the framework of the EMS, the 
+Company annually identifies and 
+evaluates the aspects of its 
+operations that have actual or 
+potential significant impacts on the 
+environment. Metrics and controls are 
+established for these significant 
+environmental aspects, and 
+performance relative to these metrics 
+is tracked and reported. Performance 
+targets are then established for select 
+environmental aspects annually, 
+taking into consideration 
+performance relative to the 
+environmental metrics, the 
+Environmental Affairs Policy, 
+regulatory requirements, customer 
+requirements, stakeholder input, 
+environmental and financial impact, 
+and management directives. 
+ 
+3 https://www.lenovo.com/us/en/compliance/iso-1
+4001/
+6 Lenovo Green Finance Framework 2022 
+SIGNATORY OF THE UN GLOBAL COMPACT 
+ 
+Lenovo is a signatory of the UN 
+Global Compact and has aligned its 
+strategies and operations with the 
+Ten Principles regarding human 
+rights, labor, environment, and anticorruption. These specific initiatives 
+aligned with the UN Global Compact, 
+combined with Lenovo’s wide array 
+of other commitments toward the 
+environment and society, contribute 
+to the United Nations Sustainable 
+Development Goals (“SDGs”). 
+Regarding human rights and labor 
+practices, Lenovo has established its 
+Human Rights Policy4, which 
+communicates its respect for human 
+rights in all that it does and how it 
+extends those rights to employees 
+and business partners. Moreover, the 
+Company upholds and supports the 
+protection of internationally 
+proclaimed human rights and does 
+not permit the use of child labor, 
+forced labor or coercion, including 
+physical punishment, in any of its 
+operations. Lenovo adopted a Policy 
+on Minerals from Conflict-Affected 
+and High Risk Area5 in line with 
+international industry standards, and 
+requires its suppliers to implement 
+the RBA Code of Conduct. 
+Lenovo has an extensive number of 
+commitments and initiatives toward 
+the environment. Specific green 
+projects include, improvement of 
+energy efficiency within the 
+Company, increasing of its renewable 
+energy capacity, recycling and reuse6, 
+waste management and separation of 
+waste from Lenovo’s day-to-day 
+operations, amongst many others. It 
+has also established a corporate 
+Climate and Energy Policy7, executed 
+a long-term comprehensive Climate 
+Change Strategy8 and set corporatewide objectives and targets which 
+support the above Policy and 
+Strategy9. 
+To safeguard itself from corruption, 
+the Company has put in place a strict 
+policy on anti-bribery and anticorruption10. It has also established a 
+policy on gifts, entertainment, 
+corporate hospitality, and travel to 
+reinforce provisions in the Company’s 
+Code of Conduct11. Furthermore, 
+employees may not directly or 
+indirectly offer or give anything of 
+value to any person, including to 
+government officials, to influence 
+official action or to secure an 
+improper advantage as defined by 
+applicable laws. 
+ 
+ 
+4 https://www.lenovo.com/us/en/social_responsibil
+ity/human_rights_policy
+5 https://static.lenovo.com/ww/docs/sustainability
+/Conflict_Minerals_Policy.pdf 
+6 https://www.lenovo.com/us/en/sustainability-pro
+duct-recycling/
+7 https://www.lenovo.com/us/en/social_responsibil
+ity/climate_policy/ 
+8 https://www.lenovo.com/us/en/sustainability-cli
+mate-change-approach#change-strategy
+9 https://investor.lenovo.com/en/sustainability/rep
+orts/FY2021-lenovo-sustainability-report.pdf
+10 https://static.lenovo.com/ww/docs/sustainability
+/lenovo-anti-corruption-bribery-policy.pdf
+11 https://www.lenovo.com/us/en/sustainability-eth
+ical-business
+Lenovo Green Finance Framework 2022 7
+ESTABLISHMENT OF SCIENCE-BASED TARGETS 
+Recognizing the potential economic 
+and societal risks of climate change, 
+the Company established ScienceBased emissions reduction targets in 
+June 2020, which were validated by 
+the Science-Based Targets initiative 
+(SBTi). Its Scope 1 and 2 emissions 
+reduction targets are consistent with 
+limiting warming to 1.5°C, the most 
+ambitious goal of the Paris 
+Agreement, and its Scope 3 
+emissions reduction targets meet 
+ambitious criteria according to the 
+SBTi’s methodology. The targets all 
+have a target date of FY 2029/30, 
+are measured from a base year of FY 
+2018/19, and consist of: 
+ 
+8 Lenovo Green Finance Framework 2022 
+CONTRIBUTIONS TO SOCIETY 
+The Company’s social investments are focused on STEM (science, technology, 
+engineering, and math), education and empowering diverse and under resourced 
+populations. The Company has a goal of committing a minimum of 0.5% of its 
+pretax income to global social investment programs and initiatives. 
+ 
+Lenovo Green Finance Framework 2022 9
+The Company’s social investments are executed through charitable corporate 
+contributions and its charitable entities: Lenovo Foundation, which is registered in 
+the US, and Lenovo Foundation Beijing. Social investments are managed by a 
+central team that is focused on collaborating across business units and worldwide 
+geographies to maximize the charitable impacts of the Company’s giving. These 
+charitable efforts revolve around specific social objectives, including but not 
+limited to: 
+For more details and the latest information about sustainability at Lenovo, please 
+view the Company’s Environmental, Social and Governance Report12. 
+ 
+ 
+12 https://investor.lenovo.com/en/sustainability/sustainability_reports.php
+10 Lenovo Green Finance Framework 2022 
+ 
+ Green Finance 
+Framework
+ 
+ 
+ 
+ 
+ 
+11 Use of Proceeds 
+13 Process for Project Evaluation and Selection 
+15 Management of Proceeds 
+16 Reporting 
+17 External Review 
+ 
+ 
+Lenovo Green Finance Framework 2022 11
+The Green Finance Framework (“Framework”) sets out the governance and 
+processes under which Lenovo13 intends to issue Green bonds or loans and in 
+doing so contribute to positive environmental and social impacts. 
+The net proceeds of any green finance instruments or an equivalent amount will 
+be allocated for the financing or refinancing of eligible green projects. 
+The Framework aligns with International Capital Markets Association (“ICMA”) 
+Green Bond Principles (2021), Loan Market Association (“LMA”), Asia Pacific Loan 
+Market Association (“APLMA”), and Loan Syndications and Trading Association 
+(“LSTA”) Green Loan Principles (2021) and adopts the following key pillars: 
+• Use of Proceeds 
+• Process for Project Evaluation and Selection 
+• Management of Proceeds 
+• Reporting 
+• External Review 
+ 
+USE OF PROCEEDS 
+The net proceeds raised under this Framework or an equivalent amount will be 
+used to finance or refinance in whole or in part, expenditure on projects that are 
+consistent with the eligibility criteria set out below. 
+Eligible Green Projects 
+ 
+CATEGORIES ELIGIBILITY CRITERIA CONTRIBUTION TO 
+SDGS 
+Energy 
+Efficiency 
+Investments and expenditure related to energyefficiency features, upgrades and retrofitting 
+that result in improved energy efficiency, 
+including but not limited to: 
+• Installation of low energy lighting and 
+related electrical equipment 
+• HVAC system and chillers energy 
+efficiency upgrades 
+• Equipment replacement 
+• Building energy management systems 
+• Maintenance program 
+• Data center / computer server room 
+energy efficiency upgrades14 
+• Energy efficiency in production processes 
+Investments and expenditure related to the 
+research, design, and development of energy-
+ 
+13 Includes Lenovo and its subsidiaries. 
+14 Data center / computer server room is considered energy efficient only if it achieves an annualized Power 
+Usage Effectiveness of <1.5 
+12 Lenovo Green Finance Framework 2022 
+CATEGORIES ELIGIBILITY CRITERIA CONTRIBUTION TO 
+SDGS 
+efficient products15 that result in improved 
+energy efficiency, reduced product carbon 
+footprint, or improved emission intensity of sold 
+products. 
+Renewable 
+Energy 
+Investments and expenditure related to the 
+construction, operation, and procurement (longterm, project-tied power purchase agreements) 
+of renewable energy sources, including but not 
+limited to: 
+• On-site or off-site solar projects 
+• Offshore and onshore wind 
+• Biofuels and biogas 
+ 
+Green 
+Buildings 
+Investments and expenditure related to the 
+construction, renovation, retrofitting of new 
+and/or existing buildings/facilities that have 
+received or are expected to receive a recognized 
+local and/or international green building 
+certification, such as: 
+• China Green Building Evaluation Label – 2 
+stars or above 
+• BEAM Plus – gold or above 
+• U.S. Leadership in Energy and 
+Environmental Design (LEED) – gold or 
+above 
+ 
+Circular 
+Economy 
+Adapted 
+Products, 
+Production and 
+Processes 
+Investments and expenditure related to the 
+design, development, and introduction of 
+products, packaging and services that support a 
+circular economy through actions including but 
+not limited to: 
+• Use of recycled content 
+• Use of reusable or recyclable materials, 
+components and products 
+• Improving the repairability or recyclability 
+• Extending product life 
+• Offering of services to support reuse or 
+recycling of end of life electronics and IT 
+products 
+ 
+Clean 
+Transportation 
+Investments and expenditure in low energy 
+consuming or low emission transportation 
+assets. 
+ 
+ 
+15 Energy efficient products include, but are not limited to those that meet the current ENERGY STAR , EPEAT 
+(Silver or above) and /or TCO requirement
+Lenovo Green Finance Framework 2022 13
+Exclusions Criteria 
+In any case, eligible assets/projects exclude the types of activities below: 
+• Production or trade of any product or activity deemed illegal under host 
+country laws or regulations or international conventions and agreements, or 
+subject to international bans 
+• Production or trade of any product or activity deemed unaligned with the 
+UN Guiding Principles on Business and Human Rights, International Labour 
+Organization Declaration on Fundamental Principles and Rights at Work, 
+United Nations Universal Declaration of Human Rights, and Responsible 
+Business Alliance Code of Conduct 
+PROCESS FOR PROJECT EVALUATION AND 
+SELECTION 
+The Lenovo Green Finance Working Group (“GFWG”) is responsible for the 
+management of this Framework and the compliance of all finance instruments 
+issued under the Framework. The GFWG consists of senior representatives from 
+the following departments: 
+14 Lenovo Green Finance Framework 2022 
+The GFWG may be supplemented 
+from time to time, or expanded, by 
+the inclusion of representatives from 
+other relevant teams. The GFWG 
+may consult with other organizations 
+at Lenovo for guidance and direction 
+including the ESG Executive 
+Oversight Committee (“ESG EOC”). 
+For new issuances, Finance will 
+coordinate and compile the 
+submission of identified projects for 
+the GFWG’s review. The identified 
+projects’ environmental and/or social 
+credentials will be obtained and 
+confirmed via liaison with relevant 
+business partners and internal 
+departments. The GFWG will 
+consider potential projects, assess 
+their eligibility, and may approve 
+those that qualify as eligible projects. 
+The GFWG will consider all proposed 
+projects holistically and aim to ensure 
+that all approved projects financed 
+under this Framework have netpositive environmental and social 
+impacts for stakeholders and the 
+wider society. As part of the 
+assessment process, the GFWG will 
+consider: 
+The proceeds of each green debt 
+instrument can be used for both the 
+financing and/or refinancing of 
+eligible projects. 
+The GFWG will review the eligibility 
+of those projects every year. Should a 
+project be considered by GFWG to 
+be no longer meeting the criteria 
+detailed above or is subject to 
+postponement, cancelation or 
+divestment, Lenovo is committed to 
+reallocate proceeds on a best efforts 
+basis to ensure an amount equal to 
+the net proceeds are allocated to 
+eligible projects. Such monitoring will 
+be done throughout the life of the 
+green instruments. 
+ 
+Assessment
+The environmental and/or social assessments of the projects 
+and any potential environmental and/or social risks 
+The alignment of the projects with Lenovo’s sustainability 
+strategy and policies including SDG priorities
+The projects’ compliance with relevant local, national, 
+and/or international regulatory requirements and market 
+standards 
+Alignment
+Compliance
+Lenovo Green Finance Framework 2022 15
+MANAGEMENT OF PROCEEDS 
+The proceeds from each green debt 
+instrument issued will be managed by 
+Finance with oversight by the GFWG. 
+Lenovo will track the allocation of 
+proceeds to eligible projects within 
+its internal management system (the 
+“Register”) including the following 
+information: 
+• Type of Funding Transaction: 
+Key information includes 
+issuer/borrower entity, 
+transaction date, number of 
+transactions, principal amount of 
+proceeds, repayment or 
+amortization profile, maturity 
+date, interest or coupon, and the 
+ISIN number in case of bond 
+transaction 
+• Allocation of Use of Proceeds: 
+• Name and description of 
+eligible projects to which the 
+proceeds of the green 
+instruments have been used 
+in accordance with the 
+Framework 
+• Allocation of the proceeds of 
+the green instruments to 
+eligible projects 
+• The balance of unallocated 
+proceeds 
+• Information of temporary 
+investment for unallocated 
+proceeds 
+Pending allocation, net proceeds from the sale of the green instruments will be 
+invested in cash, cash equivalents or deposits, subject to exclusions criteria. For 
+each issuance under this Framework, Lenovo will review the Register once a year 
+and expects to achieve full allocation within two years from the date of issuance. 
+ 
+ 
+16 Lenovo Green Finance Framework 2022 
+REPORTING 
+Lenovo will publish a post-issuance report annually, or more frequently in case of 
+material developments. The reporting will provide the following information: 
+Allocation Reporting, to be disclosed until full allocation, will include: 
+• Allocation amount by eligible project category, and clearly indicating the 
+SDG(s) of which such allocation supports 
+• Allocation amount by geography 
+• Proportion between financing and refinancing 
+• Project examples, subject to confidentiality 
+• Amount of unallocated proceeds and its temporary treatment 
+Impact Reporting, to be disclosed until full allocation, will include: 
+Where possible and subject to data availability and confidentiality, reporting of 
+environmental impact of the projects using relevant indicators as suggested in the 
+ICMA Harmonized Framework for Impact Reporting. 
+CATEGORIES EXAMPLE OF IMPACT INDICATORS 
+Energy Efficiency
+Annual energy conserved (MWh or GJ) 
+Annual GHG emissions reduced/avoided (metric tonnes of CO2 
+equivalent) 
+Renewable Energy
+Annual renewable energy generation (MWh or GJ) 
+Annual GHG emissions reduced/avoided (metric tonnes of CO2 
+equivalent) 
+Green Buildings
+Number of green buildings constructed/renovated 
+Area of green buildings built (square feet or square metres) 
+Circular Economy 
+Adapted Products, 
+Production and 
+Processes
+Annual waste reduced/avoided/prevented (metric tonnes) 
+Annual number of circular economy 
+materials/components/products designed or introduced 
+Clean 
+Transportation
+Number and type of clean transportation assets acquired 
+Annual GHG emissions reduced/avoided (metric tonnes of CO2 
+equivalent) 
+Lenovo Green Finance Framework 2022 17
+Should there be any co-financing of projects, Lenovo will only claim and report 
+the impact proportionate to the Company’s financing amount. 
+The post-issuance report will be made available at Lenovo’s company website16. 
+EXTERNAL REVIEW 
+Lenovo has engaged Sustainalytics to provide external review to assess and 
+confirm that the Framework is in line with ICMA, LMA, APLMA, and LSTA 
+principles and guidelines. The external review report is published on Lenovo’s 
+company website17. 
+Lenovo may engage an independent third party to conduct post-issuance 
+assurance on the allocation of proceeds and impact reporting. 
+ 
+ 
+16 https://investor.lenovo.com/en/global/home.php
+17 https://investor.lenovo.com/en/sustainability/second-party-opinion.pdf
+18 Lenovo Green Finance Framework 2022 
+ 
+ Amendments to the 
+Framework
+ 
+Lenovo Green Finance Framework 2022 19
+The GFWG will review this 
+Framework on a regular basis, 
+including its alignment to updated 
+versions of the Principles as and 
+when they are released, with the aim 
+of adhering to best practices in the 
+market. Such review may result in this 
+Framework being updated and 
+amended. The updates, if not minor in 
+nature, will be subject to the prior 
+approval of the Company and a 
+credible external reviewer. Any future 
+updated version of this Framework 
+that may exist will either keep or 
+improve the current levels of 
+transparency and reporting 
+disclosures, including the 
+corresponding review by an external 
+reviewer. The updated Framework, if 
+any, will be published on the 
+Company’s website18 and will replace 
+this Framework. 
+ 
+ 
+18 https://investor.lenovo.com/en/sustainability/gre
+en-finance-framework.pdf
+20 Lenovo Green Finance Framework 2022 
+ 
+
+ 
+ 
+Lenovo Group Limited l Green Finance Framework 

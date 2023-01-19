@@ -1,0 +1,494 @@
+1
+Ener
+August 2022
+Green Financing 
+Framework
+2
+Table of Contents
+1. Introduction ..............................................................................................................................................3
+2. Intel’s Approach to Sustainability .............................................................................................................3
+2030 RISE Strategy ....................................................................................................................................3
+Commitment to Net-Zero Green House Gas Emissions in our Global Operations...................................6
+ESG Governance........................................................................................................................................6
+3. Rationale for Issuance...............................................................................................................................7
+Green Financing Framework.........................................................................................................................7
+4. Alignment with Green Bond Principles, June 2021 (with June 2022 Appendix 1)....................................7
+4.1 Eligible Projects...................................................................................................................................8
+4.2 Process for Project Evaluation and Selection .....................................................................................9
+4.3 Management of Proceeds.................................................................................................................10
+4.4 Transparency and Reporting.............................................................................................................10
+4.4.1 Allocation Reporting ......................................................................................................................10
+4.4.2 Impact Reporting ...........................................................................................................................10
+5. External Review.......................................................................................................................................11
+5.1 Second Party Opinion: ......................................................................................................................11
+5.2 Assurance..........................................................................................................................................11
+6. Disclaimer................................................................................................................................................12
+7. List of Acronyms......................................................................................................................................14
+3
+1. Introduction
+For more than 50 years, Intel has put the silicon in Silicon Valley. Our people have had a profound 
+influence on the world, driving business and society forward by creating radical innovation that 
+revolutionizes the way we live.
+Today we are applying our reach, scale, and resources to enable our customers to capitalize more fully on 
+the power of digital technology. Inspired by Moore’s law, we continuously work to advance the design 
+and manufacturing of semiconductors to help address our customers’ greatest challenges.
+By embedding intelligence in the cloud, network, edge, and every kind of computing device, we seek to
+unleash the four superpowers: artificial intelligence (AI), pervasive connectivity, cloud to edge, and 
+ubiquitous computing. These four extraordinary technological compatibilities have become major market 
+forces powering the digitization of everything. We believe they will fundamentally alter how the world 
+experiences technology and interacts with devices, ranging from personal computers to other connected 
+devices, including homes and cars. This digital transformation has only been accelerated by the COVID-19 
+pandemic.
+The four superpowers will also exponentially increase the world’s need for compute. We are already 
+seeing the impacts of heightened global demand for semiconductors and ongoing supply shortages. This 
+is where Intel plays and wins: Our semiconductors are the underlying technology empowering developers 
+and enabling our customers’ innovations.
+2. Intel’s Approach to Sustainability
+Intel’s purpose is to create world-changing technology that improves the lives of every person on earth, 
+and our continuing commitment to corporate responsibility is embedded in our purpose. That 
+commitment—built on a strong foundation of transparency, governance, ethics, and respect for human 
+rights—creates value for Intel and our stakeholders by helping us mitigate risks, reduce costs, build brand 
+value, and identify new market opportunities to apply our technology to help address society’s most 
+complex issues.
+2030 RISE Strategy
+In May 2020, we outlined our 2030 RISE strategy, our commitment to creating a more responsible, 
+inclusive, and sustainable world, enabled through our technology and the expertise and passion of our 
+employees. We also announced our goals for the next decade to accelerate the integration of responsible, 
+inclusive, and sustainable practices and innovative approaches in our operations and supply chain, across 
+the technology industry, and beyond. All of this is enabled through our technology and the passion and 
+expertise of our employees.
+Our 2030 RISE strategy and goals not only raise the bar for Intel and its supply chain, but also increase the 
+scale and global impact of our work through new collaborations with our customers and a broad range of 
+stakeholders. Our aim is to fully harness the power of technology to solve increasingly complex and 
+interconnected global challenges over the next decade and beyond. We know that acting alone, Intel 
+cannot achieve the broad, societal impact we aspire to.
+Our 2030 RISE Operational and Supply Chain Goals are:
+4
+2030 RISE Operational and Supply Chain Goals
+Responsible
+Employee Health, Safety, and Wellness. Ensure that more than 
+90% of our employees believe that Intel has a strong safety 
+culture and that 50% participate in our global wellness program.
+Supply Chain Human Rights. Scale our supplier responsibility 
+programs to ensure respect for human rights across 100% of 
+our tier 1 contracted suppliers and higher risk tier 2 suppliers.
+Inclusive
+Workforce inclusion.
+ Double the number of women and underrepresented 
+minorities in senior leadership roles. 
+ Exceed 40% representation of women in technical 
+positions
+ Advance accessibility and increase the percentage of 
+employees who self-identity as having a disability to 
+10% of our workforce
+ Ensure that inclusive leadership practices and 
+accountability are embedded in our culture globally by 
+creating and adopting an inclusive leader certification 
+program
+Supplier Diversity. Increase global annual spending with diverse 
+suppliers by 100% to reach $2 billion in annual spending by 
+2030.
+Sustainable
+Climate and Energy. 
+ Achieve 100% renewable energy use across our global 
+manufacturing operations
+ Conserve 4 billion kWh of energy
+ Drive a 10% reduction in our absolute Scope 1 and 2 
+carbon emission as we grow, informed by climate 
+science
+ Increase product energy efficiency 10x for Intel client 
+and server microprocessors to reduce our Scope 3 
+emission
+Net Zero Water. Achieve net positive water use by conserving 60 
+billion gallons of water and funding external water restoration 
+project. 
+Zero Waste/Circular Economy. Achieve zero total waste to 
+landfill and implement circular economy strategies for 60% of our 
+manufacturing waste streams in partnership with our suppliers.
+Enabling
+Community Impact. Deliver 10 million volunteer hours to 
+improve our local communities, including an increase in skillsbased volunteerism.
+Additionally, we defined a series of Industry Initiatives and will work with the technology ecosystem to 
+accelerate improvements across our industry. We know that we can go faster and be more effective 
+working together. 
+5
+Industry Initiatives
+Responsible
+Responsible Minerals. Expand our efforts beyond conflict 
+minerals to cover all minerals used in semiconductor 
+manufacturing and apply the learnings to lead our industry in 
+creating new sourcing standards.
+Responsible Mobility. Collaborate with our industry and 
+ecosystem partners to advance the adoption of safety 
+technology and open standards to reduce traffic accidents 
+globally.
+Inclusive
+Inclusion Index. Drive full inclusion and accessibility across the 
+technology industry by creating and implementing a Global 
+Inclusion Index with common metrics to advance progress.
+Inclusive Pipeline. Expand the inclusive pipeline of talent for our 
+industry through innovative global education initiatives and 
+STEM programs for girls and underrepresented groups. 
+Sustainable
+Sustainable Manufacturing. Create a collective approach to 
+reducing emissions for the semiconductor manufacturing 
+industry and increase the use of technology to reduce climate 
+impact in global manufacturing.
+Sustainable Chemistry. Enable greener and circular chemistry 
+strategies across the technology industry value chain by 
+transforming chemical footprint methodology.
+And, we have identified key areas where we believe we can best leverage our manufacturing expertise, 
+unique position within the technology ecosystem, and the wide range of technology we enable to bring 
+others together to accelerate action on key global challenges to save and enrich lives.
+Key Global Challenges
+Responsible Revolutionize how technology will improve health and safety. 
+Inclusive Make technology fully inclusive and expand digital readiness.
+Sustainable Achieve carbon neutral computing to address climate change.
+6
+Commitment to Net-Zero Green House Gas Emissions in our Global Operations
+Building on our 2030 RISE goals, on April 13, 2022, we announced goals to further reduce our direct and 
+indirect greenhouse gas emissions and develop more sustainable technology solutions. We announced 
+goals to achieve net-zero greenhouse gas emissions in our global operations by 2040, to increase the 
+energy efficiency and lower the carbon footprint of Intel products and platforms with specific goals, and 
+to work with customers and industry partners to create solutions that lower the greenhouse gas footprint 
+of the entire technology ecosystem.
+Our Global Operations Impact: We are committing to reach net-zero greenhouse gas emissions across 
+operations, otherwise known as our Scope 1 and 2 emissions, by 2040. Intel’s priority is to actively reduce 
+our emissions with guidance from the international standards and climate science. We expect to use 
+credible carbon removal credits or offsets to achieve this goal only if other options are exhausted. These 
+targets strengthen our commitment to sustainable business practices.
+Our Supply Chain Impact: We are actively engaged with our suppliers to identify areas of improvement, 
+including increasing supplier focus on energy conservation and renewable energy sourcing, increasing 
+chemical and resource efficiencies, and leading cross-industry consortia to support the transition to a netzero greenhouse gas semiconductor manufacturing value chain. To accelerate progress, we are 
+committed to partnering with suppliers to drive supply chain greenhouse gas emissions to at least 30% 
+lower than they would be in the absence of investments and action, by 2030. This accounts for Intel’s 
+projected growth for the next decade. 
+Our Products Impact: To support customer sustainability goals and reduce Scope 3 product-use 
+greenhouse gas emissions, we intend to increase the energy efficiency of our products and continue to 
+drive performance improvements the market demands. We are setting a new goal to achieve a five times
+increase in performance per watt for Intel’s next generation CPU-GPU (Falcon Shores). We remain
+committed to our 2030 RISE goal to increase product energy efficiency by 10 times for client and server 
+microprocessors.
+ESG Governance
+Embedding Corporate Responsibility: We believe having an integrated strategy and embedding corporate 
+responsibility across the company is the most effective management approach to drive continuous 
+improvements in our performance. We have established cross-functional Management Review 
+Committees of senior executives who are accountable for corporate responsibility and sustainability 
+activities across the organization. Our global Corporate Responsibility Office acts as an internal adviser to 
+drive strategic alignment and incorporate external stakeholder input into decisions and processes, such 
+as the development of the 2030 RISE strategy and goals. Many Intel business groups have established 
+teams dedicated to corporate responsibility focus areas.
+Since 2008, we have linked a portion of our executive and employee compensation to corporate 
+responsibility factors in our Annual Performance Bonus (APB). In 2021, the formula for determining APB 
+payouts was based in part on the achievement of certain operational goals including environmental, 
+social, and governance (ESG) metrics and 2030 RISE Sustainable and Inclusive goals.
+Board Oversight: We first established formal Board-level oversight for corporate responsibility in 2003. 
+The Board's Corporate Governance and Nominating (CGN) Committee has primary responsibility for 
+oversight of ESG issues at Intel, with additional topics also reviewed by other committees (e.g., the
+7
+Compensation Committee is responsible for oversight of human capital issues, and the Audit and Finance
+Committee is responsible for oversight of our ethics and compliance program). Management provides 
+formal updates to the CGN Committee at least twice each year and at least annually to the full Board on 
+Intel’s ESG performance and related disclosure. The Board also receives periodic briefing and 
+informational sessions by management on the types of risks the company faces, including ESG-related 
+risks.
+ESG Reporting: We report our progress towards our 2030 RISE and ESG goals in our Corporate 
+Responsibility Report on an annual basis. 
+3. Rationale for Issuance
+The creation of this Green Financing Framework (Framework) is a tangible step forward in our 
+commitment to sustainability and in mobilizing our stakeholders around this objective. The Framework 
+covers Green Bonds in various currencies and formats and allows the alignment of our funding 
+instruments with our primary sustainability topics, related investments, and targets. The issuance of any 
+Green Bond would be intended to help advance our environmental sustainability goals, with a focus on 
+areas where we can have a significant impact on global environmental issues. We hope that any Green 
+Bond we may issue will inspire other companies to do the same. 
+Green Financing Framework
+4. Alignment with Green Bond Principles, June 2021 (with June 
+2022 Appendix 1)
+The Green Bond Principles, 20211
+(GBP) are recommended process guidelines for best practices when 
+issuing Green Bonds. The GBP recommend transparency and promote integrity in the sustainable bond 
+market. We have aligned our Green Financing Framework with the GBP. 
+This Framework covers our Green Financing and is aligned with the four core components:
+Core Components: 
+1. Use of Proceeds 
+2. Process for Project Evaluation and Selection
+3. Management of Proceeds
+4. Reporting
+ 
+1 https://www.icmagroup.org/assets/documents/Sustainable-finance/2022-updates/Green-Bond-Principles_June2022-280622.pdf
+8
+4.1 Eligible Projects
+“Eligible Projects” are investments and expenditures made by Intel or any of its subsidiaries beginning 
+with the issuance date of any Green Bond and including the 24 months prior to any such issuance that 
+meet the eligibility criteria outlined below:
+GBP Eligible Category Eligible Projects and Examples UN SDG 
+Alignment
+Green Buildings
+Investments and financings related to real estate projects such 
+as data centers, offices, factories, and other Intel facilities that 
+have received or are expected to receive third-party 
+sustainability certifications or verification such as:
+ LEED: Gold, Platinum
+ ENERGY STAR: Certification of 85 or greater
+ BREEAM: Very good or above 
+ Additional recognized certifications
+Energy Efficiency
+Investments related to design, construction, operation, and 
+maintenance of energy/utility consumption saving projects.
+Example projects include but are not limited to:
+ Efficient LED lighting
+ HVAC
+ TPO roofing
+ Water conservation systems 
+ Energy management systems 
+Circular Economy and 
+Waste Management
+Investments related to waste reduction, landfill avoidance, 
+upcycling of waste, processes of waste reclamation, segregation, 
+recycling, and/or reuse in our manufacturing operations and 
+supply chain. 
+Example projects include but are not limited to:
+ Onsight OSS segregation (Cyclohexanone segregation 
+from General Solvent Waste to enable recovery and 
+reuse)
+ Offsite Sulfuric acid reclamation plants
+ New hot phosphoric acid segregation waste streams
+ Concentrated copper waste systems capacity upgrades
+Pollution Prevention 
+and Control
+Investments aimed at reduction of air emissions, GHG control, 
+and prevention.
+Example projects include but are not limited to:
+ Point of Use Abatement, capital systems that are 
+installed post process on tools to eliminate GHGs and 
+other pollutants, that reduce GHG emissions and 
+particles from waste gases to exceed or meet EPA and 
+DEQ standards
+ NOx Reduction
+9
+GBP Eligible Category Eligible Projects and Examples UN SDG 
+Alignment
+ Equipment and process optimization
+ Process chemical substitution
+Water Stewardship
+Investments in efficient water management, conservation and 
+watershed restoration.
+Example projects include but are not limited to:
+ Onsite water conservation (efficiency and reuse, such as 
+water reclaim plant and low-flow faucets in restrooms)
+ Offsite watershed restoration (projects that conserve, 
+treat or protect water resources, such as in-stream flow 
+protection and irrigation efficiency projects).
+Renewable Energy
+Investments related to improving existing assets, implementing 
+renewable energy programs and securing PPAs.
+Examples of renewable energy sources we will consider are zero 
+emission sources including solar, wind, hydro, and geothermal.
+We expect to allocate proceeds as soon as practicable. 
+We strive not to knowingly allocate proceeds from any issuance of our Green Bond to the following:
+ Activities related to the exploration, production or transportation of fossil fuels (for example coal, 
+oil and gas);
+ Consumption of fossil fuels for the purpose of power generation;
+ Biomass or biogas power generation;
+ Nuclear energy; or 
+ Any other activity that we determine is ineligible for allocation of proceeds at the time of 
+allocation.
+4.2 Process for Project Evaluation and Selection
+Risk mitigation and management, including ESG risk management, is a priority at Intel. We analyze the 
+environmental and social impacts of our businesses and assess how we can mitigate impacts on 
+communities in which we operate. 
+As previously discussed, management is responsible for identifying risks, including ESG risks, and risks
+related to significant business activities; mapping the risks to company strategy; and developing programs 
+and recommendations to determine the sufficiency of risk identification, the balance of potential risk to 
+potential reward, and appropriate risk controls. Management provides formal updates to the CGN 
+Committee at least twice each year and at least annually to the full Board on the company's ESG 
+performance and disclosure, including updates on issues related to environmental sustainability, climate 
+risk, human rights, and political accountability.
+With respect to managing the projects associated with a Green Bond, a team consisting of representatives 
+from Intel Corporate Sustainability, Legal, Treasury, Finance and other Intel teams responsible for 
+10
+managing ESG risks is responsible for the evaluation, selection, and assessment of the performance of 
+eligible projects, on an annual basis, to ensure alignment with this Framework. In addition, all projects 
+allocated funding from the Green Bond proceeds follow an internal process that includes final review and 
+approval by Intel’s Chief Sustainability Officer.
+4.3 Management of Proceeds
+An amount equal to the net proceeds of any Green Bond issuance will be allocated to select Eligible 
+Projects as described in Section 4.1. Pending allocation, an amount equal to the net proceeds from the 
+sale of any Green Bond may be held in accordance with our internal investment policy, temporarily 
+invested in cash, cash equivalents and/or high-quality marketable debt investments and other 
+instruments allowed by our investment policy. In the case of divestment or if a project no longer meets 
+the eligibility criteria listed above, an amount equal to the amount divested or allocated to ineligible 
+projects will be reallocated to other Eligible Projects. Payments of principal and interest on any Green 
+Bond will be made from our general corporate funds and will not be linked to the performance of any 
+Eligible Project.
+4.4 Transparency and Reporting
+4.4.1 Allocation Reporting
+Annually, until full allocation of the net proceeds from the sale of any Green Bond, and on a timely basis 
+in case of material developments, we will publish a Green Bond Impact Report on our website that will 
+include: 
+(i) the amount of net proceeds from the sale of any Green Bonds that have been allocated to 
+one or more Eligible Projects either individually or by category;
+(ii) the list of Eligible Project categories with brief descriptions; 
+(iii) estimated impact metrics, where feasible; and 
+(iv) the outstanding amount of net proceeds from the sale of any Green Bond yet to be allocated 
+to Eligible Projects at the end of the reporting period. 
+4.4.2 Impact Reporting
+Examples of the type of impact metrics that may be included in any Green Bond Impact Report include:
+Project Category Example Certifications / KPIs
+Green Buildings
+ % of energy use reduced/avoided vs. local baseline/building code; 
+and, if relevant % of renewable energy (RE) generated on site 
+(specifying the relevant RE form) 
+ Annual GHG emissions reduced/avoided in tonnes of CO2 equivalent
+vs. local baseline/baseline certification level
+ Percentage of carbon emissions reduced/avoided vs. local 
+baseline/baseline certification level
+ Level of certification achieved / total square feet certified
+Energy Efficiency  Energy savings (i.e. MWh, GWh and GJ/ TJ)
+Circular Economy and 
+Waste Management
+ Percentage of waste stream that is upcycled
+ Percentage of waste to landfill (landfill avoidance)
+11
+Project Category Example Certifications / KPIs
+ Tonnes of waste reduced
+ Products changed to reduce waste
+ Tonnes of secondary raw materials or compost produced
+Pollution Prevention and 
+Control
+ Percentage total waste/tonnes p.a. prevented, minimized, reused, or 
+recycled
+ Annual energy generation from non-recyclable waste (MWh/GWh 
+and GJ/TJ)
+ Percentage of total waste/tonnes of waste that is separated and/or 
+collected, treated or disposed
+Water Stewardship
+ Volume of water conserved (reduce and reuse) (gallons/year, 
+liters/year)
+ Volume of water restored to watershed (gallons/year, liters/year)
+ Annual absolute (gross) amount of raw/untreated sewage sludge that 
+is treated and disposed of (in tonnes of dry solids and in percentages)
+ Annual absolute (gross) amount of sludge that is reused (in tonnes of 
+dry solids p.a. and in percentages)
+Renewable Energy
+ kWh of renewable electricity or energy purchased
+ kWh of renewable power generated/installed
+ Percentage of total electricity or energy used that is from renewable 
+sources
+5. External Review
+5.1 Second Party Opinion: 
+Intel has retained ISS ESG to provide a Second Party Opinion on the environmental benefits of our Green
+Financing Framework as well as its alignment to the Green Bond Principles. The opinion can be found on 
+the ISS website.
+5.2 Assurance
+We expect that our Green Bond Impact Report will be accompanied by (i) assertions by Intel’s 
+management as to the amount of the net proceeds from the sale of any Green Bonds that have been 
+allocated to Eligible Projects; and (ii) a report from an independent accountant or an independent thirdparty consultant with experience in ESG research and analysis.
+12
+6. Disclaimer 
+The information and opinions contained in this Framework are aspirational, are provided as of the date 
+of this Framework and are subject to change without notice. None of Intel, its subsidiaries or any of its 
+affiliates assume any responsibility or obligation to update or revise any such information or opinions, 
+regardless of whether those statements are affected by the results of new information, future events or 
+otherwise. This Framework represents current Intel policy and intent and is not intended, nor can it be 
+relied on, to create legal relations, rights or obligations. This Framework may contain or incorporate by 
+reference public information not separately reviewed, approved or endorsed by Intel and accordingly, no 
+representation, warranty or undertaking, express or implied, is made and no responsibility or liability is 
+accepted by Intel as to the fairness, accuracy, reasonableness or completeness of such information. 
+This Framework may contain “forward-looking statements” about future events and expectations. 
+Forward-looking statements are generally identified through the inclusion of words such as “aim,” 
+“anticipate,” “believe,” “drive,” “estimate,” “expect,” “goal,” “intend,” “may,” “plan,” “project,” “seek,” 
+“strategy,” “target” and “will” or similar statements or variations of such terms and other similar 
+expressions. Forward-looking statements inherently involve risks and uncertainties that could cause 
+actual results to differ materially from those predicted in such statements. None of the future projections, 
+expectations, estimates or prospects in this document should be taken as forecasts or promises nor should 
+they be taken as implying any indication, assurance or guarantee that the assumptions on which such 
+future projections, expectations, estimates or prospects have been prepared are correct or exhaustive or, 
+in the case of assumptions, fully stated in the Framework. No assurance can be given that any goal or plan 
+set forth in forward-looking statements in this Framework can or will be achieved, and readers are 
+cautioned not to place undue reliance on such statements. Historical, current, and forward-looking 
+statements regarding our sustainability aspirations and initiatives may be based on standards for 
+measuring progress that are still developing, internal controls and processes that continue to evolve, and 
+assumptions that are subject to change in the future.
+This Framework may contain “forward-looking statements” about future events and expectations. 
+Forward-looking statements are generally identified through the inclusion of words such as “aim,” 
+“anticipate,” “believe,” “drive,” “estimate,” “expect,” “goal,” “intend,” “may,” “plan,” “project,” “seek,” 
+“strategy,” “target” and “will” or similar statements or variations of such terms and other similar 
+expressions. Forward-looking statements inherently involve risks and uncertainties that could cause 
+actual results to differ materially from those predicted in such statements. None of the future projections, 
+expectations, estimates or prospects in this document should be taken as forecasts or promises nor should 
+they be taken as implying any indication, assurance or guarantee that the assumptions on which such 
+future projections, expectations, estimates or prospects have been prepared are correct or exhaustive or, 
+in the case of assumptions, fully stated in the Framework. No assurance can be given that any goal or plan 
+set forth in forward-looking statements in this Framework can or will be achieved, and readers are 
+cautioned not to place undue reliance on such statements. Historical, current, and forward-looking 
+statements regarding our sustainability aspirations and initiatives may be based on standards for 
+measuring progress that are still developing, internal controls and processes that continue to evolve, and 
+assumptions that are subject to change in the future.
+This Framework is provided for information purposes only and does not constitute a recommendation 
+regarding the purchase, sale, subscription or other acquisition or disposal of any debt or other securities 
+of Intel, any member of Intel or any securities backed by a security or insurance product of Intel. This 
+13
+Framework is not and is not intended to be and does not form part of or contain an offer to sell or an 
+invitation to buy, or a solicitation of any offer or invitation to buy, any such securities. If any such offer or 
+invitation is made, it will be done so pursuant to separate and distinct documentation in the form of a 
+prospectus supplement, an accompanying prospectus, an offering memorandum or other equivalent 
+document and a related pricing term sheet (the “Offering Documents”), and any decision to purchase or 
+subscribe for any such securities pursuant to such offer or invitation should be made solely on the basis 
+of such Offering Documents and not these materials. In particular, investors should pay special attention 
+to any sections of the Offering Documents describing any risk factors. The merits or suitability of any 
+securities or any transaction described in these materials to a particular person’s situation should be 
+independently determined by such person. Any such determination should involve, inter alia, an 
+assessment of the legal, tax, accounting, regulatory, financial, credit or other related aspects of the 
+securities or such transaction and prospective investors are required to make their own independent 
+investment decisions.
+No representation is made as to the suitability of any bonds to fulfil environmental and sustainability 
+criteria required by prospective investors. Each potential purchaser of bonds should determine for itself 
+the relevance of the information contained or referred to in this Framework or the relevant Offering 
+Documents for such securities regarding the use of proceeds and its purchase of such securities should be 
+based upon such investigation as it deems necessary. Intel has set out its intended policy and actions in 
+this Framework with respect to the use of proceeds, project evaluation and selection, management of 
+proceeds and reporting, in connection with any Intel ESG Bonds. However, nothing in this Framework is 
+intended to modify or add to any covenant or other contractual obligation undertaken by Intel in any ESG 
+Bonds that may be issued in accordance with this Framework. This Framework does not create any legally 
+enforceable obligations against Intel; any such legally enforceable obligations relating to any ESG Bonds 
+are limited to those expressly set forth in the indenture and notes governing such ESG Bonds. Therefore, 
+unless expressly set forth in the indenture and the notes governing such ESG Bonds, it will not be an event 
+of default or breach of contractual obligations under the terms and conditions of any such bonds if Intel 
+fails to adhere to this Framework, whether by failing to fund or complete Eligible Projects or by failing to 
+ensure that proceeds do not contribute directly or indirectly to the financing of the excluded activities as 
+specified in this Framework, or by failing (due to a lack of reliable information and/or data or otherwise) 
+to provide investors with reports on uses of proceeds and environmental impacts as anticipated by this 
+Framework, or otherwise.
+Website references and hyperlinks throughout this Framework are provided for convenience only, and 
+the content on the referenced websites is not incorporated by reference into this Framework, nor does it 
+constitute a part of this Framework.
+Website references and hyperlinks throughout this Framework are provided for convenience only, and 
+the content on the referenced websites is not incorporated by reference into this Framework, nor does it 
+constitute a part of this Framework.
+14
+7. List of Acronyms
+APB – annual performance bonus
+BREEAM – Building Research Establishment Environmental Assessment Method
+CO2 – carbon dioxide
+CO2e – carbon dioxide equivalent
+CGN – Corporate Governance and Nominating
+ESG – environmental, social, and governance
+GBP – Green Bond Principles
+GHG – Greenhouse gas
+GJ/TJ – gigajoules/terajoules 
+GWh – gigawatt-hour
+HVAC – heating, ventilation, and cooling
+KPI – key performance indicators
+KJ - kilojoules
+kWh – kilowatt-hour
+kWh/m² of GBA p.a. – kilowatt-hour per meter squared, Green Building Alliance
+LEED – Leadership in Energy and Environmental Design
+LED – light emitting diode
+MWh – megawatt-hour
+PPA – power purchase agreement
+RE – renewable energy or renewable electricity
+RISE – responsible, inclusive, sustainable and enabled through our technology (Intel’s corporate 
+responsibility strategy)
+TPO – third-party owner

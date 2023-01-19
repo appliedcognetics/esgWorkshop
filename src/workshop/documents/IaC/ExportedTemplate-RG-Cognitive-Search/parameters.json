@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_func_cognitive_search_skillset_name": {
+            "value": null
+        },
+        "storageAccounts_storagesearchdocs_name": {
+            "value": null
+        },
+        "serverfarms_ASP_RGCognitiveSearch_bb1b_name": {
+            "value": null
+        },
+        "searchServices_emtec_az_cgn_search_poc_name": {
+            "value": null
+        },
+        "storageAccounts_rgcognitivesearchb0fb_name": {
+            "value": null
+        }
+    }
+}

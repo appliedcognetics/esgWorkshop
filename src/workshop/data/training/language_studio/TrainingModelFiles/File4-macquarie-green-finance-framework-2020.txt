@@ -1,0 +1,222 @@
+Green Finance Framework
+June 2020
+STRICTLY CONFIDENTIAL
+STRICTLY CONFIDENTIAL
+Macquarie
+Contents
+1. Introduction .................................................................................................................................... 1
+1.1 Business overview............................................................................................................... 1
+2. Framework concept ....................................................................................................................... 2
+3. Macquarie’s Green Finance Framework ....................................................................................... 3
+3.1 Use of Proceeds.................................................................................................................. 3
+3.2 Project Evaluation and Selection......................................................................................... 4
+3.3 Management of Proceeds ................................................................................................... 4
+3.4 Reporting............................................................................................................................. 5
+4. Assurance...................................................................................................................................... 7
+Macquarie  PAGE 1
+1. Introduction
+1.1 Business overview
+Headquartered in Sydney and founded in 1969, Macquarie Group (“Macquarie”) is a global financial group 
+with a presence across 31 markets and assets under management of $A606.9 billion (as at 31 March 2020). 
+Macquarie’s breadth of expertise covers asset management, retail and business banking, wealth 
+management, leasing and asset financing, market access, commodity trading, renewables development, 
+investment banking and principal investment.. These activities are divided among the following four business 
+groups:
+1. Macquarie Asset Management
+2. Banking and Financial Services
+3. Commodities and Global Markets
+4. Macquarie Capital
+Macquarie acts primarily as an investment intermediary for institutional, corporate, government and retail 
+clients and counterparties around the world. We have established leading market positions as a global 
+specialist in a wide range of sectors, including resources and commodities, renewables, conventional 
+energy, financial institutions, infrastructure and real estate and have a deep knowledge of Asia-Pacific 
+financial markets.
+Macquarie’s renewable energy commitment
+Macquarie - and its managed funds - is one of the world’s largest investors in renewable energy having 
+invested or arranged $A9b in green projects in FY20.
+Macquarie has a substantial and longstanding commitment to the renewable energy sector, offering a full 
+range of financial services and products across the organisation that target investments in green 
+infrastructure projects to support the transition to a low carbon economy. We service clients across various 
+renewable energy technologies including solar, wind, waste to energy, bioenergy and energy efficiency.
+Our support for the renewable energy and clean technology sectors is part of a broader commitment to 
+infrastructure. Macquarie, through its Macquarie Asset Management business, manages over 150 
+infrastructure and real assets used by ~100+ million people every day and co-invests alongside the world’s 
+leading institutional investors including public sector pension funds.
+A further example of this commitment is the 2017 acquisition by a Macquarie-led consortium of the UK Green 
+Investment Bank. This acquisition created a global pioneering green investment business, acting as the Green 
+Investment Group (“GIG”).
+STRICTLY CONFIDENTIAL
+PAGE 2  Macquarie
+2. Framework Concept
+This Macquarie Green Finance Framework (“GFF”) has been developed to demonstrate how the Group and 
+its other entities intend to enter into Green Financing Transactions (“GFT”) to fund projects that will deliver 
+environmental benefits to support Macquarie’s business strategy and vision.
+Green Financing Transactions will include bonds, loans and other debt or financing structures which support 
+Eligible Projects, as defined below. More specifically:
+• Bonds issued under the GFF will be in alignment with the Green Bond Principles1 (GBP 2018) or as they 
+may be subsequently amended.
+• Loans issued under the GFF will be in alignment with the Green Loan Principles2 (GLP 2018) or as they 
+may be subsequently amended.
+• Other forms of financing may conform to other sustainable or green finance principles as may have been 
+established at the time of such financing transaction being undertaken.
+GFT may be raised in any currency or tenor and with other terms and conditions including covenants, to reflect 
+Macquarie’s financing strategy and commercial terms agreed between the Issuer/Borrower and 
+Manager/Arranger/Lender.
+1 https://www.icmagroup.org/green-social-and-sustainability-bonds/green-bond-principles-gbp/
+2 https://www.lma.eu.com/application/files/9115/4452/5458/741_LM_Green_Loan_Principles_Booklet_V8.pdf
+Macquarie  PAGE 3
+3. Macquarie’s Green Finance Framework
+For each GFT, Macquarie asserts that it will adopt the following 4 pillars as described in GBP 2018 and GLP 
+2018:
+1. Use of Proceeds
+2. Project Evaluation and Selection
+3. Management of Proceeds, and
+4. Reporting
+3.1 Use of Proceeds
+The proceeds of each GFT will be notionally allocated against the financing or the re-financing3 of “Eligible 
+Projects” that provide clear environmental sustainability and climate change benefits.
+The Eligible Projects means projects that comprise financing which fall within the categories below, which are 
+or have been originated by the various business units of Macquarie.
+Eligible 
+Projects
+Alignment with GBP 2018 
+and GLP 2018 Description and Examples
+Renewable 
+Energy
+Renewable energy — Development, deployment, and generation of energy 
+from renewable sources including the below and the 
+ancillary infrastructure including but not limited to 
+development of land, transmission lines and sub-stations 
+for each renewable energy project:
+— Wind (onshore and offshore)
+— Solar
+— Sustainably sourced biomass
+— Tidal
+Energy 
+Efficiency
+Energy efficiency — Investment in technology, product or system(s), 
+demonstrating a clear, measurable improvement in 
+energy efficiency appropriate to each asset class
+Waste 
+Management
+Pollution prevention and control — Municipal and commercial waste recycling
+— Waste-to-energy projects:
+— Solid waste incineration and power generation 
+projects
+— Organic waste treatment and power generation 
+projects
+— Landfill gas collection and power generation 
+projects
+Green 
+Buildings
+Green Buildings — Buildings certified in accordance with any one or more of 
+the following standards:
+— GBCA 6 star
+— BREEAM Excellent
+— LEED Gold or above
+— equivalent regional standards
+Clean 
+Transportation
+Clean Transportation — Investment in:
+— electric or hybrid vehicles
+— infrastructure for clean energy vehicles
+— reduction of harmful emissions
+3 Refinancing projects will typically be within 3 years of operation to ensure sufficient additional impact, however limited exceptions mayapply
+STRICTLY CONFIDENTIAL
+PAGE 4  Macquarie
+Exclusionary Criteria:
+• Activities and lending to an industry or technology which directly involves:
+— Fossil fuel
+— Nuclear
+— Biomass suitable for food production
+—
+3.2 Project Evaluation and Selection
+The Green Finance Working Group (“GFWG”) will have responsibility for governing and implementing the GFF. 
+The GFWG comprises representatives from Treasury, Credit Risk, Environmental and Social Risk and the GIG 
+Green Investment Ratings Team.
+Respective business units will identify potential Eligible Projects based on the criteria in the GFF’s Use of 
+Proceeds section outlined above.
+Potential Eligible Projects will be submitted to the GFWG for review and confirmation that they qualify as 
+Eligible Projects based on:
+• Description of the project and the engineering approach setting out the environmental benefits to be 
+obtained versus alternative approaches
+• Preliminary or final certificates received in respect of compliance with relevant standards
+• A suitable Green Opinion4 provided by the GIG Green Investment Ratings Team whereappropriate
+In addition to meeting the green loan or bond eligibility criteria, all projects are assessed under Macquarie’s 
+group-wide Environmental and Social Risk (ESR) policy and ESR assessment tool during the investment 
+decision process. The ESR Policy and tool provides a robust due diligence process and evaluates ESR issues 
+including labour and employment practices, climate change, human rights, resource efficiency, pollution 
+prevention, biodiversity and cultural heritage. The approach is based on international guidelines including the 
+International Finance Corporation Performance Standards.
+3.3 Management of Proceeds
+The proceeds of each GFT will not be credited to a dedicated account and will be deposited in Macquarie’s 
+general funding accounts. The internal governance process to allocate proceeds against Eligible Projects in 
+an appropriate manner (as required in the GLP’s) is described below.
+Through the GFWG, Macquarie will maintain a register of GFT and Eligible Projects and implement a 
+monitoring and reporting process to ensure that:
+• The total funding required5 for Eligible Projects is greater than the outstanding principal amounts due on 
+GFT.
+• Eligible Projects are owned within the consolidated entity which raises the GFT that is notionally allocated 
+against the Eligible Projects.
+• Eligible Projects do not have other financing (a) secured against them, or (b) attributable to them in respect 
+of another ‘use of proceeds’ obligation.
+4 Green Opinion is an opinion provided by the Green Investment Ratings Team on the prospective transaction. It includes information on the 
+anticipated environmental sustainability and/or climate change mitigation benefits of the assets to be financed by the transaction and will be a 
+requirement for any transaction included in the Green Loan Facility 5 This is calculated as the legal commitment Macquarie has agreed to invest in an eligible project as reflected in contractual arrangements entered 
+into by Macquarie, irrespective of whether the commitment is drawn or undrawn. This includes, but is not necessarily limited to, the purchase price 
+for an eligible project, the total committed exposure to an eligible project or an equity contribution to an eligible project.
+Macquarie  PAGE 5
+The register will include the following information:
+1. Type of GFT: Information including,
+— issuer/borrower entity,
+— transaction date,
+— tranche information including; currency and principal amount of proceeds, repayment or amortisation 
+profile, maturity date, and interest or coupon, where relevant the common identifier number (e.g. ISIN 
+number).
+2. Allocation of Use of Proceeds: Information including:
+— Name and description of Eligible Projects including; Macquarie entity that has made the investment, 
+total investment made.
+— Amount of GFT proceeds which have been notionally allocated against each Eligible Project.
+— The remaining balance of GFT proceeds yet to be allocated against Eligible Projects (if Eligible 
+Projects ever fell below outstanding principal amount of GFT).
+Any balance of issuance GFT proceeds which are not yet allocated to Eligible Projects will be held in 
+accordance with Macquarie’s normal liquidity management policy.
+3.4 Reporting
+Macquarie will publish a Green Finance Report on an annual basis. The Green Finance Report will contain 
+information on allocation and impacts:
+1. Allocation Reporting
+Macquarie will provide the following information for GFTs raised and outstanding during the period:
+— The amount allocated to Eligible Projects in aggregate
+— The remaining outstanding balance of GFT funds which have not yet been allocated
+— Examples of Eligible Projects (subject to confidentiality disclosures)
+2. Impact Reporting
+Where possible, Macquarie will report on the anticipated environmental sustainability and/or climate 
+change mitigation benefits resulting from Eligible Projects. This report will be completed by the GIG Green 
+Team using their market leading methodology.
+Subject to the nature of Eligible Projects and availability of information, Macquarie aims to include, but not 
+limit to, the following ‘Impact Indicators’.
+Eligible Project Categories Impact Indicators
+Renewable Energy — Renewable energy generation (MWh)
+— CO2 (or other GHG) emissions avoided / reduced (tonnes of CO2e)
+— Fossil fuel consumption avoided (tonnes of oil equivalent)
+— Particulates to air avoided (tonnes)
+Energy Efficiency — Amount of energy saved (MW)
+— CO2 (or other GHG) emissions avoided (in tonnes of CO2e)
+— Fossil fuel consumption avoided (tonnes of oil equivalent)
+— Particulates to air avoided (tonnes)
+Waste Management — Energy generated from waste (kWh)
+— Waste recycled (tonnes)
+Green Buildings — Certification received or maintained
+— Additional energy saving or operational performance data
+Clean Transportation — CO2 (or other GHG) emissions avoided (in tonnes of CO2e)
+STRICTLY CONFIDENTIAL
+PAGE 6  Macquarie
+The Green Finance Report will be publicly available via annual updates on Macquarie’s website.
+Macquarie will also make disclosure through other channels where feasible, such as annual reports and 
+corporate social responsibility reports, which will also be published on Macquarie’s website 
+https://www.macquarie.com.
+Macquarie  PAGE 7
+4. Assurance
+Macquarie will obtain an external review of this framework from an independent party and annual assurance 
+over compliance with the Framework from an appropriate audit provider. This will be available at 
+https://www.macquarie.com.

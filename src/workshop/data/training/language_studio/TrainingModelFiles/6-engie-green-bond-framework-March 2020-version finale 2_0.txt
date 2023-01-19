@@ -1,0 +1,1297 @@
+Page 1
+C1 -Public Natixs
+Green Financing Framework
+In February 2020, ENGIE’s Board of Directors approved its “Purpose Statement (“Raison d’être”) for 
+proposal of inclusion in its bylaws at the next General Shareholders' Meeting. 
+“It is to act to accelerate the transition towards a carbon neutral economy through reduced 
+energy consumption and more environmentally-friendly solutions. The purpose brings 
+together the company, its employees, its clients and its shareholders, and reconciles economic 
+performance with a positive impact on people and the planet. ENGIE’s actions are assessed 
+in their entirety and over time.”
+Page 2
+C1 -Public Natixs
+TABLE OF CONTENTS
+1. Introduction....................................................................................................................... 3
+2. ENGIE carbon neutrality transition strategy..................................................................... 4
+2.1. Support to Paris Agreement & TCFD........................................................................... 4
+2.2. A strategic ambition translated into bold & SBT approved decarbonization targets .......... 4
+2.3. ENGIE’s key transition levers...................................................................................... 5
+2.4. Sustainability embedded into ENGIE’s transition towards carbon-neutrality Value 
+creation model.................................................................................................................. 7
+3. ENGIE’s CSR Strategy...................................................................................................... 8
+3.1 ENGIE’s commitments................................................................................................ 8
+3.2. A Sustainability strategy translated into clear objectives.............................................. 10
+3.3. CSR Governance ...................................................................................................... 12
+3.4. Market recognitions.................................................................................................. 12
+Green Financing: Full consistency with ENGIE’s strategy ................................................. 12
+4. Green Financing Framework ............................................................................................. 13
+4.1. Use of Proceeds........................................................................................................ 14
+4.2. Process for evaluation and selection of projects........................................................... 20
+4.3. Management of Proceeds........................................................................................... 23
+4.4. Reporting................................................................................................................. 24
+4.5. External Review ....................................................................................................... 25
+Appendix: Environmental Impact Indicators..................................................................... 26
+Page 3
+C1 -Public Natixs
+1. Introduction 
+ENGIE is a global player and a reference in low-carbon energy and services. The Group’s model is 
+based on responsible growth to take on the major challenges of the transition to a low-carbon economy: 
+access to sustainable energy, climate-change mitigation and adaptation and responsible use of resources. 
+ENGIE acts throughout the value chain: strategy, design, engineering, energy-efficient asset 
+construction, digital platforms, operations management, financing syndication and outcome assurance.
+In 2019, ENGIE simplified it organization to gain in efficiency with
+• 4 Global Business Lines:
+(i) Renewables: hydropower, photovoltaic solar power, onshore wind power, offshore wind 
+power, biomass, biogas. 
+(ii) Networks: gas and electricity infrastructure
+(iii) Client Solutions: B to B and B to T solutions based on assets, which are becoming a priority 
+compared to less capital- intensive services;
+(iv) Thermal: Generation assets. 
+• 25 business units (most of which by geographical areas).
+Driven by the aim of contributing to harmonious progress, ENGIE is facing up to major global 
+challenges such as combating global warming, access to energy for all, and mobility, and is offering its 
+customers – companies, private individuals and professionals, and cities and regions – energy production 
+solutions and services that bridge the gap between individual interests and collective challenges. 
+Since 2016, ENGIE has made strong commitments to fight against climate change and transformed its 
+business model to meet high sustainability standards, through the “3Ds strategy”, which focuses on 
+decarbonisation, decentralisation and digitalisation. In particular, three of its activities are being deeply 
+transformed: Renewable energy, Gas electricity networks and Energy efficiency. The Group believes it 
+is now placed at an intersection where the specific interest of a company in the energy sector, its 
+employees and its shareholders is aligned with the general interest. 
+ENGIE’s clear ambition, expressed in its new 3-year strategic plan launched in 2019, is to become 
+the world leader in the carbon neutrality transition for corporates and local authorities, 
+with the mission to drive faster growth, higher value, and a better impact for its customers, its employees 
+and the world around it.
+Page 4
+C1 -Public Natixs
+2. ENGIE carbon neutrality transition strategy
+2.1. Support to Paris Agreement & TCFD
+ENGIE has placed global warming and the preservation of the environment at the core of its economic 
+model and has committed to adapt its activities and investments to be consistent with Paris Agreement, 
+i.e. ambitions to limit the average global temperature rise to below 2°C above pre-industrial. As a 
+signatory of the Paris Pledge for Action document, ENGIE supports the Agreement and works toward 
+being part of the climate change solution.
+Driven by the G20’s Financial Stability Board, in June 2017 the Task Force on Climate-related 
+Financial Disclosures (TCFD) issued recommendations on climate reporting. ENGIE supported these 
+recommendations for greater financial transparency of impacts on the climate and for taking those 
+impacts into account and has put in place an internal taskforce steered by the CSR function. 
+After having adapted the Group governance policy and presentation dedicated to the risks of climate 
+change in 2019, under the supervision of a member of the Executive Committee, this taskforce is 
+focusing on: 
+• Assessing financial impacts of climate risks on the Group’s infrastructures
+• Designing Group adaptation plans to reduce its vulnerability to climate impacts 
+These tasks involve in detail:
+• Identifying the specific vulnerability to climate change of each type of assets owned by the 
+Group
+• Assessing at a regional level the physical consequences of climate, in partnership with IPSL 
+(Institut Pierre Simon Laplace)
+• Measuring the potential impacts of climate on ENGIE’s assets with the aim for industrial sites 
+of having the ability to elaborate their adaptation plan.
+Since 2010, ENGIE replies to the environmental impact non-profit organization Carbon Disclosure 
+Project (CDP)’ Climate Change questionnaire. In 2019, for the third year in a row, ENGIE has been 
+highlighted as a global leader on Corporate Climate action byCDP), achieving a score of ‘A’, the highest 
+in the CDP Climate Change Assessment.
+2.2. A strategic ambition translated into bold & SBT approved decarbonization targets
+In consistency with its stated ambition, in February 2020, ENGIE has set itself ambitious mid-term 
+decarbonization targets. 
+ENGIE’s decarbonizing targets have been certified 2°C aligned by SBTI (Science Based Targets
+Initiative) on February 6, 2020. ENGIE is among the first multi-energy companies to receive this 
+certification. SBT covers 87% of 2017 total Group emissions, 2017 being the reference year for the 
+Group certification.
+This demonstrates ENGIE’s commitment to fulfil the Paris agreement and lead the development of the 
+new world of energy. 
+Page 5
+C1 -Public Natixs
+Decarbonizing customers Decarbonizing activities Decarbonizing ways of 
+working and purchasing
+Avoided emissions SBT Approved targets on Scope 
+1 to 3 emission reduction
+Aligning company’s culture to 
+a carbon neutral world
+100% of its offers will have an 
+alternative that contribute to 
+decarbonation by 2030; on this 
+topic, ENGIE is working on the 
+definition of a methodology 
+allowing the quantification of 
+reduced and avoided emissions 
+among its customers, in order to 
+define a quantitative target
+Reduce the intensity of 
+emissions of its power 
+generation activities by 52% by 
+2030 from 2017
+100% of its preferred suppliers 
+(except energy purchase) will 
+be SBT certified by 2030
+Reduce scope 3 emissions on 
+used products by 34% by 2030 
+from 2017
+Achieve net zero emissions on 
+ENGIE’s ways of working by 
+2030
+2.3. ENGIE’s key transition levers 
+In order to meet these targets to reach carbon neutrality, the Group has identified four main axes:
+1/ Complete the coal phase out
+The Group is reducing its exposure to fossil fuels 
+by gradually withdrawing from activities 
+associated with coal. After a 55% reduction in its 
+Scope 1 carbon emissions between 2016 and 
+2019 mainly due to its exit of coal, as of the end 
+of 2019, coal capacity represents 4% of the 
+Group’s electricity generation capacity. 
+Decommissioning and asset-disposal have been 
+jointly deployed in ENGIE’s move to exit from 
+coal in the different countries where it carries out 
+coal activities.
+The CO2 emissions related to electricity 
+production should reach 43 mt by 2030 (vs. 149 
+mt in 2016 and 80 Mt in 2019).
+(1) (1) Green House Gases
+(2) (2) Science Based Targets
+Page 6
+C1 -Public Natixs
+2/ Expand the ambitious renewable energy strategy
+By 2030, the Group expects the share of renewables 
+in its electricity production mix to reach 58% (vs. 
+20% in 2016 and 28% in 2019). The group will 
+accelerate its development in second generation 
+renewables such as geothermal or advanced offshore 
+wind. 
+As a global leader in heating and cooling networks, 
+the Group is continuing to develop them through the 
+systematic incorporation of renewable energy 
+sources: biomass, geothermal, industrial heating, 
+etc.
+3/ Energy efficiency 
+ENGIE designs, implements and operates solutions that allow its customers to reduce their energy
+consumption (including buildings), their costs and their environmental footprint. As the leading supplier 
+of energy efficiency services worldwide, it supports its customers in choosing solutions suited to their 
+needs and provides them with access to financing services for green solutions or facilities maintenance.
+Increasing decentralized power generation allows ENGIE to offer its customers innovative electricity 
+storage solutions.
+4/ Development of Green Gas & clean transportation
+ENGIE is also enhancing its expertise in new energy sources such as green gas biomethane and gas from 
+biomass pyro-gasification and hydrogen, which are increasingly needed to replace natural gas extracted 
+from underground. ENGIE plans to totally decarbonise its gas supply in France by 2050.
+To reduce CO2 emissions in urban environments, ENGIE is helping to establish a new kind of mobility 
+that is cleaner, more fluid and more economical. The Group incorporates the new sources of energy 
+(hydrogen, bioNGV) into its mobility solutions, with applications in both private and public 
+transportation and in logistics infrastructure.
+Page 7
+C1 -Public Natixs
+2.4. Sustainability embedded into ENGIE’s transition towards carbon-neutrality Value 
+creation model 
+A Sustainable, Competitive Transition towards carbon neutrality, which is future-oriented and brings 
+people together
+Generating low 
+carbon energy 
+focusing on 
+ambitious 
+development of 
+renewables
+Developing energy 
+services and 
+application allowing 
+customers to reduce 
+their consumption, 
+their costs and their 
+environmental 
+footprint
+Pursuing organic 
+growth momentum
+Strengthening the 
+financial structure
+Sharing value with
+shareholders
+Enhance the listening 
+approach (customer 
+satisfaction, 
+employees’ 
+involvement)
+New Growth driving 
+services (AI, 
+Blockchain)
+Optimizing the use of 
+new energy sources 
+including storage
+Improving industrial 
+and environmental 
+safety through 
+innovation (drones, 
+robots, etc.) 
+Stakeholder 
+dialogue and 
+mitigating the social 
+consequences of 
+decarbonization
+Developing 
+employment and 
+employability
+Nurturing the culture of 
+health, safety and 
+security at work
+Involving employees in 
+the Group’s 
+transformation
+Ensuring an inclusive 
+working environment
+Contribution to 
+regional development
+Supporting 
+urbanization
+Ensuring everyone can 
+access energy and 
+energy savings
+Page 8
+C1 -Public Natixs
+3. ENGIE’s CSR Strategy
+Through its CSR policy, rolled out at all levels in the Group, ENGIE is committed to energy that is 
+always safe, efficiently used, as widely available as possible, affordable and respectful of society and its 
+environment. 
+The Group devises its performance over time and at an overall level. Its environmental policy is part of 
+its leadership in the carbon neutrality transition. 
+As a global player in the energy transition, ENGIE identifies and shares with all of its stakeholders the 
+main challenges not only of its environmental, social and societal responsibility, but also those related 
+to business, finance and its governance practices. These challenges are assessed from a dual point of 
+view (stakeholders and Group management), which makes it possible to position them and identify the 
+most material of them, from this double perspective, in order to construct the "matrix of materiality".
+3.1 ENGIE’s commitments
+In line with its most material challenges, ENGIE’s CSR policy1
+relies on 10 commitments that
+demonstrate its concern forthese areas with respect to its stakeholders and its contribution to the creation 
+of shared value:
+1
+https://www.engie.com/sites/default/files/assets/documents/2019-10/engie_rse_en_imp1_0.pdf
+2
+https://www.engie.com/sites/default/files/assets/documents/2019-11/procurement_policy_engie_2019-007_fv_en.pdf
+1. RESPONSIBLE 
+CONSUMPTION
+ENGIE is committed to raising its customers' awareness of innovative solutions able to help 
+them to get to grips with their consumption, incorporate new technologies, move towards 
+green mobility, or towards renewables to fulfil their expectations
+2. SUSTAINABLE 
+PURCHASING
+The Group relies on thousands of suppliers, ranging from large international groups to local 
+SMEs. The fundamentals of ENGIE's supplier relationships are intended to establish a 
+balanced, sustainable relationship with all of its suppliers.
+The Purchasing Policy2
+sets out ENGIE's commitments (e.g. fair treatment, prompt 
+payments, data confidentiality) and requirements with regard to competitiveness, health and 
+safety, ethics and social issues, and the environment vis à -vis its suppliers. All of the Group's 
+Purchasing contracts incorporate an ethics and CSR clause. ENGIE has partnered with 
+EcoVadis to evaluate its Preferred Suppliers in order to monitor and measure the social and 
+environmental performance of its supply chain. EcoVadis‘methodology for assessing 
+company CSR engagement relies on 21 CSR criteria. Suppliers are assessed on a scale from 
+0 to 100. ENGIE sets targets for preferential & major suppliers, their assessment score should 
+be above a of 45/100.
+3. STAKEHOLDERS The Group is committed to raising its managers' awareness of the ways in which stakeholder 
+dialogue can benefit the Group's activities : training employees in dialogue tailored to the 
+situation, needs and limitations of a site, and devising action and dialogue plans with 
+stakeholders, specifically with regard to the launch of new offers or projects. The Group 
+keeps track of and strives to respond to all questions and any public controversies. It seeks to 
+maintain regular contact with communities affected by its activities as well as with NGOs.
+Page 9
+C1 -Public Natixs
+3
+https://www.engie.com/sites/default/files/assets/documents/2020-02/environmental%20policy.pdf
+4
+https://documents.engie.com/publications/ethics/ENGIE_DossierEthique-Charte_en_rev01_work.pdf
+5
+https://www.engie.com/en/group/social-responsibility/policies
+4. SOCIAL
+INFLUENCE
+Drawing on its status and culture, ENGIE wants to shore up its position in the economic and 
+social sphere. ENGIE has committed to an ambitious gender diversity policy. It fosters a lowcarbon economy by promoting, for example, a price floor for carbon and the large -scale use 
+of solar energy.
+ENGIE plans to continue shoring up its position and contributing to public decision -making 
+and the development of regulations by engaging in constructive dialogue with public 
+authorities and in partnership with its peers.
+5. THE
+ENVIRONMENT
+ENGIE is evolving in a world of multiplying environmental issues. The risks posed by 
+climate change, the over-exploitation of natural resources (including water), the erosion of 
+biodiversity, and air pollution are major concerns for society and its longevity
+By means of its environment policy3
+, ENGIE pledges to gauge its impact on the environment 
+and introduce action plans to avoid, minimize or, if necessary, offset any impact while best 
+managing the resources at its disposal. Lastly, the Group helps its operational entities to meet 
+recognized international environmental standards
+6. RESPONSIBLE
+INVESTMENT
+As part of the energy transition, the Group engages in dialogue with all investors to help them 
+to understand ENGIE's vision and strategic choices. The Group's investment decisions are 
+based on the CSR criteria derived from its policy and take into account regional price curves 
+for carbon.
+This responsible investment policy is described in the section Process for evaluation and 
+selection of projects of this Framework.
+7. BUSINESS
+ETHICS
+When it comes to business ethics, the Group operates according to four basic principles: act 
+in accordance with laws and regulations, behave honestly and promote a culture of integrity, 
+be loyal, and respect others. The Group's ethics and compliance standards4 convey a strong 
+message of zero tolerance for unethical conduct, fraud and corruption. These principles apply 
+to all Group employees and partners.
+A confidential ethics warning system (ethics@engie.com) is open to all Group employees 
+and external stakeholders.
+8. HUMAN
+CAPITAL
+The individual development of employees and respect for their diversity are key drivers of 
+the Group's performance and its HR policy. ENGIE requires considerable commitment: 
+respect for the principles of fairness and non-discrimination in recruitment; support for a 
+gender diversity policy when it comes to promotions; the introduction of forward -looking 
+management of jobs and competencies to guide employees towards roles that fulfil the 
+Group's future needs and boost their employability; and support for employees' careers 
+through training or internal mobility.
+9. GLOBAL CARE / 
+HEALTH, 
+SAFETY & 
+SECURITY
+Guaranteeing everyone's health, safety and security, as well as the industrial safety of 
+facilities, is a permanent priority for the Group wherever it is active, regardless of country or 
+activity.
+The Global Care policy5
+is centered on three major commitments: protect the integrity of 
+people and property, promote quality of life in the workplace, and improve health, safety and 
+security through professional development for all. These commitments are intended to 
+cultivate a 'no life at risk' culture of security shared by all Group employees and 
+subcontractors.
+To this end, ENGIE has pledged to eliminate fatal and the most serious accidents and to 
+provide everyone with a high degree of health, safety and security. More specifically, the 
+Group ensures that its employees and service providers respect its nine Life-Saving Rules, 
+which are tangible rules derived from operating experience.
+Page 10
+C1 -Public Natixs
+3.2. A Sustainability strategy translated into clear objectives
+Early 2020, a set of 7 of mid-term core CSR Objectives (embedded in a larger set of 19 objectives) were 
+defined. They have been defined to support the Group’s ambition and are meant to be tracked and 
+presented on a yearly basis as part of the Group’s Global Performance monitoring. They aim to 
+contribute also to the United Nations Sustainable Development Goals for 2030.
+Among the 19 objectives of the CSR strategy, 3 key objectives are to be integrated in the Group’sregular 
+annual reporting, given the large roles they play in moving ENGIE forward:
+• First, Green House Gases emissions from production of electricity, in line with Science Based 
+Targets certification.
+• Second, on gender diversity, ENGIE commits to increase the share of women in the management of 
+the Group from 23% in 2016 to 50% in 2030 i.e. more than a doubling. To reach this target, internal 
+promotions as well as external recruitments will be encouraged.
+• Lastly, the Group’s ambition is to increase the share of renewable energy in its electric capacity to 
+58% by 2030.
+10.HUMAN RIGHTS
+AND ACCES TO 
+ENERGY
+In addition to its dialogue and consultation intended to ensure that its activities do not infringe 
+the rights of local communities, ENGIE is committed to conducting its activities in line with 
+its employees' fundamental rights and International LaborOrganization conventions. ENGIE 
+rejects all forms of forced or compulsory labor, child labor, discrimination, modern slavery 
+and workplace harassment and violence. It encourages the freedom of association and the 
+right to collective bargaining.
+ENGIE is committed to tackling disparities in access to energy which is an important 
+contribution to human rights. As such, in 2011 the Group established an impact investment 
+fund, ENGIE Rassembleurs d’Energies, tasked with promoting universal access to 
+sustainable energy through minority investments in local, high-impact companies.
+Through its Energy Volunteer Program, the Group also encourages its workforce to join other 
+employees who volunteer to aid humanitarian initiatives.
+In addition, ENGIE is committed to tackling fuel poverty: establishing suitable tariffs; 
+preventing unpaid bills; helping to improve homes; raising awareness of ways to save energy; 
+and maintaining constant contact with local authorities and associations to provide 
+personalized support to the most disadvantaged customers. The ENGIE Foundation, which 
+is in charge of sponsoring initiatives, has set out its philosophy and activities as an extension 
+of the Group's commitment to environmental and social matters.
+Lastly, ENGIE Africa brought decentralized electricity to more than four million people in 
+nine countries (Uganda, Zambia, Kenya, Tanzania, Rwanda, Nigeria, Benin, Côte d’Ivoire, 
+and Mozambique). This growth is in line with the Group’s ambition to reach millions of 
+households and businesses with clean, distributed energy across Africa.
+Page 11
+C1 -Public Natixs
+CSR pillars CSR Core Objectives SDG contribution
+Planet
+Respecting planetary 
+limits by acting 
+in particular for the Paris 
+Agreement
+1. 43 Mt CO2 eq from production 
+of electricity by 2030 
+(regardless of asset ownership), 
+in line with the SBT trajectory 
+2. 43 Mt CO2 eq from gas sales, in 
+line with the SBT trajectory by 
+2030
+3. 100% of our offers with an 
+alternative that contribute 
+to decarbonation by 2030
+4. 100% of our preferred suppliers 
+(except energy purchase) 
+certified SBT by 2030
+People
+Building a new and more 
+inclusive 
+world of energy together
+5. Frequency rate of accident 
+(including suppliers on closed 
+sites) limited to 2.9 by 2030
+6. 50% women in the management 
+of the Group by 2030
+7. Score of 100 of the gender 
+equity index at Group level 
+by 2030
+Profit
+Ensuring responsible 
+performance shared 
+between employees, 
+shareholders and 
+stakeholders
+6 - 8% 2019-22 Net recurring 
+income Group Share CAGR
+Economic net debt to EBITDA 
+ratio below 4.0
+Dividend policy of a 65 - 75% 
+pay-out ratio
+€22bn Capex plan over 2019-
+22, of which ~€10bn for growth
+Page 12
+C1 -Public Natixs
+3.3. CSR Governance
+The top management of ENGIE is actively involved in the implementation of the CSR Strategy of the 
+Group: 
+• The Board of Directors' Ethics, Environment and Sustainable Development Committee manages 
+CSR at the highest level of the Group, approving the scope of the policies introduced, as well as 
+outlook and action plans.
+• The Board of Directors validates the CSR commitments.
+• The CSR Division monitors the CSR performance of the Group. It heads up a network of Business 
+Unit CSR officer, regularly reviews the Group's tangible challenges; prepares annual action plans; 
+tracks their application through annual CSR performance reviews with each Business Unit; 
+handles responses to extra-financial ratings agencies; monitors the CSR objectives with the 
+support of the other Divisions involved; and is responsible for preparing the strategy and CSR 
+objectives.
+• Business Unit Management Committees optimizes the implementation of the CSR strategy based 
+on the best practices at the Group level: the Business Unit CSR officers are responsible for 
+conducting the annual analysis of CSR risks and opportunities, introducing CSR action plans that 
+may include local CSR objectives, and ensuring that CSR criteria are correctly applied in 
+investment projects.
+3.4. Market recognitions
+ENGIE’s sustainability performance is well recognized by the market as the Group holds leading 
+position in CSR ratings and indices: 
+Green Financing: Full consistency with ENGIE’s strategy
+ENGIE’s Green Financing Framework is fully consistent with the Group’s strategy and has been 
+established in order to support its development plan in renewable energy and energy efficiency services. 
+While supporting the development of green finance, this approach confirms ENGIE’s leadership and its 
+commitment to playing a leading role in the carbon neutrality transition.
+Page 13
+C1 -Public Natixs
+4. Green Financing Framework
+ENGIE has designed this Green Financing Framework with the aim to align it with current best market 
+practices.
+The framework complieswith the Green Bond Principles 20186
+(GBP) and Green Loan Principles 20187
+(GLP) as published by the International Capital Market Association (ICMA) and the Loan Market 
+Association (LMA). ENGIE also intends to align this Framework, to the extent feasible, with the 
+European Union Green Bond Standard8
+, in order to be aligned with the European Commission’s 
+recommendations.
+In accordance with the ICMA Green Bond Principles 20189
+and LMA Green Loan Principles 2018 and 
+for each financing operation of Eligible Green Projects as described in the Use of Proceeds section of 
+this Framework, ENGIE asserts that it will follow the 4 key pillars below as set out in this Framework: 
+• Use of Proceeds
+• Process for Project Evaluation and Selection
+• Management of Proceeds 
+• Reporting
+ENGIE has prepared this Green Financing Framework, with the intention for the Company and its 
+subsidiaries to continue to issue multiple Green Finance Instruments. 
+The Green Finance Instruments may include:
+• Debt instruments financing Eligible Green Projects as described in the Use of Proceeds section of 
+this Framework, including but not limited to:
+o Green Bonds issued by ENGIE or any of its subsidiaries or project companies (in various 
+formats such as, but not limited to, Senior Unsecured, Hybrid, Project Bond) where (i) an 
+amount equal to the net proceeds will be earmarked for allocation to the Eligible Green 
+Projects as set out in the Green Financing Framework in the context of Corporate Bonds or
+(ii) 100% of the net proceeds are dedicated to (re)financing Eligible Green Projects as setout in the Use of Proceeds section of the Green Financing Framework in the context of 
+Project Bonds.
+o Green Loans contracted by ENGIE or any of its subsidiaries or project companies where 
+100% of the net proceeds are dedicated to (re)financing Eligible Green Projects as set-out 
+in the Use of Proceeds section of the Green Financing Framework.
+• Debt instruments where funding costs are linked to sustainability targets (Sustainability-Linked 
+Financing Instruments).
+6
+https://www.icmagroup.org/green-social-and-sustainability-bonds/green-bond-principles-gbp/
+7
+https://www.lma.eu.com/application/files/9115/4452/5458/741_LM_Green_Loan_Principles_Booklet_V8.pdf
+8
+https://ec.europa.eu/info/publications/sustainable-finance-teg-green-bond-standard_en (Interim Report on EU Green Bond Standard 
+published on 18 June 2019)
+9 Engie is an active member of the Green Bond Principles since 2014
+Page 14
+C1 -Public Natixs
+4.1. Use of Proceeds
+An amount equal to the net proceeds of ENGIE’s Green Finance Instruments will be earmarked to the 
+(re)financing, in whole or in part, of existing or future Eligible Green Projects.
+In order to be earmarked as eligible the Projects must align with all of the following criteria: 
+1. Eligible types of Investments
+(i) Capital expenditures and selected Operating Expenditures (such as maintenance costs that either 
+increase the lifetime or the value of the Assets) of Physical Assets or Financial Assets meeting the 
+Eligibility Technical Criteria described in the Use of Proceeds section of the Green Financing
+Framework;
+(ii) Eligible Research and development (“R&D”) expenditures aiming at developing new products and 
+solutions as per the Eligibility Technical Criteria specified in the Use of Proceeds section of the Green 
+Financing Framework;
+(iii) Majority acquisitions of companies and minority equity participations in entities substantially active 
+in any of the Eligible Project Categories described in the Use of Proceeds section of the Green Financing 
+Framework (e.g. participations into the “Rassembleurs d’Energies” fund). ENGIE will only consider as 
+eligible the pro-rated share (%) of the acquisition / participation that is dedicated to Eligible Project 
+Categories as defined in the Use of Proceeds section of the Green Financing Framework.
+2. Lookback period
+The net proceeds of each Green Finance Instrument will be used to finance Eligible Green Projects
+occurring post issuance of each financing instrument and/or refinance disbursements in Eligible Green 
+Projects subject to disbursement from ENGIE10 where:
+(i) Capital expenditures shall qualify without a specific period prior to the date of issuance/agreement 
+of any Green Finance instrument;
+(ii) Operating expenditures shall qualify within a 36 months period prior to the date of issuance
+/agreement of any Green Finance instrument.
+3. Eligible Green Projects
+Eligible Green Projects are projects supporting the transition to a low-carbon economy in direct link 
+with ENGIE strategy (carbon neutrality transition Strategy) as emphasized in the first section of the 
+Green Financing Framework.
+In order to ensure that all Eligible Green Projects provide environmental benefits, they must fall into 
+and comply with at least one of the following Eligible Project Categories and Technical Eligibility 
+Criteria respectively:
+10 Consistent with the interim Report on EU Green Bond Standard published on 18 June 2019.
+Page 15
+C1 -Public Natixs
+11 https://www.ieahydro.org/media/7e7156c6/1-1-Small-Hydropower-Definition-and-Glossary-of-Terms.pdf
+12 The Hydropower Criteria for the Climate Bonds Standard and Certification Scheme set out in the June 2019 version are 
+(https://www.climatebonds.net/files/files/Hydropower%20Criteria%20Document.pdf): a facility is eligible if it has either a power density i.e 
+the nameplate capacity of the facility divided by the surface area of the reservoir > 5W/m2 or GHG emissions intensity < 100g CO2e/kWh 
+using the G-res tool (developed by the International Hydropower Association and the UNESCO Chair for Global Environmental Change), or 
+a site-specific assessment in line with the IEA Hydro Framework.
+13 Please note that the Marine Energy Sub-Category will be formally reviewed in Vigeo Eiris’ Second Party Opinion by end S1 2020. 
+14 Such as Pumped Hydro technology complying with the Climate Bond Initiative criteria set out in the June 2019 version 
+(https://www.climatebonds.net/files/files/Hydropower%20Criteria%20Document.pdf)
+Eligible Project
+Categories
+Sub-Categories Technical Eligibility Criteria
+Environmental 
+objectives
+& SDGs
+contribution
+Renewable 
+energy 
+production
+Hydropower
+• Development, construction, installation 
+and maintenance of Small hydroelectricity 
+production facilities defined by IEA11
+• Development, construction, installation 
+and maintenance of Large hydroelectricity 
+production facilities, as defined by IEA, 
+subject to the compliance with a 
+recognized international standard, 
+including inter alia Climate Bonds
+Initiative12, UNFCCC Clean Development 
+Mechanism, IFC Reference Standards for 
+hydro projects or equivalent
+Climate change 
+mitigation
+through
+the avoidance 
+and reduction of
+Greenhouse gas
+emissions 
+(GHG)
+Geothermal
+Power
+• Development, construction, installation 
+and maintenance of Geothermal facilities 
+Wind Power
+• Development, construction, installation 
+and maintenance of Wind Facilities (such 
+as Onshore and Offshore projects 
+including floating wind turbines)
+Solar Power
+• Development, construction, installation 
+and maintenance of Solar Facilities (such 
+as Photovoltaic or Thermodynamic plants)
+Bioenergy
+• Development, construction, installation 
+and maintenance of Biomass and biogas 
+facilities and related infrastructures that are
+subject to additional eligibility criteria 
+(Sourcing of sustainable raw material and 
+sustainable sourcing process, including 
+transport and land use & avoidance of 
+conflicting utilization of the resources)
+Low carbon 
+Hydrogen
+• Development, construction, installation and 
+maintenance of low carbon Hydrogen 
+production capacity including investments 
+in production processes aiming at 
+promoting electrolysis efficiency with low 
+carbon energy sources
+Marine Energy13
+• Development, construction, installation and 
+maintenance of Marine Energy Facilities
+(such as hydrokinetics and marine 
+geothermal)
+Energy Storage Storage of 
+electricity
+• Development, construction, installation 
+and maintenance of Energy Storage 
+Facilities (aiming at promoting the 
+development of Renewable energies and/or 
+replacing peak electricity produced by less 
+environmentally friendly units)
+14
+Page 16
+C1 -Public Natixs
+15 A System is deemed to be on a trajectory to full decarbonisation if more than 67% of newly connected generation capacity in the System is 
+from renewable sources over a rolling five-year period
+Eligible Project
+Categories
+Sub-Categories Technical Eligibility Criteria
+Environmental 
+objectives
+& SDGs
+contribution
+Transmission
+and
+distribution 
+infrastructure
+Electricity 
+Transmission
+and
+distribution 
+infrastructure
+Development, construction, installation and 
+maintenance of Transmission and Distribution 
+projects when at least one of the following 
+criteria is met:
+• Infrastructure or equipment in Systems 
+which are on a trajectory to full 
+decarbonization15
+• T&D infrastructure having the purpose of, 
+or the ambition to, connecting renewable 
+energy production units 
+• Equipment and infrastructure where the 
+main objective is an increase of the 
+generation or use of renewable electricity 
+generation
+• Projects related to EV charging stations 
+and electric infrastructure for public 
+transport
+• Installation of T&D transformers tha t are 
+eco-designed and align with requirements 
+on no-load losses
+• Equipment to increase the controllability 
+and observability of the electrical power 
+system and enable the development and 
+integration of renewable energy sources 
+including:
+o Sensors and measurement tools
+(including meteorological sensors for 
+forecasting renewable production)
+o Communication and control
+(including advanced software and 
+control rooms, automation of 
+substations or feeders, and voltage 
+control capabilities to adapt to more 
+decentralised renewable infeed)
+Climate change 
+mitigation
+through
+the avoidance 
+and reduction of
+Greenhouse gas
+emissions 
+(GHG)
+Page 17
+C1 -Public Natixs
+16 i.e. using at least 50% renewable energy or 50% waste heat or 75% cogenerated heat or 50% of a combination of such energy an d heat.
+17 Please note that the CCS and CCU Eligible Project Category will be formally reviewed in Vigeo Eiris’ Second Party Opinion by the end of 
+March 2020
+Eligible Project
+Categories
+Sub-Categories Technical Eligibility Criteria
+Environmental 
+objectives
+& SDGs
+contribution
+Energy
+Efficiency
+Reduction of 
+energy 
+consumption per 
+unit of output
+• Heating and cooling network projects 
+enabling it to be defined as efficient16
+• Cogeneration with a minimum of 50% 
+usage of renewable power
+• Systems for energy management (such as 
+smart grids, smart metering and demand 
+side management systems)
+• Efficient products or appliances (such as 
+LED lighting)
+Climate change 
+mitigation
+through
+the avoidance 
+and reduction of
+Greenhouse gas
+emissions
+(GHG)
+Optimization of 
+buildings and 
+plants efficiency
+• Major renovation or Restructuring of 
+existing buildings and plants(as per plants 
+buildings performance) when at least one 
+of the following criteria is met: 
+o Demonstrating at least 30% of energy 
+consumption savings post 
+refurbishment (for buildings and 
+plants)
+o Alignment level of energy 
+performance of the building belongs 
+to the top 15% of the national stock
+(for buildings only)
+• Specific refurbishments to dedicated 
+energy efficiency works (such as but not 
+limited to HVAC systems renovation and 
+improvement (excluding fossil-fuel based 
+heating systems); Geothermal energy 
+systems roll-out; Insulation retrofitting; 
+LED roll-out; Solar panels installation; 
+Heat Recovery Systems; Motion detectors 
+roll-out…)
+CCS and CCU17
+Carbon dioxide 
+capture, 
+transportation 
+and geological 
+storage (CCS), 
+and Carbone 
+capture and reuse
+Development, construction, installation and 
+maintenance of projects of capture and reuse of 
+CO2 and anthropogenic emissions
+Climate change 
+mitigation
+through
+the avoidance 
+and reduction of
+Greenhouse gas
+emissions 
+(GHG)
+Page 18
+C1 -Public Natixs
+Eligible Project
+Categories
+Sub-Categories Technical Eligibility Criteria
+Environmental 
+objectives
+& SDGs
+contribution
+Green Buildings
+Development 
+of new buildings 
+or acquisition of 
+existing buildings
+Development of new buildings or acquisition of 
+existing buildings when at least one of the 
+following criteria is met:
+• The level of energy performance of the 
+building belongs to the top 15% of the 
+national stock
+• The building receives/targets a Design, 
+Post-Construction or In-Use environmental
+certification such as LEED with a 
+Minimum level of “Gold”, BREEAM with 
+a Minimum level of “Very Good”, HQE 
+with a Minimum level of “Excellent”
+Climate change 
+mitigation
+through the 
+avoidance and 
+reduction of
+GHG emissions
+Clean 
+Transportation
+Projects that 
+contribute 
+directly or 
+indirectly to a 
+reduction of CO2 
+emissions or 
+energy 
+consumption per 
+km-passenger
+• Individualor Public Transportation
+Vehicles including:
+o Light duty and heavy goods 100% 
+Electric Vehicles and related 
+infrastructures (such as charging 
+stations)
+o Biogas or Hydrogen vehicles and 
+related charging stations
+• Infrastructure for zero direct emissions 
+transport (e.g. electrification of railway 
+and/ or highways)
+Environmentally 
+sustainable 
+management
+of living natural 
+resources and 
+land use
+Preservation or
+restoration of 
+natural 
+landscapes
+Dedicated Investments/Projects promoting 
+restoration of sites such as:
+• Terrestrial and aquatic biodiversity 
+conservation
+• Restoration of Natural landscapes(e.g. 
+Rugeley coal asset decommissioning and 
+repurposing)
+• Decontamination of grounds and 
+basements for all types of sites
+Biodiversity 
+preservation
+Page 19
+C1 -Public Natixs
+Exclusion Criteria
+ENGIE has established a set of criteria preventing any projects included in the following list to be 
+earmarked as Eligible Green Projects:
+• Projects linked to Nuclear activities (such as Nuclear Power Plants and related infrastructures);
+• Projects related to Acquisition, Development, Operation and maintenance of new or existing fossilfuel based electricity generation capacity or heating systems (including, but not limited to, coal, oil
+or natural gas-powered assets). For the sake of clarity, this exclusion is not applicable in the case of 
+cogeneration assets meeting the Technical Eligibility Criteria;
+• Projects related to Industrial and non-conventional waste (chemicals, nuclear, toxic waste);
+• Projects related to the production of Hydrogen from non-renewable electricity sources;
+• In the specific context of Transmission and distribution infrastructure: Projects for infrastructure 
+dedicated to directly and solely connecting or expanding existing direct connection to production 
+plants that are fossil-fuel based;
+• In the specific context of Clean Transportation: Projects for infrastructure dedicated to the transport 
+of fossil fuels or blended fossil fuels.
+Furthermore, a specific exclusion criterion is applied by ENGIE on a case by case basis for each project 
+in the context of any material issues linked to ESG factors at project level.
+Page 20
+C1 -Public Natixs
+4.2. Process for evaluation and selection of projects
+Responsible Management of Projects
+In order to work towards an affordable and positive carbon neutral transition for businesses,
+communities and individuals, ENGIE has put in place internal processes to align its CSR strategy with
+its investment’s policy.The Group’s priority is to manage its projects in a socially and environmentally 
+responsible manner throughout their journey under ENGIE’s scope action. 
+In all circumstances, all Group employees, must observe for their activities:
+• international, federal, national and local regulations;
+• professional rules;
+• Engie’s policies and procedures, presented as follow. 
+These policies and procedures aim to ensure, to the extend feasible, that Engie’s activities do not 
+significantly harm any Environmental Objectives18 and comply with minimum social safeguard19
+.
+Overview of Engie’s policies and procedures
+ENGIE CSR policy aims to provide secure energy that is better consumed, accessible to as many people 
+as possible and respects both society and the environment. In order to address these commitments, 
+ENGIEhas put in place several policies including, but not limited to an Environmental policy20
+, a Social 
+policy21 and a Societal policy22
+. 
+18 As defined in the EU Taxonomy’s Environmental Objectives
+19 represented by the principles and rights set out in the eight fundamental conventions identified in the International Labour Organisation’s 
+declaration on Fundamental Rights and Principles at Work
+20 https://www.engie.com/sites/default/files/assets/documents/2020-02/environmental%20policy.pdf
+21 https://www.engie.com/en/group/social-responsibility/policies
+22 https://www.engie.com/sites/default/files/assets/documents/2019-10/engie_poisoc_dp_bat_bd_en_0.pdf
+Page 21
+C1 -Public Natixs
+The Group has also developed a Whistleblowing System to report inappropriate situations or those that 
+are not in line with the Group’s principles or current laws and regulations. These tools are open to all 
+employees and stakeholders (suppliers, sub-contractors, unions, NGOs, etc.).
+Moreover, ENGIE has put in place a procedure for business development. For major projects which are 
+presented to the Comité des Engagements Groupe (Group investment Committee for projects with capex 
+above 50 MEUR) this procedure requires:
+1. Compulsory ethic due diligence and risks analysis
+The Project Development Team must have conducted an ethic due diligence and a detailed risks analysis. 
+Ethic due diligence comprises controversy reviews on project and main stakeholders. Risks analysis 
+comprises criteria among which public and political acceptability, health, safety and environment risks 
+and compliance with the Group ethics charter.
+2. Compulsory CSR criteria matrix
+Once ethics due diligences and controversy reviews are performed, the Develo pment Team is 
+elaborating a scorecard of CSR criteria like Climate change mitigation, Climate change adaptation, 
+Environmental management, Water stress, Biodiversity conservation, Social acceptability, Stakeholders 
+involvement, Community mobilization, Ethics, Sustainable procurement, Global care, Working 
+conditions. 
+This CSR matrix aims at assessing the residual risks and opportunities once mitigation action plans are 
+taken into account regarding the impacts on the environment and ecosystems, social inclusion, business 
+ethics, human rights, health and safety. Each evaluation of CSR criteria by the Development Team must 
+be justified or documented by viable evidence. In case of negative evaluation, BU CSR officer must be 
+informed and asked to provide its expert advice.
+In the case of majority acquisitions of companies, for which processes and procedures may need to be 
+adapted and/or aligned with the ones of ENGIE, an up-to-18 months period (from the date of acquisition) 
+may be required to ensure full compliance. 
+The projects submitted to the Business Unit’s validation process (i.e Projects investments with capex 
+that are below 50MEUR) shall follow the Business Unit procedure which can be a simplified version of 
+the Group Business development procedure but fully aligned with it.
+Eligible Green Projects Selection Process
+When a Green project is likely to benefit from green Group funding, the BU, the Finance Department 
+or the CSR Department can propose it as an Eligible Green Project.
+The Finance and CSR departments review the Responsible Management of Projects as described in the 
+process for evaluation and selection of projects of this Framework. They also review the compliance of 
+selected Green Projects with the Technical Eligibility Criteria before their validation by the Green 
+Financing Committee.The CSR department also reviewsthe CSR criteria matrix for potential updates.
+ENGIE has established a Green Financing Committee for the overall governance of its Green 
+Financing Framework and related instruments. More generally, the Green Financing Committee follows 
+the market guidelines for sustainable financing products and guides the Group's financing strategy to 
+take them into account. The Green Financing Committee is composed of the Head of the CSR 
+Department (Chair), the Head of Corporate Finance (Vice Chair), and representatives of the Corporate 
+Page 22
+C1 -Public Natixs
+Finance Department, the CSR Department, the Business Units developing Eligible Green Projects and 
+other ENGIE Group qualified persons. 
+The Green Financing Committee, which meets on average 3 times per year:
+• Validates the Responsible Management of Projects as described in the process for evaluation 
+and selection of projects of this Framework;
+• Validates the compliance of selected Green Projects with the Technical Eligibility Criteria
+excluding controversial projects;
+• Validates the financial needs and amounts to be funded;
+• Validates the proceeds allocation;
+• Monitors the Eligible Green Projects; 
+• Validates the annual reporting to investors; 
+• Monitors the Auditors’ annual missions;
+• Reviewsthe Framework to reflect any change with regards to the Group’s sustainability strategy
+and initiatives, and any change in market standards and criteria selection.
+Page 23
+C1 -Public Natixs
+4.3. Management of Proceeds
+The Net proceeds of each Green Financing instrument will be managed by ENGIE’s treasury department 
+and an amount equal to the net proceeds will be earmarked for allocation to Eligible Green Projects as 
+validated by the Green Financing Committee. 
+Pending the full allocation to Eligible Green Projects, ENGIE will hold the balance of net proceeds not 
+already allocated to Eligible Green Projects within the treasury of the Group, invested in cash, cash 
+equivalent and/or money market instruments. ENGIE treasury department could consider allocating the 
+balance of unallocated proceeds in money market funds managed following a responsible investment 
+approach on a best effort basis.
+ENGIE has established systems to monitor and account for the allocation of the proceeds.
+ENGIEintends to allocate the proceeds of a given Green Bond issuance within a two-years’ period from 
+its issue date when its initial maturity is less than 10 years, and within a three years period when its 
+initial maturity is 10 years or more.
+ENGIE is committed to position itself as a supporter of the development of the Green Finance Market 
+via repeat issuances of Green Financing Instruments. In this context ENGIE has established a dedicated 
+set of rules to ensure complete transparency regarding Green Financing Instruments proceeds 
+management:
+• When the Eligible Green Projects earmarked to net proceeds of a Green Financing Instrument are 
+subject to joint investment or joint ventures, ENGIE will only consider the pro-rated share (%) of 
+its own investment in the specific Eligible Green Projects;
+• If a material issue linked to ESG factors arises after allocation of net proceeds to a specific Eligible 
+Green Project ENGIE commits to replace the project as soon as feasible;
+• ENGIE reserves the right to use net proceeds of Green Financing Instruments to refinance other 
+Green Financing Instruments (in line with the Green Bond Principles recommendation on Buy-Back 
+of Green Bonds)23
+. 
+However, when engaging in such operations with Green Financing Instruments, ENGIE will not reallocate more than 75% of the net proceeds to pre-existing Eligible Green Projects and commits to 
+earmark at least 25% of net proceeds to future Eligible Green Projects. 
+This process aims at preventing the creation of a lock-in effect on existing Eligible Green Projects.
+Furthermore, any Eligible Green Project reaching the end of its lifetime or decommissioned will no
+longer be eligible.
+23 Is it possible to buy back Green, Social or Sustainability Bonds with proceeds of a new Green, Social or Sustainability Bond?
+Market operations, such as buybacks are an essential part of the capital markets. The Executive Committee of The Principles wants to ensure 
+flexibility for our issuers regarding these exercises. We welcome issuers considering these transactions, who will buy back conventional, Green, 
+Social or Sustainability bonds to ensure that any new transactions that will be Green, Social or Sustainability Bonds follow the four components 
+of the GBP, for the new issuance. Similarly, an issuer may use part of the proceeds of the money raised by a Green, Social or Sustainability 
+Bond to buy back Green, Social or Sustainability Bonds in the context of the issuer’s market operations and/or in the case of a shortfall of 
+Eligible Projects.
+Page 24
+C1 -Public Natixs
+4.4. Reporting
+Until the net proceeds are earmarked in full to Eligible Green Projects and later in case of any material 
+change in the list of Eligible Green Projects earmarked to each Green Financing Instrument, ENGIE
+will provide annually to investors:
+i. An allocation report located in ENGIE’s Registration document providing:
+• The split of Eligible Green Projects’ categories (re)financed;
+• The share of allocated proceeds vs total proceeds (in % share); 
+• The share of financing vs refinancing (in % share of net proceeds);
+• The list of Eligible Green Projects, with their related description earmarked to each Green Finance 
+Instrument in line with the table provided in Appendix of the Green Financing Framework;
+• The share of co-financing for the Eligible Projects (i.e. in case of joint investment or joint ventures).
+ii. An Environmental impact report, available on ENGIE’s website24 and including information on the 
+environmental outcomes of the Eligible Green Projects as detailed in the Impact Indicators table 
+provided in Appendix 1 of the Green Financing Framework.
+For each reporting the methodology applied on impact indicators will be detailed in the annual 
+Registration Document and/or on ENGIE website.
+The reporting process is structured and based on relevant internal expertise:
+• Business unit representatives in charge of finance and environment oversees the data collection 
+through internal tools; 
+• Then the consolidation and aggregation of indicators is made at projects and categories level by 
+the CSR and Finance Departments.
+In addition, in case of a major controversy on an Eligible Green Project, ENGIE will provide investors 
+with information on key issues at stake and actions put in place by ENGIE.
+24 www.engie.com
+Page 25
+C1 -Public Natixs
+4.5. External Review
+1) Second Party opinion
+ENGIE has appointed Vigeo Eiris to assess the green feature of its Green Financing Framework and its 
+alignment with the Green Bonds Principles and Green Loan Principles. Vigeo Eiris applies its own 
+methodology in line with international standards and Green Bond Principles guidelines to carry out this 
+assessment. The results are documented in Vigeo Eiris’ Second Party Opinion which is available on 
+ENGIE website.
+The Second Party Opinion refers to the whole Green Financing Framework.
+2) Annual Assurance Report
+Until the net proceeds are allocated in full to Eligible Green Projects and later in the case of any material 
+change in the list of Eligible Green Projects, one of the external auditors of the Issuer, is expected to 
+issue a report on:
+• The compliance of projects financed by Green Financing Instruments issued/agreed under the 
+Green Financing Framework with Technical Eligibility Criteria defined in the use of proceeds 
+section; 
+• Allocated amount related to the Eligible Green Projects financed by the Green Financing 
+Instruments proceeds; and 
+• The management of proceeds and unallocated proceeds amount.
+Page 26
+C1 -Public Natixs
+Appendix: Environmental Impact Indicators
+Eligible Project
+Categories Sub-Categories
+Project 
+description
+Environmental
+Impact Indicators
+such as & not limited to
+Renewable 
+energy 
+production and 
+storage
+Renewable 
+energy 
+production
+• Name
+• Technology 
+• Geographic zone & Country
+• Operational date
+• Installed capacity in MW
+• Expenditures attributable to 
+the Green Financing 
+Instrument (€)
+• Annual renewable energy 
+production in MWh (in 
+full operational phase)
+• Annual contribution to
+GHG emissions avoided 
+in tons of CO2 equivalent
+Renewable 
+energy storage
+• Name
+• Technology 
+• Geographic zone & Country
+• Operational date 
+• Storage capacity in MW
+• Expenditures attributable to 
+the Green Financing 
+instrument (€)
+• Annual renewable energy 
+stored in MWh (in full 
+operational phase)
+• Annual contribution to 
+GHG emissions avoided
+in tons of CO2 equivalent
+Transmission
+and
+distribution 
+infrastructure
+Electricity 
+Transmission
+and distribution 
+infrastructure
+• Name
+• Geographic zone & Country
+• Operational date 
+• Physical indicator i.e. T&D 
+lines (total and attributable 
+km) and increase of T&D 
+capacity (total and attributable 
+MW)
+• When applicable and possible, 
+amount of renewable 
+generation capacity connected 
+by the T&D asset (MW)
+• Expenditures attributable to 
+the Green Financing 
+instrument (€)
+• Annual GHG emissions 
+avoided by the renewable 
+generation capacity 
+connected by the T&D 
+asset (tCO2e per year) (in 
+full operational phase) 
+Energy 
+Efficiency
+Reduction of 
+energy 
+consumption per 
+unit of output
+• Name
+• Geographic zone & Country
+• Operational date 
+• Technology 
+• Expenditures attributable to the 
+Green Financing instrument (€)
+• Annual reduction of 
+energy consumption in % 
+or in MWh (in full 
+operational phase)
+• Annual GHG emissions 
+reduced in tons of CO2 
+equivalent
+Optimization of 
+buildings and 
+plant efficiency
+• Name
+• Geographic zone & Country
+• Nature of Investment
+• Operational date 
+• Expenditures attributable to the 
+Green Financing instrument (€)
+Co-generation
+• Name
+• Geographic zone & Country
+• Operational date 
+• Share (%) of renewables
+• Expenditures attributable to the 
+Green Financing instrument (€)
+Page 27
+C1 -Public Natixs
+Eligible Project
+Categories Sub-Categories Project description
+Environmental
+Impact Indicators
+such as & not limited to
+Green Buildings
+Development 
+of new buildings 
+or acquisition of 
+existing 
+buildings
+• Name
+• Geographic zone & Country
+• Type of Building
+• Operational date 
+• Environmental Certification 
+achieved or targeted with 
+sublevel and year of obtention
+• Expenditures attributable to the 
+Green Financing instrument 
+(€)
+• Annual Energy intensity 
+(KWh) per sqm & Annual 
+reduced/avoided GHG 
+emissions 
+Clean 
+Transportation 
+Projects
+Projects that 
+contribute 
+directly or 
+indirectly to a 
+reduction of CO2 
+emissions per 
+km-passenger
+• Name
+• Geographic zone & Country
+• Nature of Project
+• Operational date 
+• Number or type of vehicles 
+• Charging capacity 
+• Number/size of infrastructure 
+for electrification
+• Expenditures attributable to the 
+Green Financing instrument (€)
+• Annual GHG emissions 
+reduced in tons of CO2 
+equivalent or g CO2 per 
+passenger-km (passengers’ 
+activities) or per t-km 
+(freight activity) 
+• Annual contribution to 
+GHG emissions avoided in 
+tons of CO2 equivalent or 
+g CO2 per passenger-km 
+(passengers’ activities) or 
+per t-km (freight activity) 
+Environmentally 
+sustainable 
+management
+of living natural 
+resources and 
+land use
+Decontamination 
+of grounds and 
+basements for all 
+types of sites to 
+make them 
+suitable for a 
+new industrial, 
+commercial or 
+residential use
+• Name
+• Geographic zone & Country
+• Type of Building
+• Operational date
+• Treatment types (Physical, 
+Chemical, Biological, Thermal 
+treatments) 
+• Expenditures attributable to the 
+Green Financing instrument (€)
+• Annual contribution in ha 
+or m² to land remediated/
+ decontaminated/regenerated 
+Page 28
+C1 -Public Natixs
+GREEN FINANCING FRAMEWORK 2020 - DISCLAIMER
+The information and opinions contained in this Green Financing Framework are provided as at the date 
+of this document and are subject to change without notice. ENGIE S.A. does not assume any 
+responsibility or obligation to update or revise any such statements, regardless of whether those 
+statements are affected by the results of new information, future events or otherwise.
+This Green Financing Framework does not constitute or form part of, and should not be construed as, 
+an offer or invitation to sell securities of ENGIE S.A. or its consolidated subsidiaries (the “ENGIE
+Group”), or the solicitation of an offer to subscribe for or purchase securities of the ENGIE Group, and 
+nothing contained herein shall form the basis of or be relied on in connection with any contract or 
+commitment whatsoever. Any decision to purchase any securities of the ENGIE Group should be made 
+solely on the basis of the information to be contained in the offering memorandum produced in 
+connection with the offering of such securities. Prospective investors are required to make their own 
+independent investigations and appraisals of the business and financial condition of the ENGIE Group 
+and the nature of the securities before taking any investment decision with respect to securities of the 
+ENGIE Group. The offering memorandum may contain information different from or additional to the 
+information contained herein.
+This material is not intended for distribution to, or use by, any person or entity in any jurisdiction or 
+country where such distribution or use would be contrary to law or regulation. Pe rsons into whose 
+possession such documents may come must inform themselves about, and observe, any applicable 
+restrictions on distribution.
+Forward-Looking statements
+This Green Financing Framework contains certain forward-looking statements that reflect ENGIE
+S.A.’s management’s current views with respect to future events and financial and operational 
+performance of the ENGIE Group. These forward-looking statements are based on ENGIE S.A.’s 
+current expectations and projections about future events. Because these forward-looking statements are 
+subject to risks and uncertainties, actual future results or performance may differ materially from those 
+expressed in or implied by these statements due to any number of different factors, many of which are 
+beyond the ability of ENGIE S.A. to control or estimate precisely, including changes in the regulatory 
+environment, future market developments, fluctuations in the price, impact of climate and other risks 
+mentioned in ENGIE’s reference document 2018 filed with the Autorité des Marchés Financiers on 
+March 20, 2019. You are cautioned not to place undue reliance on the forward-looking statements 
+contained herein, which are made only as of the date of this document. ENGIE S.A. does not undertake 
+any obligation to publicly release any updates or revisions to any forward-looking statements to reflect 
+events or circumstances after the date of this presentation. The information contained in this Green 
+Financing Framework does not purport to be comprehensive and has not been independently verified by 
+any independent third party. 
+Date Version Revisions
+March 2017 initial
+January 2018 v1 §2.1: addition of transmission and distribution network projects related to 
+renewable capacity and precision on compliance with existing standards 
+January 2019 v2 §2.2: precision on energy efficiency projects with energy storage, efficient 
+products or appliances (LED lighting, ..)
+§2.4: addition of a new project category “ Clean Transportation Projects” and 
+precision on potential eligible projects 
+§2.5: addition of a new project category linked to GBP 
+§5 : adaptation of reporting information to be disclosed due previously mentioned 
+changes
+§ Appendix : adaptation of ESG criteria for compliance due previously mentioned 
+changes
+March 2020 v3 Full update of the Framework

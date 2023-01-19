@@ -1,0 +1,672 @@
+Deutsche Bank
+The information contained herein is the property of Deutsche Bank Group and may not be copied, used or disclosed in whole or in part, 
+stored in a retrieval system or transmitted in any form or by any means (electronic, mechanical, reprographic, recording or otherwise) 
+outside of Deutsche Bank Group without prior written permission.
+Sustainable Finance Framework –
+Deutsche Bank Group
+July 2020
+Sustainable Finance Framework – Deutsche Bank Group
+Table of Contents
+1. Sustainability at Deutsche Bank............................................................................................................... 1
+2. Sustainable Finance Framework.............................................................................................................. 1
+2.1. Introduction.................................................................................................................................... 1
+2.2. Classification logic ........................................................................................................................ 1
+2.3. Eligibility parameter...................................................................................................................... 3
+2.3.1. Parameter 1 – Use of proceeds .................................................................................................. 3
+2.3.2. Parameter 2 – Company profile................................................................................................10
+2.3.3. Parameter 3 – Sustainability linked products ........................................................................10
+2.4. Exclusion criteria & Environmental and Social Due Diligence............................................11
+2.5. Verification process ....................................................................................................................11
+3. Glossary ......................................................................................................................................................12
+Sustainable Finance Framework – Deutsche Bank Group
+1
+1. Sustainability at Deutsche Bank
+In alignment with our purpose, sustainability and the underlying sustainability principles are part of 
+Deutsche Bank’s Code of Conduct. The following sustainability principles are at the core of our 
+business and emphasise the bank’s commitment to environmental and social responsibility:
+ We commit to balancing economic success with environmental and social responsibility;
+ We identify and address the environmental and social impacts of our business activities;
+ We foster business that enables sustainable growth;
+ We are guided by internationally recognized principles and standards;
+ We ensure that our sustainability strategy is firmly grounded in robust governance, policies 
+and processes;
+ We encourage transparent communication and open dialogue with stakeholders.
+Furthermore, Deutsche Bank has clearly demonstrated its commitment to sustainability by setting an 
+ambitious target of facilitating €200bn in ESG financing plus its portfolio of sustainable investments
+by 2025. The bank follows internationally recognized principles for sustainable business and banking, 
+such as the UN Global Compact, the UN Principles for Responsible Investments and the UN Guiding 
+Principles on Business and Human Rights. 
+2. Sustainable Finance Framework
+2.1. Introduction 
+The Sustainable Finance Framework (“the Framework”) outlines the methodology and associated 
+procedures to be applied to classify financial products and services offered by Deutsche Bank as 
+sustainable finance. It specifies the classification logic, the eligibility criteria, the applicable 
+environmental and social due diligence requirements and the verification process for sustainable 
+finance. Further, reporting principles and requirements are outlined. 
+The Framework aims to establish a consistent and comprehensive methodology for the classification 
+and reporting of financial products and services as sustainable. It further serves as a basis for defining 
+targets and metrics for sustainable finance to deliver on the Deutsche Bank’s commitment to support 
+sustainable economic growth and the transition to a low-carbon economy. It is dynamic in its nature, 
+and will be regularly reviewed and expanded as required to amend or add additional qualifying 
+activities and/or criteria, and to fulfil upcoming regulatory requirements under the EU Taxonomy 
+Regulation. 
+For investment products, a complementary ESG framework for the classification of the investments 
+products as sustainable/ESG products will be applied.
+Capitalised terms have the meaning ascribed to them in section 3.
+2.2. Classification logic
+Sustainable finance is broadly defined as any form of financial product/service that promotes positive 
+environmental and/or social (ES) purposes while contributing to the achievement of the Paris 
+Agreement goals and Sustainable Development Goals (SDGs). Deutsche Bank defines six guiding 
+principles for the classification of economic activities as environmentally and/or socially sustainable. 
+Sustainable Finance Framework – Deutsche Bank Group
+2
+Principles for environmental sustainability
+1. Climate change mitigation and adaptation: 
+Economic activities enabling, directly or indirectly, a substantial reduction of GHG emissions 
+and/or increase of energy efficiency. Measures adapting to acute and chronic physical risks 
+caused or intensified by climate change.
+2. Protection, restoration and promotion of natural resources and healthy ecosystems: 
+Protection of marine and terrestrial [living] resources including water, critical and high-carbon 
+stock ecosystems, and other primary resources. Restoration of biodiversity and ecosystems. 
+Pollution protection and control and general reduction of resource use. 
+3. Transition to a circular economy: 
+Prevention of waste and promotion of recycling and reuse of material.
+Principles for social sustainability
+1. Respect for human rights:
+Respect for, protection and enablement of basic human rights, e.g. food provision, labour 
+protection.
+2. Enabling living conditions:
+Access to affordable housing and infrastructure for transportation, ICT, and energy provision.
+3. Access to essential services: 
+Inclusive access to health, education, and financial services.
+Under this framework, any financing (including but not limited to asset-based lending, corporatelevel lending, trade finance as well as Capital Markets instruments including but not limited to all 
+forms of certified sustainability-linked loans or sustainability linked hedging or other instruments) can 
+be classified as sustainable finance. Deutsche Bank defines three parameters based on which a 
+transaction can be classified: 
+(1) Use of proceeds,
+(2) Company profile and/or 
+(3) Financial product in itself.
+If one of the three parameters contributes to the achievement of the Paris Agreement goals and SGDs 
+and is in line with Deutsche Bank’s principles for environmental and social sustainability outlined 
+above, a transaction can be classified as sustainable finance.
+EU Taxonomy Regulation 
+Our ambition is to align this framework to the extent possible with the requirements of the EU 
+Taxonomy Regulation. Specifically, we will
+ Consider, as far as feasible, technical screening criteria formulated by the EU Taxonomy for 
+climate mitigation and adaption, especially for parameters 1) use of proceeds and 2) company 
+profile;
+ Start evaluating any gaps between the requirements of the Do No Significant Harm (DNSH) 
+assessment and alignment with social minimum safeguards under the EU Taxonomy and our 
+internal environmental and social due diligence approach.
+Our existing due diligence requirements are based on the international standards listed in the 
+Taxonomy Regulation, e.g. the UN Guiding Principles on Business and Human Rights. We aim to 
+close any gaps we identify as we develop our framework. Equally, we will continue developing our 
+internal framework to fully embed the technical screening criteria developed by the EU into our 
+internal classification process. 
+Sustainable Finance Framework – Deutsche Bank Group
+3
+The simplified classification logic and application process is outlined below:
+ 
+Classification logic 
+ 
+ 
+ 
+ 
+2.3. Eligibility parameter
+2.3.1. Parameter 1 – Use of proceeds
+Where a dedicated use of proceeds can be determined, environmental and social criteria will be 
+applied to classify whether the underlying economic activities are deemed sustainable. There are two 
+basic considerations: Firstly, activities helping to sustain, improve and protect the environment, and 
+secondly, activities enabling social development, especially in marginalized target groups. 
+The criteria for classification of activities as environmentally sustainable (Table 1) follow existing 
+recognised international market standards and practices, e.g. the ICMA Green Bond Principles, and 
+where feasible link to the technical screening criteria developed by the EU Taxonomy. 
+Social criteria (Table 2) are defined in accordance with the ICMA Social Bond Principles. As the 
+overall understanding of environmental and social matters evolves and work on the EU Taxonomy 
+continues, the criteria outlined in the Tables 1 and 2 may require modification. We will update our 
+classification criteria according to periodical changes in the market approach and to the EU 
+Taxonomy, and in adherence to our internal processes, including as outlined under sections 2.4. and 
+2.5 respectively (Environmental and Social due diligence requirements and verification process).
+ 
+Classification 
+as ‘sustainable 
+finance’ not 
+possible
+Do use of proceeds link to 
+a dedicated economic 
+activity / project?
+Is the use of proceeds 
+compliant with the 
+environmental or social 
+eligibility criteria?1)
+Yes
+Classification as ‚sustainable finance‘ possible
+Yes
+Does the company derive 90% 
+of revenues from activities 
+defined as sustainable under 
+this framework?1)
+No
+Yes
+Yes
+No Is it a 
+sustainability-linked 
+product?
+No
+No
+Parameter 1: 
+Use of proceeds
+Parameter 2: 
+Company profile
+Parameter 3: 
+Product
+Has the Environmental & Social Due Diligence (ES DD) been passed successfully?2)
+Yes
+Yes
+Yes
+No
+1) The eligibility criteria are aligned on the best effort basis with the EU Taxonomy and the internationally acknowledged principles e.g. ICMA Social 
+and Green Bond Principles for the classification of economic activities. In the mid- to long term, DB aims to capture in full the thresholds set in the 
+EU Taxonomy.
+2) Transaction / client profile undergoes a ES DD either as required per DB ES Risk Framework, or on a best effort basis for low risk sectors. In the 
+mid- to long term, DB aims to transition to a DNSH assessment that is fully compliant with the requirements set in the EU Taxonomy. 
+Sustainable Finance Framework – Deutsche Bank Group
+4
+Environmentally sustainable activities 
+Table 1: Environmentally sustainable activities - Climate change mitigation 
+Sector / SDG1 Activity Exemplary eligibility criteria 
+Manufacturing 
+ 
+ 
+ Low carbon technologies
+ Low-carbon, low energy: 
+o Cement
+o Aluminium
+o Iron and steel
+o Chemicals 
+ Plastics
+ Manufacturing of key components, 
+equipment and machinery for 
+renewable energy technologies, lowcarbon transportation eligible under 
+this taxonomy, energy efficiency of 
+buildings, e.g. high efficiency lighting
+ Development and manufacturing of 
+low-carbon technologies that 
+substantially reduce GHG emission in 
+other sectors of the economy (incl. 
+private households)
+ Transition of industrial production to 
+low-carbon and high-energy efficient 
+production using the EU Taxonomy as 
+a guidance for identification of 
+respective performance thresholds
+ Recycling and reutilisation of material 
+(e.g. plastics; scrap steel)
+Energy 
+ 
+ 
+ 
+ 
+ 
+ Renewable energy
+o Solar
+o Wind
+o Ocean energy
+o Hydropower 
+o Geothermal
+ Gas combustion
+ Bioenergy
+ Energy transmission, 
+distribution and storage 
+ Hydrogen storage
+ Generation of electricity from 
+renewable sources
+ Hydropower subject to enhanced 
+detailed due diligence of environmental 
+and social impacts 
+ Bioenergy subject to reviewing the 
+feedstock. The following feedstocks are 
+considered as eligible, e.g.
+o Second-generation sources (e.g. 
+waste & residues), or
+o Certified first-generation sources
+(e.g. FSC, ISCC, RSPO) 
+ Infrastructure on or support of a 
+trajectory to full decarbonisation by 
+2050
+ Infrastructure directly connecting 
+renewable energy or integrating 
+renewable energy into existing 
+transmission networks
+ 1 Table maps SDGs to industrial sectors based on a high likelihood to contribute positively to the global indicators for the 
+Sustainable Development Goals and targets of the 2030 Agenda for Sustainable Development. This mapping is not exhaustive 
+but directive. Single transactions may contribute to further SDGs if a positive contribution to the respective indicators of an 
+SDG is achieved. The “Global indicator framework for the Sustainable Development Goals and targets of the 2030 Agenda for 
+Sustainable Development” with a list of all SDGs and their indicators will be used as guidance. 
+Sustainable Finance Framework – Deutsche Bank Group
+5
+Sector / SDG1 Activity Exemplary eligibility criteria 
+ EV charging stations and electric 
+infrastructure for public transport 
+ Other measures dedicated to improve 
+the efficient use of energy, prevent 
+system losses such as e.g. smart grid 
+technologies
+Water & Waste 
+ 
+ 
+ 
+ 
+ Water management
+ Waste management 
+ Material recovery from nonhazardous waste (reuse / 
+recycling
+ Anaerobic digestion facilities 
+for production of biogas and 
+digestate from bio-waste
+ Facilities for composting biowaste
+ Landfill gas capture and 
+utilisation in permanently 
+closed landfills 
+ Anthropogenic emission 
+management.
+ Front-to-end water collection, 
+treatment and supply systems with 
+high energy efficiency in terms of water 
+consumption per cubic meter 
+ Activities which substantially reduce 
+energy consumption (20%) of a system
+ Activities which improve water quality 
+and/or water use efficiency 
+ Waste reuse and recycling 
+ Recovery of secondary raw materials 
+ Production of biogas (should include 
+controls for methane leakage) for 
+electricity, heat or bio-fuel generation 
+ Gas from landfills in closure used for 
+electricity, heat or bio-fuel generation
+ Direct air capture of CO2
+Real Estate 
+ 
+ 
+ Construction
+ Renovation
+ Acquisition
+ Individual measures and 
+professional services related to 
+improving efficiency 
+ Construction of highly energy-efficient 
+buildings: 
+o Minimum certification 
+requirements preferable, e.g. 
+LEED Gold, BREEAM Excellent, 
+DGNB Gold, HQE Excellent, EPC 
+level A, or
+o Primary energy demand is within 
+top 15% of local stock or
+compliant with local regulations on 
+energy efficiency 
+ Renovation achieves energy savings ≥
+30%, or primary energy demand after 
+renovation is within top 15% of local 
+stock or compliant with local 
+regulations on energy efficiency 
+ Measures increasing the energy 
+efficiency of buildings and/or enabling 
+use/production of renewable energies, 
+energy-efficient technologies, e.g. 
+installation of energy management 
+systems, installation of solar 
+photovoltaic systems, replacement of 
+doors, windows with energy-efficient 
+Sustainable Finance Framework – Deutsche Bank Group
+6
+Sector / SDG1 Activity Exemplary eligibility criteria 
+options, installation of LED lightning 
+systems etc.
+Transportation & 
+storage 
+ 
+ Rail and road transport
+(passenger and freight)
+ Inland water transport
+(passenger and freight) 
+ Infrastructure for low carbon 
+transport (land and water)
+ Any zero-direct emission vehicles
+ Other vehicles (passenger) with direct 
+emissions < 50g CO2 per passenger km 
+until 2025 or meet threshold-based on 
+IEA Mobility Model data
+ Freight transport either meets
+threshold based on IEA Mobility Model 
+data or follows the respective vehiclespecific thresholds set by the EU 
+Taxonomy 
+ Infrastructure required for zero direct 
+emissions transport and low carbon 
+transport including e.g. 
+infrastructure/equipment for active 
+mobility (e.g. cycling)
+Information and 
+Communications 
+Technology (ICT) 
+ 
+ 
+ Data infrastructure
+ ICT for climate change
+ Energy-efficient data centres and 
+equipment2
+ Data-driven solutions enabling GHG 
+emission reductions
+Agriculture & 
+forestry 
+ 
+ Growing of crops 
+ Forestry (Afforestation, 
+Reforestation, Restoration, 
+Rehabilitation, Forest Mgmt., 
+Conservation)
+ Measures aimed at improving the 
+sustainability of agricultural processes,
+e.g. optimize water consumption, use of 
+fertilizers including organic fertilizers 
+etc. 
+ Avoidance or significant reduction of 
+GHG emissions 
+ Maintenance or increase of existing 
+carbon stocks
+ Compliance with Sustainable Forest 
+Management requirements for any 
+afforestation and other forest 
+restoration/conservation measures
+ 
+ 
+Table 1 - Environmentally sustainable activities – Other Principles 
+ 
+Principles / SDG Activity Eligibility Criteria 
+Climate change 
+adaptation 
+(Principle 1) 
+ 
+Activities adapting 
+to climate change 
+ The activity reduces all material physical climate 
+risks identified in a risk assessment to the extent 
+possible and on a best effort basis by integrating 
+physical and non-physical measures and considering 
+context and location specifics.
+ 2 ICT equipment and services; cooling; data centre power equipment; data centre power distribution equipment; data centre 
+building; monitoring systems.
+Sustainable Finance Framework – Deutsche Bank Group
+7
+Principles / SDG Activity Eligibility Criteria 
+ 
+ The economic activity and its adaptation measures 
+do not increase risk for or adversely affect the 
+adaptation efforts of other people, nature3 and 
+assets, i.e. are consistent with sectoral, regional, 
+and/or national adaptation efforts.
+ The reduction of physical climate risks can be 
+measured by monitoring adaption results and 
+measuring them against defined indicators.
+ For example, water utility adapting early warning 
+systems to reduce the risk of flood.
+Activities enabling 
+adaptation of an 
+economic activity
+ Activities developing and/or facilitating the 
+adaptation solutions. This can be demonstrated 
+through an assessment of the risks the activity will 
+address and an assessment of the effectiveness of 
+the activity in reducing those risks.
+ For example, a company developing and installing 
+early warning systems for flood risk.
+Principle 2 & 3 
+ 
+Protection, 
+restoration and 
+promotion of 
+natural resources 
+and healthy 
+ecosystems
+ Eligibility for classification as sustainable finance will 
+be assessed on a case-by-case basis only.
+Transition to a 
+circular economy
+ Eligibility for classification as sustainable finance will 
+be assessed on a case-by-case basis only.
+ 
+ 
+ 3 Consideration should be given to the viability of 'green' or 'nature-based’ solutions over 'grey' measures to address 
+adaptation.
+Sustainable Finance Framework – Deutsche Bank Group
+8
+Socially sustainable activities 
+Deutsche Bank defines social activities in accordance with the ICMA Social Bond Principles (SBP). 
+Here, eligible activities are defined as directly addressing or mitigating a specific social issue and/or 
+seek to achieve positive social outcomes especially, but not exclusively, for socially disadvantaged 
+groups. Socially disadvantaged groups are defined as populations that are excluded in their local 
+society for reasons that may be tied to age, sex, disability, race, ethnicity, origin, religion, economic 
+or other status.
+The below table outlines economic activities that are eligible for a classification as sustainable 
+finance. Impact indicators are used to capture the tangible social change facilitated by sustainable 
+finance and should be of quantitative nature where possible.
+Table 2 – Socially sustainable activities 
+ 
+Theme / SDG Eligible activities Impact indicator 
+Affordable basic 
+infrastructure 
+ 
+ 
+ 
+ 
+ Projects providing/expanding 
+affordable access to clean 
+energy, clean drinking water, 
+sanitation and transport 
+ Development of telecommunication networks and 
+related infrastructure
+ Number of people with access to 
+electricity
+ Number of people with access to 
+affordable, clean drinking water and 
+equitable sanitation
+ Number of people with access to 
+sustainable transportation 
+ Area covered by telecom 
+infrastructure
+Access to 
+essential 
+services 
+ 
+ 
+ Improve access to and/or 
+affordability of health care
+ Enhance access to, quality of 
+and/or affordability of education
+ Inclusive access without 
+discrimination on the basis of 
+sex or other factors, e.g. race, 
+disability 
+ Number of hospitals and other 
+healthcare facilities built/upgraded
+ Number of beds/inhabitants
+ Number of people benefitting from 
+healthcare products/services
+ Cost reduction for standard 
+treatments and medicines
+ Improved range of affordable 
+medical services/medicines
+ Number of educational institutions 
+funded 
+ Number of students supported
+ Number of years of newly 
+accessible education provided
+ Equal access to education, 
+healthcare and information
+Affordable 
+housing 
+ 
+ 
+ Building of affordable and/or 
+improved housing
+ Rental costs compared to the 
+national/regional rent index
+ Share of under-served tenants
+ Number of people with access to 
+adequate, safe and sustainable 
+housing
+Sustainable Finance Framework – Deutsche Bank Group
+9
+Theme / SDG Eligible activities Impact indicator 
+SME Financing 
+and 
+Microfinance 
+ 
+ 
+ 
+ Equal access to banking, 
+financial services and other 
+economic resources 
+ Financing/advisory services for 
+micro, small, and medium-sized 
+enterprises
+ Overall socio-economic 
+advancement 
+ Number of SMEs financed 
+ Number of jobs created/retained
+ Number of local SME suppliers and 
+smallholder farmers in supply chain
+ Number of new accounts opened in 
+underserved areas
+ Number of products aimed at 
+financial inclusion
+ Number of applicants for products 
+targeted at underserved 
+populations
+ Number of financial literacy 
+initiatives put into place
+ Number of 
+beneficiaries/participants of 
+financial literacy initiatives
+Food security 
+ 
+ Investments aiming to enhance 
+agricultural productivity
+ Extension of sustainable farming 
+practices/sustainable land use 
+ Output per hectare from 
+environmentally sustainable 
+production
+ Water required per kg of output
+ Number of people with affordable 
+access to safe, nutritious and 
+sufficient food
+If a transaction/use of proceeds is aimed at a target population not included in the list set out in this 
+policy, or contributes significantly to one of the three principles for social sustainability outlined in 
+section 2.2, eligibility for classification as sustainable finance can be assessed on a case-by-case 
+basis by Group Sustainability.
+Sustainable Finance Framework – Deutsche Bank Group
+10
+2.3.2. Parameter 2 – Company profile
+If the use of proceed is not specified or dedicated to facilitate a certain activity (e. g. general corporate 
+purposes), eligibility of a transaction for classification as sustainable finance will be assessed on the 
+basis of the company profile. Transactions are eligible if the company
+1. derives ≥ 90% of its revenues from activities eligible under section 2.3.1; and
+2. is not involved in any activities excluded under section 2.4.
+2.3.3. Parameter 3 – Sustainability-linked products
+Deutsche Bank facilitates the development of innovative sustainable finance solutions incentivizing 
+its clients’ commitment to sustainability and to support environmentally and socially sustainable 
+economic activity and growth. 
+Sustainability-linked products are financial instruments that cannot be classified based on their use 
+of proceeds as per the defined categories in section 2.3.1. Their structure is based on pre-determined 
+overall or specific sustainability performance targets (SPTs). SPTs need to be
+ ambitious;
+ material for clients’ business and core economic activities; and
+ compliant with the core principles for environmental and social sustainability outlined in 
+section 2.2.
+Underlying KPIs for the SPT should address the key sector-specific ESG challenges faced by a client 
+and its industry in a holistic way and be linked to the client’s overall sustainability and/or transition 
+strategy if available. SPTs should be verifiable and reported regularly by the client. Preferably, they 
+should be measured or audited by a recognized and reputable external provider. This could be an 
+ESG rating, a certification or a second-party opinion. Where applicable, specific sustainability-linked 
+products should further adhere to recognized industry standards such as the LMA Green Loan 
+Principles and Sustainability Linked Loan Principles or the ICMA Green Bond Principles and Social 
+Bond Principles.
+The final validation for new structures for sustainability-linked products issued under this Sustainable 
+Finance Framework will be carried out by Group Sustainability taking market standards into 
+consideration.
+Sustainable Finance Framework – Deutsche Bank Group
+11
+2.4. Exclusion criteria and environmental and social due diligence 
+In order to confirm that any transaction classified as sustainable finance does not have material 
+negative environmental and/or social impacts, an ES due diligence (ES DD) will be conducted. For 
+clients in high or enhanced ES risk sectors, the respective assessment procedure follows the ES Risk 
+assessment as outlined in the Deutsche Bank Environmental and Social (ES) Policy Framework. For 
+sectors that are currently not in the scope of Deutsche Bank’s ES Policy Framework, ES DD will be 
+conducted by business and by Group Sustainability on a best effort basis. In the future, the objective 
+is to align the existing ES DD approach with the EU Taxonomy requirements in regard to the Do No 
+Significant Harm assessment and social safeguards. 
+2.5. Verification process
+Eligible sustainable finance activities as defined by this Framework will be reviewed and validated 
+continuously following a three-step verification process: (1) Front-office representatives will identify 
+sustainable transactions, products or companies for each business activity in their area of 
+responsibility and conduct a preliminary ES assessment; (2) dedicated Business Reviewers who have 
+been nominated by the business divisions will perform sanity checks on classified cases; and (3) 
+Group Sustainability verifies each transaction and conducts a second-party ES DD check. In case of 
+an escalation with respect to the classification as sustainable finance, e.g. due to issues identified 
+through the ES assessment process, the appropriate Reputational Risk Committee may be involved 
+as an ultimate decision body. 
+As described in the Reputational Risk Policy, throughout the life-cycle of a product, continuous 
+compliance with all relevant criteria will be monitored. Any identified non-compliance will be 
+addressed and resolved or results in de-classify of the transaction. 
+ 
+ 
+Sustainable Finance Framework – Deutsche Bank Group
+12
+3. Glossary
+Term Definition
+BAT Best available techniques
+Business Reviewer Second-party performing sanity check on classification as sustainable 
+finance by the front office
+Committee Decision-making forum established pursuant to the “Committee 
+Governance Policy – Deutsche Bank Group” for a specific purpose and an 
+unlimited period of time
+Deutsche Bank AG Deutsche Bank AG including its branches and representative offices
+Deutsche Bank Group DB AG and Legal Entities in which DB AG (directly or indirectly) holds an 
+equity or voting capital share of more than 50%
+DNSH Do No Significant Harm assessment
+Employee Any individual with an employment contract directly with a Legal Entity of 
+Deutsche Bank Group
+ESG Environmental, Social and Governance
+EU Taxonomy Refers to the Taxonomy Technical Report published by the EU Technical 
+Expert Group on Sustainable Finance
+ICMA International Capital Markets Association 
+ICT Information and Communications Technology
+Management Board 
+[of Deutsche Bank
+AG]
+Governing body of Deutsche Bank AG responsible for managing Deutsche 
+Bank AG
+SBP Social Bond Principles
+SDG Sustainable Development Goal as defined by the United Nations: here
+SME Small- and medium-sized enterprises
+Socially 
+Disadvantaged Group
+Populations that are excluded in their local society for reasons that may be 
+tied to age, sex, disability, race, ethnicity, origin, religion, economic or other 
+status
+SPT Sustainability Performance Targets
+Sustainable finance Any type of financial services classified as sustainable under this taxonomy 
+and aligned to the core environmental and social principles 
+Sustainable Finance 
+Framework
+Refers to this policy; also called ‘Framework’ or ‘Taxonomy’ 
+Sustainability linked 
+products
+Financial instruments with a structure based on pre-determined overall or 
+specific sustainability performance targets
+UN United Nations
+Unit Refers to the organisational areas within DB Group, such as corporate 
+divisions and infrastructure functions, as per the DB Business Allocation 
+Plan

@@ -1,0 +1,411 @@
+BASF Green Finance 
+Framework
+Table of Contents
+1. Corporate Purpose “We create chemistry for a sustainable future” 2
+2. BASF Green Finance Framework 4
+3. Use of Proceeds 4
+4. Process for Project Evaluation and Selection 7
+5. Management of Proceeds 9
+6. Reporting 9
+7. Appendix: Indicators used for Sustainable Solution Steering 11
+8. Disclaimer 13
+2/13
+1. Corporate Purpose “We create chemistry for a sustainable future”
+BASF SE is the largest operating company and the ultimate parent company of the BASF Group. BASF 
+Group is a transnational chemical company. The company’s portfolio is grouped into six segments: 
+Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition & Care and Agricultural 
+Solutions. 
+BASF has companies in more than 90 countries and operates six Verbund sites and 361 additional 
+production sites worldwide. The Verbund site in Ludwigshafen, Germany, is the world’s largest chemical 
+complex owned by a single company that was developed as an integrated network. The company supplies 
+products and services to around 100,000 customers from various sectors in almost every country in the 
+world. BASF’s customer portfolio ranges from major global customers and medium-sized businesses to 
+end consumers. 
+BASF wants to contribute to a world that provides a viable future with enhanced quality of life for everyone. 
+By creating chemistry for customers and society and by making the best use of available resources, 
+sustainability is at the core of the company’s operations. For BASF, sustainability is a driver for growth as 
+well as an element of risk management.
+To underline this, sustainability is firmly embedded in BASF’s corporate purpose “We create chemistry for 
+a sustainable future,” and is a cornerstone of the company’s strategy. BASF supports the objective of the 
+Paris Climate Agreement to limit global warming to below 2 degrees Celsius. Innovative climate protection 
+products, such as insulation materials for buildings or battery materials for electromobility play a role here. 
+BASF is continually working to reduce carbon emissions and has already almost halved carbon emissions 
+since 1990 through improvements to processes and methods, while simultaneously doubling sales product 
+volumes.
+Corporate Commitments
+BASF has defined sustainability focus areas within its corporate strategy. These formulate the commitments 
+with which BASF positions itself in the market and how it aims to meet the growing challenges along the 
+value chain, see Figure 1.
+Figure 1 BASF Corporate Commitments
+3/13
+We source responsibly. As a global business, we have a responsibility to manage our supply chain 
+carefully. We strive to procure responsibly and use raw materials efficiently. That is why we take an interest 
+in our suppliers, their products and the entire supply chain. The BASF “Verbund” system is an important 
+component of our resource efficiency concept: The by-products of one plant often serve as feedstock 
+elsewhere, helping us to use raw materials more efficiently.
+We produce safely for people and the environment. Our global safety and security concepts serve to protect 
+our employees, contractors and neighbours as well as to prevent property and environmental damage and 
+protect information and company assets. Operational excellence is key to outperforming the competition 
+sustainably, long-term. We are connecting across BASF to operate in the most efficient way possible.
+We drive sustainable solutions. A growing need for food, energy and clean water for a growing world 
+population, limited resources and protecting the climate – innovations based on chemistry play a key role 
+for these challenges, as they contribute decisively to new solutions and business models which enable 
+decoupling growth from the consumption of finite resources. Effective and efficient research and 
+development is a prerequisite for innovation as well as an important growth engine for BASF.
+We value people and treat them with respect. Engaged and empowered employees are key to our success. 
+We are connecting across our business and industry to create good relationships with our partners and 
+stakeholders. With our solutions and responsible business conduct, we want to contribute to a better quality 
+of life for everyone.
+Sustainability Management Aligned with SDGs
+As a member of the UN Global Compact, BASF actively supports the Sustainable Development Goals 
+(“SDGs”). BASF helps achieving the United Nations’ Sustainable Development Goals (SDGs) via its 
+products, solutions and technologies, for example through climate protection measures. BASF also 
+contributes to other goals, such as No poverty (SDG 1) and Zero hunger (SDG 2), Good health and wellbeing (SDG 3), and Clean water and sanitation (SDG 6).
+4/13
+2. BASF Green Finance Framework
+BASF has established this Green Finance Framework under which the company intends to issue Green 
+Finance Instruments, which may include bonds, loans, promissory notes (Schuldscheindarlehen) and any 
+other green finance instruments, to finance and/or refinance sustainable products or projects with a clear 
+benefit to environment and/or society.
+The International Capital Markets Association (“ICMA”) Green Bond Principles are a set of voluntary 
+guidelines that recommend transparency and disclosure and promote integrity in the development of green 
+financing instruments. The BASF Green Finance Framework follows the ICMA Green Bond Principles 
+(hereafter “GBP”) 2018 edition1 as well as the LMA Green Loan Principles (GLP) 2018 edition2, which 
+provides guidelines in the form of four core components: 
+1. Use of Proceeds
+2. Process for Project Evaluation and Selection
+3. Management of Proceeds
+4. Reporting
+The Framework may be subsequently revised or updated as the green finance market continues to evolve. 
+3. Use of Proceeds
+The net proceeds of BASF’s Green Bond will be used to finance and/or refinance, in whole or in part, new 
+or existing projects (“Eligible Projects”) from any of the Eligible Green Products/Project Categories as 
+defined below:
+• Eco-efficient and/or circular economy adapted products, production technologies and 
+processes
+• Renewable energy
+1 https://www.icmagroup.org/green-social-and-sustainability-bonds/green-bond-principles-gbp/
+2 https://www.lma.eu.com/application/files/9115/4452/5458/741_LM_Green_Loan_Principles_Booklet_V8.pdf
+5/13
+GBP/GLP 
+Category Eligible Green Products / Project Categories UN 
+SDGs
+EU Environmental 
+Objective (Taxonomy
+Regulation)3
+Eco-efficient and 
+circular economy 
+products, 
+production 
+technologies and 
+processes
+Accelerator Solutions
+Only the highest level of sustainable products (solutions 
+referred to as “Accelerator”) is eligible. These products 
+have a substantial sustainability contribution in the 
+value chain and no negative impacts on any other 
+relevant sustainability criteria (see Figure 2 and 
+Appendix).
+Carbon Management
+Carbon Management bundles BASF’s global activities 
+and a long-term research and development program to 
+reduce greenhouse gas emissions. The objective is to 
+achieve the company’s climate protection target and set 
+the course for low-carbon chemical production.
+The project categories contribute 
+mainly to (but not limited to) the 
+following objectives:
+ 
+EU Environmental Objective 1: 
+Article 6: Substantial contribution to 
+Climate Change Mitigation
+EU Environmental Objective 2: 
+Article 7: Substantial contribution to 
+Climate Change Adaptation
+EU Environmental Objective 3:
+Article 8: Substantial contribution to 
+sustainable use and protection of 
+water and marine resources
+EU Environmental Objective 4: 
+Article 9: Substantial contribution to 
+Transition to the circular economy, 
+waste prevention and recycling:
+EU Environmental Objective 5:
+Article 10: Substantial contribution to 
+pollution prevention and control
+Including: Article 10.1.c: minimising
+significant adverse effects on human 
+Electric vehicle battery materials and plants
+Development, manufacturing, acquisition of low carbon 
+transportation components, as for example battery 
+materials.
+3 Proposal for a regulation of the European Parliament and of the council on the establishment of a framework to facilitate sustainable 
+investment, COM/2018/353 final, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52018PC0353
+6/13
+Recycling: ChemCycling products and plants
+Since mechanical recycling is limited, e.g., due to high 
+sorting requirements and decreasing material quality in 
+each cycle, BASF is developing innovative technologies 
+that promote recycling of plastics. This includes research 
+and development on new materials and additives that 
+facilitate recycling processes as well as several chemical 
+recycling processes to create value out of waste. 
+Chemical recycling allows to recycle waste for which 
+there are no recycling solutions or missing capacities 
+today and is therefore complementary to mechanical 
+recycling.
+health and the environment of the 
+production and use of chemicals.
+EU Environmental Objective 6:
+Article 11: Substantial contribution to 
+protection of healthy ecosystems
+For a full list of indicators for the 
+contributions in the value chain see 
+Appendix.
+Renewable 
+Energy
+Provision of capital for the planning, construction, 
+development and installation of renewable energy 
+production and storage units 
+Figure 2 Sustainable Solution Steering, percentage figures refer to 2019 sales
+Eligible for Green Financing
+7/13
+BASF has targets in place to steer its product portfolio towards more sustainable businesses: 
+• Increase sales from Accelerator products to €22 billion in 2025 (€15 billion in 2019)
+• BASF intends to stop selling Challenged products within maximum of five years after 
+classification. Challenged products are not eligible for green financing under this framework.
+4. Process for Project Evaluation and Selection 
+Products and projects financed and/or refinanced through the Green Finance Instrument proceeds are 
+evaluated and selected based on compliance with the eligibility criteria by the BASF Sustainability 
+Committee formed by members of Corporate Treasury, Group Reporting & Performance Management, 
+Corporate Sustainability and Investor Relations.
+BASF applies internationally recognized environmental requirements, “Do No Significant Harm” as well as
+minimum safeguards for many of its activities, including those financed with the proceeds of the Green 
+Finance instruments. In the first step, all solutions of a business unit portfolio are subject to a so-called 
+“Check for Basic Sustainability Requirements” to systematically and proactively identify solutions which are 
+likely to be affected by a sustainability issue, either at present or in the foreseeable future. Within this check, 
+each solution in its respective application and region is evaluated based on corporate minimum and 
+stakeholder specific economic, environmental and social criteria. Solutions which are identified as likely to 
+be affected by a sustainability issue are subject to a separate Impact Check for analysing the significance 
+of the sustainability issue in a following step. Solutions which have successfully passed the initial Check 
+for Basic Sustainability Requirements are then, in a second step, subject to a Check for Sustainability Value 
+Contribution which intends to evaluate the solution’s sustainability contribution compared to competitive 
+solutions in the same application and region.
+In order to define an Accelerator product, BASF uses a method called Sustainable Solution Steering (SSS)4
+(see Figure 3 and appendix) which has been assured by an external auditor. The methodology is also 
+adopted by other companies in the chemical industry and known as the Product Portfolio Steering 
+Framework of the World Business Council for Sustainable Development (WBSCD)5. The objective of SSS
+is to provide a fully transparent and consistent evaluation of the sustainability performance of BASF’s 
+solutions. It provides the basis for actively steering a portfolio towards a more sustainable profile.
+4 https://www.basf.com/global/en/who-we-are/sustainability/we-drive-sustainable-solutions/sustainable-solution-steering.html
+5 https://www.wbcsd.org/Programs/Circular-Economy/Factor-10/Sector-Deep-Dives/Resources/Chemical-Industry-Methodology-forPortfolio-Sustainability-Assessments
+8/13
+By identifying key drivers and issues in customers’ industries, BASF is able to assess the sustainability 
+contribution of each of its products in its specific application. 
+With its approach BASF evaluates the entire value chain considering industry- and region-specific views 
+in the markets. BASF strives to achieve a balance between the three dimensions of sustainability:
+• Economy, e.g., potential cost savings for customers through the use of BASF products
+• Environment, e.g., ensuring standards are met, developing environmentally sound solutions
+• Society, e.g., enhancing safety in production, use or end-of-life, stakeholder perception of 
+solutions
+In addition to our Sustainable Solution Steering Methodology, BASF has a long-standing expertise in 
+taking Life-Cycle considerations into account when assessing products or processes. BASF established 
+this holistic method already in 1996 and was one of the first companies in the chemical industry to do so. 
+The Eco-Efficiency Analysis was most recently validated by NSF International in 2016. The EcoEfficiency Analysis follows ISO 14040:2006 and 14044:2006 for environmental life cycle assessments. 
+The assessment of life cycle costs and aggregation to an overall Eco-Efficiency is based on ISO 
+14045:2012.6
+BASF is evaluating the criteria for chemicals in the EU Taxonomy for sustainable activities and evaluates 
+a translation matrix with its own Sustainable Solution Steering method.7
+6 https://www.basf.com/global/en/who-we-are/sustainability/we-drive-sustainable-solutions/quantifying-sustainability/eco-efficiencyanalysis.html
+7 https://ec.europa.eu/info/publications/sustainable-finance-teg-taxonomy_en
+Figure 3 Sustainable Solutions Steering Process Flow
+9/13
+5. Management of Proceeds
+BASF intends to allocate the proceeds from the Green Finance Instruments to an Eligible Green Project 
+Portfolio, selected in accordance with the use of proceeds criteria and evaluation and selection process 
+presented above. 
+Over time, BASF will strive to achieve a level of allocation for the Eligible Green Project Portfolio which 
+matches or exceeds the balance of net proceeds from its outstanding Green Financing Instruments.
+Activated eligible green assets shall qualify for refinancing without a specific look-back period, provided 
+that at the time of issuance they follow the relevant eligibility criteria. Eligible green capital expenditures
+and operational excellence measures shall qualify for refinancing with a maximum three-year look-back 
+period before the issuance year of the Green Finance Instrument.
+Whilst any Green Finance Instrument net proceeds remain unallocated, BASF will hold and/or invest, at its 
+own discretion, in its treasury liquidity portfolio, in cash or other short term and liquid instruments or pay 
+back a portion of its outstanding indebtedness, the balance of net proceeds not yet allocated to the Eligible 
+Product Portfolio.
+6. Reporting 
+BASF will make and keep readily available reporting, covering the allocation of net proceeds to the Eligible
+Green Project Portfolio and, wherever feasible, reporting on the impact of the Eligible Green Project 
+Portfolio, at least at the category level. Reporting will take place in line with BASF’s general annual reporting 
+cycle until net proceeds of Green Finance Instrument have been fully allocated.
+BASF intends to provide aggregated reporting for all of BASF’s Green Financing Instruments and other 
+potential sustainable financings outstanding. BASF will align, on a best effort basis, the reporting with the 
+portfolio approach described in “Handbook – Harmonized Framework for Impact Reporting (June 2019).”
+6.1 Allocation Reporting 
+The allocation report may provide:
+• Allocation per Green Eligible Project Category
+• Balance amount of unallocated net proceeds
+• Portion of financing and refinancing (the split between new and existing projects)
+• Break-down of what is financed/refinanced
+6.2 Impact Reporting 
+The impact report may provide: 
+• Brief description of the Eligible Projects and their contribution to the EU Environmental Objectives
+• Environmental impact metrics per Eligible Green Project Category, depending on data availability 
+10/13
+GBP/GLP Category Potential Impact Reporting Indicators
+Eco-efficient and 
+circular economy 
+adapted products, 
+production 
+technologies and 
+processes
+Accelerator Solutions
+• Case studies of Accelerator solutions
+• Amount or percentage of sales of Accelerator solutions
+• CO2 (or other greenhouse gas) emissions avoided/reduced (tons of CO2e) through the use of 
+BASF products
+Carbon Management
+• Case study of research outcome of Carbon Management
+Recycling: ChemCycling products and plants
+• Tons of waste recycled
+Electric vehicle battery materials and plants
+• Number of electrical vehicles supplied with battery materials
+Renewable Energy CO2 (or other greenhouse gas) emissions avoided/reduced (tons of CO2e). 
+11/13
+7. Appendix: Indicators used for Sustainable Solution Steering 
+Sustainability 
+pillar
+Sustainability 
+criterion
+Solution description (exemplary) Sustainability icon
+Economy Cost savings 
+downstream
+ Enables cost savings 
+downstream
+Cost savings
+Ecology
+Biodiversity and 
+renewables
+ Enables conservation of 
+biodiversity
+ With improved eco tox profile
+ Based on sustainably sourced 
+renewable raw materials
+ Enables the use of sustainably 
+produced renewable raw 
+materials
+Biodiversity
+Renewables 
+Climate change 
+and energy
+ With reduced carbon footprint in 
+production
+ Enables greenhouse gas 
+avoidance downstream
+ With reduced energy 
+consumption in production
+ Enables energy savings 
+downstream
+Climate change
+Energy
+Emission 
+reduction (air, 
+noise, soil)
+ With reduced air pollutant 
+emissions in production
+ Enables a reduction of air 
+pollutants
+ Enables noise reduction
+ With reduced noise pollution in 
+production
+ Enables a reduction of soil 
+contaminants
+Emissions
+Biodegradability
+Resource 
+efficiency
+ Enables resource savings
+ Enables improved production 
+yield downstream
+ Incorporates recycled content
+ Enables reduction, reuse or 
+recycling of waste
+ Enables prolonged life span of 
+the final product
+Resource 
+efficiency
+Waste 
+reduction
+Durability
+12/13
+Water
+ Enables reduction of emissions 
+into water
+ Enables water savings 
+downstream
+ With improved aqua tox profile
+ With reduced water footprint in 
+production
+ Enables water treatment and 
+drinking water purification
+Water
+Society
+Health and 
+safety
+ With improved human tox profile
+ Enables safer handling and use 
+of chemical substances
+ Enables improved protection of 
+worker health
+ Enables improved protection of 
+public health
+ Enables reduction of nutrition 
+deficiencies
+Health and 
+safety
+Hunger and 
+poverty
+With focus on the advancement 
+of developing countries
+ Achieves food security and/or 
+improves nutrition
+ Enables affordable housing
+ Improves sanitation
+ Helps reduce poverty
+Hunger and
+poverty
+13/13
+8. Disclaimer
+THIS DOCUMENT IS INTENDED TO PROVIDE NON-EXHAUSTIVE, GENERAL INFORMATION. THIS 
+DOCUMENT MAY CONTAIN OR INCORPORATE BY REFERENCE PUBLIC INFORMATION NOT 
+SEPARATELY REVIEWED, APPROVED OR ENDORSED BY BASF AND ACCORDINGLY, NO 
+REPRESENTATION, WARRANTY OR UNDERTAKING, EXPRESS OR IMPLIED, IS MADE AND NO
+RESPONSIBILITY OR LIABILITY IS ACCEPTED BY BASF AS TO THE FAIRNESS, ACCURACY, 
+REASONABLENESS OR COMPLETENESS OF SUCH INFORMATION.
+THIS DOCUMENT MAY CONTAIN STATEMENTS ABOUT FUTURE EVENTS AND EXPECTATIONS 
+THAT ARE FORWARD LOOKING STATEMENTS. NONE OF THE FUTURE PROJECTIONS, 
+EXPECTATIONS, ESTIMATES OR PROSPECTS IN THIS DOCUMENT SHOULD BE TAKEN AS 
+FORECASTS OR PROMISES NOR SHOULD THEY BE TAKEN AS IMPLYING ANY INDICATION, 
+ASSURANCE OR GUARANTEE THAT THE ASSUMPTIONS ON WHICH SUCH FUTURE 
+PROJECTIONS, EXPECTATIONS, ESTIMATES OR PROSPECTS HAVE BEEN PREPARED ARE 
+CORRECT OR EXHAUSTIVE OR, IN THE CASE OF THE ASSUMPTIONS, FULLY STATED IN THE 
+DOCUMENT. BASF HAS AND UNDERTAKES NO OBLIGATION TO UPDATE, MODIFY OR AMEND 
+THIS DOCUMENT, THE STATEMENTS CONTAINED HEREIN TO REFLECT ACTUAL CHANGES IN
+ASSUMPTIONS OR CHANGES IN FACTORS AFFECTING THESE STATEMENTS OR TO OTHERWISE 
+NOTIFY ANY ADDRESSEE IF ANY INFORMATION, OPINION, PROJECTION, FORECAST OR 
+ESTIMATE SET FORTH HEREIN CHANGES OR SUBSEQUENTLY BECOMES INACCURATE.
+THIS DOCUMENT IS NOT INTENDED TO BE AND SHOULD NOT BE CONSTRUED AS PROVIDING 
+LEGAL OR FINANCIAL ADVICE. IT DOES NOT CONSTITUTE AN OFFER OR INVITATION TO SELL OR 
+ANY SOLICITATION OF ANY OFFER TO SUBSCRIBE FOR OR PURCHASE OR A RECOMMENDATION 
+REGARDING ANY SECURITIES, NOTHING CONTAINED HEREIN SHALL FORM THE BASIS OF ANY 
+CONTRACT OR COMMITMENT WHATSOEVER AND IT HAS NOT BEEN APPROVED BY ANY 
+SECURITY REGULATORY AUTHORITY.
+THE DISTRIBUTION OF THIS DOCUMENT AND OF THE INFORMATION IT CONTAINS MAY BE 
+SUBJECT OF LEGAL RESTRICTIONS IN SOME COUNTRIES. PERSONS WHO MIGHT COME INTO 
+POSSESSION OF IT MUST INQUIRE AS TO THE EXISTENCE OF SUCH RESTRICTIONS AND 
+COMPLY WITH THEM.
+THE INFORMATION IN THIS DOCUMENT HAS NOT BEEN INDEPENDENTLY VERIFIED.
+THE ADDRESSEE IS SOLELY LIABLE FOR ANY USE OF THE INFORMATION CONTAINED HEREIN 
+AND BASF SHALL NOT BE HELD RESPONSIBLE FOR ANY DAMAGES, DIRECT, INDIRECT OR 
+OTHERWISE, ARISING FROM THE USE OF THIS DOCUMENT BY THE ADDRESSEE.

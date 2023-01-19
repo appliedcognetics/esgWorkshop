@@ -1,0 +1,315 @@
+Green Financing Framework - October 2021
+Hitachi Capital (UK) PLC
+1 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+GreenFinancingFramework2021
+Contents
+1.0 Introduction to the Issuer............................................................................................2
+1.1 About Hitachi Capital (UK).............................................................................................2
+1.2 Hitachi Capital (UK) sustainability strategy....................................................................2
+1.3 Rationale for green financing.........................................................................................4
+2.0 Green Financing Framework ......................................................................................4
+2.1 Use of proceeds.............................................................................................................5
+2.2 Process for project evaluation and selection..................................................................5
+2.3 Management of proceeds..............................................................................................5
+2.4 Reporting .......................................................................................................................6
+2.5 External review ..............................................................................................................6
+2 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+Green Financing Framework 2021
+1.0 Introduction to the Issuer
+1.1 About Hitachi Capital (UK)
+HitachiCapital(UK)PLC(“HCUK”)is a leadingfinancialservices companyestablishedin1982.Wearemadeupof 
+5 Business Units:
+1. ConsumerFinance - theUK’sleading retail point of sale finance providerand has a significant presencein the
+personal loans sector.
+2. VehicleSolutions - oneof theUK’sleadingvehiclefinance companies,operatingover95,000assets,from
+cars, vans and HGVs to plant andmachinery.
+3. BusinessFinance- a leading providerofbusiness assetfinancetoSMEsand larger corporations intheUK
+offering hire purchase, finance lease solutions, stocking, and block discounting.
+4. EuropeanVendorSolutions - providesbespoke end-to-endvendorand channelfinancesolutions forthe end
+users of Hitachi and Mitsubishi group companies and their distribution networks internationally.
+5. Invoice Finance - provides cash flow solutions to clients across a wide range of sectors in the UK.
+We continue to transform the Company in response to the ever-changing commercial, customer and
+societal environment we operate in.
+Wewill continue to evolve to make a positive impact on society and the communities that we operate in, actively 
+contributing towards achieving the UN Sustainable Development Goals.
+Our strategic focus continues to be on sectors that have a positive impact on people and their lives. During 
+2020/21, we strengthened our focus on environmental agendas through our business propositions, and we’ll 
+continue to enhance these contributions.
+1.2 Hitachi Capital (UK) sustainability strategy
+HCUKhas adoptedtheUN’sSustainableDevelopmentGoalswiththeaimofachieving sustainable growth.
+ToimplementourEnvironmental,SocialandGovernance(“ESG”) strategyandtargetswehavesetup a Corporate 
+SocialResponsibility (“CSR”)Committeethatmeetson a quarterlybasis.Wehavealsocommittedtopublishingan 
+annualESG report.The ESGreporting is provided to our parent company on an annual basis and HCUK’s 
+Executive Committee when required.
+“The trusted brand of 
+financial services in the UK 
+and across Europe”
+Our vision
+“Exceptional people, 
+providing outstanding
+customer experiences 
+Our mission
+“Harmony”, “Sincerity”
+Our values
+GreenFinancingFramework2021
+3 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+GreenFinancingFramework2021
+Hybrid and electric vehicles
+TheNetBookValueofGreenAssets(electric vehicles,greenenergy,recycling& wasteequipment,renewable 
+energy, energy efficiency and rail) on our balance sheet is £351.6m as at the end of March 2021.
+Ourmainimpact ontheenvironmentemanates fromtheVehicleSolutions business (“HCVS”).Hereweoperate 
+over95,000 assets,fromcars, vansandHeavyGoodVehicles(“HGVs”)toplant andmachinery.Weareseeking to 
+respond to this by becoming a market leader in the UK for electric vehicle adoption. Our vehicle business is
+responding with products and initiatives to support the UK’s goal of banning petrol, diesel and hybrid cars by 2035.
+This is evidenced by our ambitious targets to electrify the fleet. HCVSis committed to electrify 100% (62,500+) of
+the funded car & small van (3.5t and under) and 50% of funded larger van fleet (vehicles over 3.5t) by 2030.
+We updated our HCUK Group company car policy for employees in order to address our carbon impact. We
+introducedanUltra-LowEmissionVehicles(ULEV)incentiveschemeforcarsbelow75g/kmCO2.Inaddition,we 
+included a smart charging point within the car allowance so that employees could have a home charging point
+installed.
+In the financial year ending March 2021 the percentageof the fleet consisting ofBattery-poweredElectric
+Vehicles (BEV) was 3.9% and 1% in March 2020. The percentage of the fleet comprising hybrid, including
+both plug-in (PHEV) & self-charging vehicles (HEV) was 6.8% in March 2021 and 4.9% in March 2020.
+Vehicle charging stations
+To support growing uptake in this segment we 
+arepartneringwithGRIDSERVE - a cuttingedge
+sustainableenergy solutions company that focuses 
+on projects around grid power, EV power and remote 
+power. The partnership will see GRIDSERVE 
+develop the UK’s most technically advanced 
+hybrid solar farms, in conjunction with a new 
+network of solar powered Electric Forecourts® to 
+provide ultra-fast, dependable charging for all
+types of electric vehicles. Following the successful 
+launch of the Braintree Electric Forecourt®, our 
+funding is supporting GRIDSERVE’s project to
+upgrade the ‘Electric Highway’ network of charge
+points and provide faster charging facilities across 
+the UK motorways and major roads network.
+Buildings
+Toreduce the carbon impact from our offices we have looked at how their energy is sourced. Four sites (Staines, 
+Leeds, Newbury and Trowbridge) out of ourfive sites are now supplied with electricity from renewable sources. In 
+addition, the vehicle preparation centre located at Trowbridge generates a portion of its energy from 40 solar 
+panels installed on the roof. 
+% of funded electric vehicles by 2030
+Car&small van
+(3.5t and under)
+Larger van fleet
+100% 50%
+GreenFinancingFramework2021
+4 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+Employee volunteering
+We continue to develop and maintain partnerships with our national charity organisations that are addressing 
+sustainableissues throughvolunteering andprovidingadviceandguidancewhere we have expertise and skills.
+We’ve introduced a volunteering community, which is a group of employees at each of our offices providing 
+support in arrangingvolunteering days. In addition, we have introduced a gifting volunteering leave schemewhich 
+enablesunusedvolunteerleavetobeutilisedbyother colleagues.Throughthoseactivities,ourtotalvolunteer
+hours decreased from 1,493 to 881 in 2020/21. Physical volunteering was difficult during the pandemic, 
+therefore HCUK promoted digital mentoring volunteering opportunities to employees through our 
+Gamechangers, EPQ (Extended Project Qualification) and Be the Business partnerships.
+For more information on our strategy please see our ESG report: https://www.hitachicapital.co.uk/about-us/
+corporate-social-responsibility/
+1.3 Rationale for green financing
+At HCUK we intend to issue green debt instruments to send a clear message to investors about our commitment 
+and intentiontomeet our sustainabilitygoals and accelerate the transitionto low carbon transport.We also hope
+that thetransparencyofourGreenFinancing Frameworkwill allow ESG-focused investors to take part in HCUK’s 
+fundraising with confidence.
+We also see this form of fundraising as additive to our client proposition.By combining green financing with our 
+expertise in vehicle finance we can help our customers switch their commercial fleets to electric vehicles.
+2.0 Green Financing Framework
+In line with our ambition of providing low-carbon mobility solutions, HCUKhas established this GreenFinancing
+Framework under which it intends to issue “GreenFinancing Instruments” (which may include, but is not limited
+to, bonds,includingprivateplacements,andloans)tofinanceand/orrefinanceassetswithinthe‘Eligible
+Categoriesof Clean Transportation and Renewable Energy’.
+TheHCUKGreenFinancingFramework isalignedwiththeICMA“GreenBondPrinciples”aswellas the LMA
+“Green Loan Principles”, which provide guidelines in the form of four core components:
+TheHCUKGreenFinancingFramework alsofollows therecommendationsoftheICMAGreenBond
+Principles regarding “External Review” (as set out in section 2.5).
+Adoption of changes to theEU “GreenBondStandard”(EU -GBS) may be implemented in future versions of this 
+framework.Any subsequent version of this frameworkwill either keep orimprovethe stringency of the selection 
+criteriaandthecurrentlevelsoftransparencyregardingprojectevaluationandselectionprocess,management of
+proceeds and reporting requirements.
+Use of 
+proceeds
+Process 
+for project
+evaluation and 
+selection
+Management of 
+proceeds Reporting
+GreenFinancingFramework2021
+5 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+2.1 Use of proceeds
+Use of proceeds alignment with HCUK strategy and institutional frameworks
+GBP / GLP
+Eligible 
+Category
+Eligible Green 
+Projects HCUK’s goals UN SDGs
+alignment
+EU Taxonomy 
+alignment
+Clean Transportation
+• Battery Electric 
+Vehicles (provision 
+of leases)
+• Hybrid Vehicles 
+(<50g CO2/km)
+Target 100% of car 
+& smallvan(3.5t
+and underfleet by
+2030)
+50% of funded larger 
+van fleet (vehicles over 
+3.5t) by 2030
+SDG 11 – Sustainable 
+Cities and 
+Communities
+Subgoal 11.2 
+(sustainable transport 
+systems)
+Substantial contribution 
+to Climate Change 
+Mitigation: Increasing 
+clean or climate neutral 
+mobility (1.c)
+Selected economic 
+activity: 6.5 Passenger 
+cars and commercial 
+vehicles
+Renewable Energy, 
+Clean Transportation
+• Hybrid Solar 
+Farms
+• Electric vehicle 
+charging points, in 
+particular the
+Electric 
+Forecourts®
+Rollout 100+ Electric 
+Forecourts® across 
+the UK by 2025, as 
+part of GRIDSERVE 
+partnership
+Investing in the 
+Electric Highway 
+charging 
+infrastructure
+SDG7–Affordable
+andCleanEnergy
+Subgoal: 7.2 
+(renewableenergy in 
+globalenergymix)
+Substantial contribution 
+to Climate Change 
+Mitigation: generating, 
+transmitting, storing, 
+distributing or using 
+renewable energy (1.a)
+Selected economic 
+activity: 4.1 Production 
+of Electricity fromSolar 
+PV
+With regards to any leasing provisions or expenditures, we will adopt a lookback period of up to 36 months. For 
+the avoidance of doubt, the reference date utilised is the date the lease was signed.
+2.2 Process for project evaluation and selection
+Description of the project evaluation and selection process:
+TheCSRCommitteecomprises theCEOas theChair,General ManagerCEOoffice,HRDirector,Legal 
+Director, Head of Enterprise Risk and a representative from each Business Unit and certain central 
+functions – including Treasury and Finance.
+TheCSRCommittee meets atleastquarterly todiscussCSRtargets,agreeactivities tothesetargets,and 
+ensure theseprogrammesmeetthe mission,visionandvalues of HCUK and its shareholder.TheCSR 
+Committee will also discuss the addition of any new categories of assets or projects to be eligible for Green
+Financing.
+2.3 Management of proceeds
+The net proceeds of aHCUKGreenFinance Instrument will be managed on a portfolio basis atHCUKTreasury, 
+the centralised funding centre of HCUK.
+The purchase of eligible vehicles by HCUK or any of its subsidiaries will be recorded and tracked centrally via
+internal reportingsystems,inlinewithHCUK’speriodic (monthly)reportingrequirements.HCUK’sCSRfunction
+willvalidate the centrally reported purchases and allocate the purchases to the proceeds of a HCUK Green 
+Finance Instrument.
+GreenFinancingFramework2021
+6 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+Oversight of the “Management of Proceeds” will be provided by HCUK’s Treasury team. The allocated and 
+unallocated proceeds of any HCUKGreenFinance Instrument will be reportedto theCSR Committee on a 
+quarterly basis (£, %).
+HCUKwill strivetomaintain a levelof allocationfortheEligible Green Projects which matches the balance of
+net proceeds from its outstanding Green Finance Instruments.
+It is HCUK’s intention to ensure that an amount equal to the net proceeds raised will be allocated to the
+acquisition of eligible assets within 24 months from the date of any HCUKGreenFinance Instrument
+issuance.
+Unallocated proceedswill be held atHCUKTreasury in cash or short-term investments or to repay maturing debt, 
+in line with the risk appetite of HCUK. HCUK commits to not repaying debts that are linked to heavily polluting 
+activities.
+2.4 Reporting 
+Inaccordancewiththe ICMAGreenBondPrinciples, HCUKwill keep greeninvestors and other stakeholders 
+updated on the allocation of proceeds and intends to communicate on the expected impact of the “Eligible Green 
+Projects”.
+HCUK intends to provide an annual update throughout the life of the HCUK Green Finance Instruments. It is 
+expected that information on the “Allocation of Proceeds”and “Impact Reporting”(each as set out below) will be 
+made available in such annual update.
+Allocation report
+Within the allocation report HCUK will provide a breakdown on the allocation of the proceeds of the HCUK 
+Green Finance Instruments to the purchase of eligible assets.
+This breakdown will be separated into:
+• Allocated Proceeds (%, £)
+• Unallocated Proceeds (%, £)
+• Amount or percentage of new financing and refinancing (%, £)
+Impact report
+The impact report will be provided within the wider ESG report available on our website and will include:
+• A description of the Eligible GreenProjects.
+• Subject to the availability of suitable data, metrics regarding Eligible Projects’ environmental impact e.g. amount
+financed in eligible categories, CO2 emissions saved and solar energy supplied.
+• On a best effort basis, HCUK intends to align the impact reporting with the portfolio approach table as
+described in the ICMA Handbook - Harmonized Framework for Impact Report (June 2019).
+2.5 External review
+Priorto the issuance of any Green Finance Instrument, a second party opinion provider will be sourced
+from a credible provider of such services. The content of this opinion will be publicly disclosed.
+GreenFinancingFramework2021
+7 ©Hitachi Capital (UK)PLC. 2021.Allrights reserved. Hitachi Capital (UK) PLC
+Disclaimer
+Thisdocumentis intendedtoprovidenon-exhaustive,general information.This
+documentmay contain orincorporate by referencepublic information not
+separately reviewed,approvedorendorsed byHitachi Capital (UK) PLC and
+accordingly, no representation, warranty or undertaking, express or implied,
+is made and no responsibility orliability is accepted by HitachiCapital(UK)
+PLC as to the fairness, accuracy, reasonableness or completeness of 
+suchinformation.
+This document may contain statements about future events and expectations
+that are forward-looking statements. None of the future projections, 
+expectations, estimates or prospects in this document should be taken as
+forecasts or promises nor should they be taken as implying any indication,
+assurance or guarantee that the assumptions on which such future projections, 
+expectations, estimates or prospects have been prepared are correct or
+exhaustive or, in the case of the assumptions, fully stated in the document.
+Hitachi Capital (UK) PLC has and undertakes no obligation to update, modify or
+amend this document, and the statements contained herein to reflect actual
+changes in assumptions or changes in factors affectingthese statements orto
+otherwise notify any addresseeif any information, opinion,projection,forecastor
+estimatesetforthhereinchangesor subsequentlybecomes inaccurate.
+This document is not intended to be and should not be construed as providing
+legal orfinancial advice. It does not constitute an offer or invitation to sell or any
+solicitation of any offerto subscribe for or purchase or a recommendation 
+regarding any securities, nothing contained herein shall form the basis of any 
+contract or commitment whatsoever and it has not been approved by any
+security regulatory authority.
+This document does not purport to contain all of the information that an
+addressee may desire before makingadecisionaboutits investment.Inall
+cases,addresseesshouldconducttheirowninvestigation and analysis. In
+particular,it is recommended for addressees to seek the advice of professional
+advisors or experts and to independently check tax, accounting, legal or
+regulatory or other implications.
+Thedistributionofthisdocumentandoftheinformationit contains may besubject
+to legalrestrictions in some countries. Persons who might come into possession
+of it must enquire as to the existence of such restrictions and comply with them.
+The information in this document has not been independently verified.
+The addresseeis solely liable for any use of the information contained herein and
+solely responsiblefor making its investments and other decisions. None of
+Hitachi Capital(UK) PLC or any of its affiliates, advisers or representations shall
+have any liability to any person for any loss or damages of any kind, whetherin
+contract,tort orotherwise,including negligence,direct,indirector consequential
+damages or otherwise, arising from the use of this document orthe content
+herein, or otherwise arising in connection with this document. To the extent 
+permitted by law, Hitachi Capital (UK) PLC excludes any liability howsoever
+arising from the contents of this document or for the consequences of any
+actions taken in reliance on this document or the contentherein.

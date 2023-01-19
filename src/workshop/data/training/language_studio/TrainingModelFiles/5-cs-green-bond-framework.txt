@@ -1,0 +1,224 @@
+Green Finance Framework
+June 2021
+These materials may not be 
+used or relied upon for any 
+purpose other than as 
+specifically contemplated
+by a written agreement with 
+Credit Suisse Group AG and/or 
+its Affiliates (hereafter “Credit 
+Suisse”).
+Page 2 of 9
+Table of Contents
+Introduction 3
+Use of Proceeds 4
+Project Evaluation and Selection 5
+Management of Proceeds 6
+Reporting 6
+Assurance 7
+Annex 8
+Page 3 of 9
+Introduction
+Credit Suisse recognizes its share of responsibilities in combating climate change and 
+environmental degradation by supporting the transition to a low carbon and sustainable 
+economy. As a financial institution, we are committed to playing our part in addressing 
+this global challenge through our role as a financial intermediary between the economy, 
+the environment and society. We recognize the role we can play in mobilizing the finance 
+needed to promote the transition of the global economy towards low carbon activities. 
+One of the ways in which banks can facilitate this transition is by issuing green debt 
+financing instruments (including bonds, loans, commercial paper, certificates of deposit
+and other debt or financing structures) to facilitate capital for low-carbon and 
+environmentally sustainable economic activity.
+In line with best market practice Credit Suisse commits to a high standard of 
+transparency for its green financings to enable investors to judge its green credentials. 
+This document sets out the policy and process by which green debt financing 
+instruments issued by Credit Suisse will be invested and managed covering:
+ Use of Proceeds
+ Project Evaluation and Selection
+ Management of Proceeds 
+ Reporting 
+ Assurance
+This Green Finance Framework is aligned to the International Capital Market 
+Association's Green Bond Principles (2018), which Credit Suisse has endorsed. 
+Page 4 of 9
+Use of Proceeds
+The objective of Credit Suisse green debt financing instruments is to fund projects or 
+assets that: mitigate climate change by reducing emissions; protect ecosystems; or 
+otherwise have a positive environmental impact in support of the UN Sustainable 
+Development Goals. The proceeds of any green debt issuance will be used to finance 
+or re-finance projects or assets with a clear and defined environmental benefit (“Eligible 
+Projects or Assets”). 
+Eligible Projects or Assets for Credit Suisse green financings are: 
+Category Description
+Renewable energy
+(SDG7 and SDG13)
+Wind*, solar*, biomass, geothermal* and small-scale 
+hydro (up to 20MW), fuel cell, battery storage 
+technology and related energy storage infrastructure
+Energy efficiency
+(SDG7, SDG11 and SDG13)
+Development or deployment of technology that 
+reduces energy use for a given asset or targets 
+product improvements to energy distribution
+Low carbon buildings
+(SDG9)
+Buildings with at least Minergie, gold LEED or a very 
+good BREEAM rating, sustainable retrofits and smart 
+grid investments
+Conservation finance
+(SDG14 and SDG15)
+Ecosystem conservation projects, including 
+sustainable forestry (FSC or PEFC certified), 
+sustainable agriculture and sustainable fisheries (MSC 
+certified)
+Clean transportation
+(SDG 9 and SDG 11)
+Low emission transport infrastructure and public 
+transportation, including rail transport
+Sustainable waste 
+management
+(SDG11 and SDG12)
+Waste management, recycling and waste-to-energy 
+projects
+Sustainable water 
+infrastructure
+(SDG6 and SDG9)
+Water infrastructure (e.g., flood defenses), supply and 
+management (e.g., sewage collection and treatment)
+Circular economy 
+(SDG11 and SDG12)
+Eco-efficient products, including upgrades to 
+manufacturing processes/facilities to improve 
+resource efficiency 
+*Please also refer to the Annex for the technical criteria set out by the Climate Bonds Standards Board.
+Projects not eligible for inclusion in a green financing are those involving coal-fired 
+power, defense, large-scale hydropower, gambling, mining, nuclear energy, oil & gas, 
+palm oil, tobacco and wood pulp. 
+Eligible financial products include:
+Page 5 of 9
+ Debt (e.g., bank loans, bonds, construction loans, warehouse facilities, bridge loans, 
+mezzanine debt, back leverage, revolvers, corporate debt)
+ Equity (e.g., tax, project, corporate)
+The proceeds will be used primarily for refinancing of Eligible Projects or Assets, but 
+Credit Suisse aims to allocate at least 20% of total proceeds to new financing. Credit 
+Suisse aims to allocate the majority of proceeds on the day of issue, and all proceeds 
+will be allocated to projects after 12 months. 
+The proportion of re-financing vs. financing may be stated in the disclosure 
+documentation, and any projects that may be refinanced may be indicated.
+Project Evaluation and Selection
+The environmental objectives of the green financings may be defined and stated in the 
+disclosure documentation. A list of potential projects and assets will be identified by 
+business teams. The projects will be evaluated according to the following criteria: 
+1. Financial due diligence
+2. Environmental, Social and Governance (ESG) evaluation 
+− Counterparty evaluation
+− The evaluation process will consider the counterparty’s project commitment,
+capacity and track record for ESG issues as well as the quality of reporting on 
+ESG issues
+− The evaluation will take into account assessments made by selected ESG 
+ratings agencies if appropriate and appropriate industry standards or 
+certification such as the Equator Principles
+− If the counterparty’s business is diversified and includes activities that are not 
+Eligible Projects or Assets, consideration will be given to the counterparty’s 
+whole business and to whether the investment will achieve a substantial 
+positive impact on the environment
+− Asset-level evaluation 
+− The evaluation will take into account information about environmental and 
+social impacts of individual projects or assets
+3. Impact evaluation
+− The environmental benefit of each project or asset will be assessed against 
+science-based climate targets and quantified if feasible. Social impacts will be 
+evaluated to the extent appropriate
+Page 6 of 9
+On the basis of the list the final selection of assets funded will be made by a Green 
+Finance Committee comprising senior representatives from Credit Suisse Treasury, 
+Debt Capital Markets, Sustainability Strategy, Advisory and Finance (previously Impact 
+Advisory and Finance) including our Chief Sustainability Officer, Investor Relations and 
+Sustainability Risk (previously Sustainability Affairs).
+The Eligible Projects and Assets may be listed and described in the relevant disclosure 
+documentation.
+Management of Proceeds
+Proceeds from green debt financing instruments will be managed by Credit Suisse in a 
+portfolio approach. Credit Suisse intends to allocate the proceeds from green debt 
+financing instruments to a portfolio of Eligible Projects or Assets, selected in 
+accordance with the use of proceeds criteria and project evaluation and selection 
+process presented above.
+Credit Suisse will strive, over time, to achieve a level of allocation for the eligible green 
+project portfolio which matches the balance of net proceeds from its outstanding green 
+debt financing instruments. Additional eligible green projects will be added to the 
+issuer’s eligible green project portfolio to the extent required to ensure that the net 
+proceeds from outstanding green debt financing instruments will be allocated to eligible 
+green projects.
+Any unallocated proceeds will be earmarked and held as cash or cash-equivalents 
+pending investment in Eligible Projects or Assets. Any temporary cash-equivalent 
+investments must be consistent with the objectives of the green financing.
+Reporting
+Credit Suisse will publish a monitoring report on an annual basis until full allocation. This 
+report will: 
+ Provide an update of total amount of proceeds allocated to Eligible Projects and 
+Assets 
+ State the remaining balance of any unallocated funds
+ Describe the qualitative and where possible, quantitative, indicators of the projects’ 
+environmental impact
+Each annual report will be reviewed by the Green Finance Committee and verified by 
+an independent assurance provider in advance of publication.
+Page 7 of 9
+Annual reports can be found at www.credit-suisse.com/greenfinance.
+Assurance
+Credit Suisse will engage an independent assurance provider (as approved by the 
+Climate Standards Board) to provide a second party opinion on this green finance
+framework, and to annually assure the process used in financing of Eligible Projects 
+and Assets in accordance with the framework. The opinion of the assurance provider 
+will be published at www.credit-suisse.com/greenfinance. 
+Assurance will take place pre-issuance and on an annual basis for the duration that the 
+green financing is outstanding, prior to the publication of the annual monitoring report. 
+Where feasible, Credit Suisse will seek certification under the Climate Bonds Standard 
+V3.0 following the pre- and post-issuance procedures outlined by the Climate 
+Standards Board.
+Page 8 of 9
+Annex
+Climate Bonds Standard Eligibility Criteria for available sectors
+Sector Criteria
+Solar 1.1. Eligible Project & Assets relating to solar energy generation shall be 
+projects or assets that operate or are under construction to operate in 
+one or more of the following activities: 
+1.1.1. Solar electricity generation facilities
+1.1.2. Wholly dedicated transmission infrastructure and other 
+supporting infrastructure for solar electricity generation facilities 
+including inverters, transformers, energy storage systems and 
+control systems 
+1.1.3. Solar thermal facilities such as solar hot water systems
+2. Non-solar fuel use
+2.1. Eligible Project & Assets that have activities in solar electricity 
+generation facilities or solar thermal facilities shall have a minimum of 
+85% of electricity generated from solar energy resources
+Wind 1. Eligible Project & Assets relating to wind energy generation shall be 
+projects & assets that operate or are under construction to operate in one 
+or more of the following activities:
+1.1. The development, construction and operation of wind farms
+1.2. Operational production or manufacturing facilities wholly dedicated to 
+wind energy Development
+1.3. Wholly dedicated transmission infrastructure for wind farms
+Geothermal 1. New and existing geothermal projects with direct emissions of less 
+than 100gCO2/kWh
+2. Geothermal projects with mitigation technologies that will render the noncondensable gas releases to the atmosphere negligible
+3. Geothermal projects that have been reviewed and registered under the 
+Clean Development Mechanism
+Low-carbon 
+buildings
+1. Commercial buildings: Buildings must be in the top 15% of their city in 
+terms of emissions performance. This “hurdle rate” in emissions terms 
+ratchets down to zero (carbon) in 2050
+2. Residential buildings: Existing instruments such as local building codes, 
+energy rating schemes (e.g. US Energy Star) and energy labeling 
+schemes (e.g. Energy Performance Certificates in the UK) are leveraged 
+as proxies for the achievement of the 15% hurdle rate
+3. Upgrade projects: Building improvements that achieve emission 
+reductions of 30% to 50% (depending on bond term) from a baseline will 
+qualify for certification
+Page 9 of 9
+CREDIT SUISSE GROUP AG
+Paradeplatz 8
+8070 Zürich
+Switzerland
+www.credit-suisse.com/greenfinance
