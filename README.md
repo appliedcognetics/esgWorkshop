@@ -4,7 +4,7 @@
 
 The ESG project leverages Azure Congitive Search, Azure Cognitive Services, SPARK and SynapseML to determine the completeness and the quality of ESG reports published by organizations. The completeness of the report will be determined by the number of reporting meterics statisfied (GRI, UN SDG). The quality of the report will be evaluated by quality of the data provided. Determining data quality will be more subjective and can be modifited by the user of this project to satify the needful business rules of their organization.
 
-##Determining Quality of an ESG Report
+## Determining Quality of an ESG Report
         The data quality is a subjective measure. For the sake of this document we will determine quality as :
             1. The "cost" ability to easiliy parse the data into a structured format.
             1. The accuracy of the data as evaluated by a 3rd party system
