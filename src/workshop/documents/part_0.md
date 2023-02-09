@@ -32,29 +32,24 @@ https://ms-poc-sdg-ui.azurewebsites.net/
 3. Gather all of the endpoint and keys necessary outlined in the documentation
 
 
-## Lab Environment Setup
+## High Level Lab Environment Setup
 
 1. Deploy a Resource Group named  *Lab Setup*
-1. Deploy Azure Cogntive Search
-1. Deploy Azure Databricks (Free Tier)
-1. Deploy Azure Storage Account
-    - Create Two Containers in the storage account. *See Below for Instructions*
-    - Container for NER Model training named: *esg-ls-training*
-    - Container for PDF document uploads named: *esg-documents*. 
+1. Deploy Azure Cogntive Search (add link to docs)
+1. Deploy Azure Databricks (Free Tier) (add link to docs)
+1. Deploy Azure Storage Account (add link to docs)
+    - Create Two Containers in the storage account. (add link to docs)
  
-1. Install Service BUS (Type Service Bus)
+1. Install Service BUS (Type Service Bus) (add link to docs)
     - Basic
     - Create a Queue 
         - Named: DocumentEntitySkillSetExecuted
 
-
-1. Web App 1 +2
-1. SQL Database
-    - SQL Authentication
-    - sqladmin
-    - M1Cr0soft_2023
-    -- switch pricing to basic
-1. Language Service
+1. Web App
+    - Create Two Web App Services (add link to docs)
+1. SQL Database (add link to docs)
+    - SQL Use Authentication
+1. Language Service(add link to docs)
     - Install Language Service
     - Connect tothe 
 
