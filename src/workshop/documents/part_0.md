@@ -1,19 +1,24 @@
 # Module 00 - Lab Environment Setup & General Setup and configuration 
 ``` 
--- Sample Application
+**Sample Application**
+
 https://ms-poc-sdg-ui.azurewebsites.net/
 
 Credentials
-search-admin@emtecexpzone.onmicrosoft.com
-Emtec@12345
+  username: search-admin@emtecexpzone.onmicrosoft.com
+  password: ask administrator
 
 ```
+## Glossary
+### NER - Name Entity Recognition
 
-#### For this  Document 
+## Setup
+
+
 #### Deploy to Azure is in Progress
 -  [Create Deploy to Azure Template](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
 
-1. Transcribe this from the PowerPoint Presentation
+1. Check against the PowerPoint
 
 ## Prerequisites
 * An [Azure account](https://azure.microsoft.com/free/) with an active subscription.
@@ -21,20 +26,33 @@ Emtec@12345
 * The subscription must have the following resource providers registered.
   * Microsoft.Authorization
   * Microsotft.Search
+  * Microsoft.Storage
+  * Databricks
+  * Language Studio
+  * App Service
+  * Functions
+  * **todo**  Enumerate other service
 
 ## Outline
 
+1. Deploy Azure Storage and Azure Language Service 
+1. Train the NER Language Model *Performing this operation first because it takes some time* 
 1. Deploy all of the necessary Azure services
 3. Gather all of the endpoint and keys necessary outlined in the documentation
-
+2. Configure the Azure Functions and Web App
+1. Test Application
+1. Deploy & Configure DataBricks
+1. Process Data with OpenAI 
 
 ## High Level Lab Environment Setup
 
 1. Deploy a Resource Group named : *LabSetup*
+1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
+1. [Deploy Language Service](#deploy-language-service)
+1. [Train the Custom [NER](#ner---name-entity-recognition) Language Model](./part_00.1.md)
 1. [Deploy Azure Cogntive Search]() (add link to docs)
 1. [Deploy Azure Databricks (Free Tier)](#databricks-setup) (add link to docs)
-1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
-    - Create Two Containers in the storage account. (add link to docs)
+
  
 1. [Install Service BUS]() (Type Service Bus) (add link to docs)
     - Basic
@@ -86,6 +104,9 @@ Choose the following options for this resource:
 # Create the following Containers in Azure Storage 
 1. Create a blob storage contained named : **sdgstorage**
 1. Create a blob storage contained named : **storagesearchdocs**
+1. Create a blob storage contained named : **esg-ls-training**
+1. Create a blob storage contained named : **esg-documents**
+
 
 # Deploy Azure Service Bus
 1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Language Service*
@@ -197,7 +218,7 @@ Enter the following Values
 
 
 
- [Continue to Deploy Functions and Web Apps >](../documents/part_0A.md)
+ [Continue to Deploy Functions and Web Apps >](../documents/part_00.1.md)
 # NEEDS TO BE COMPLETED
 
 
