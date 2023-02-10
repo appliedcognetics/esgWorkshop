@@ -12,7 +12,7 @@ In the Azure Portal , search for "Azure Active Directory"
 - Click Register
 -
 
-# Parameters needed for the Application
+# Parameters needed for the Application Function App.
 These values will need to be set in the function app config file according to the setup documentation above.
 
 1. SearchIndexerName :  In Azure Search,create an indexer with the name : `azureblob-indexer`

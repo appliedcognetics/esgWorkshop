@@ -1,21 +1,17 @@
 # Module 00 - Lab Environment Setup & General Setup and configuration 
 ``` 
--- Remove These notes
- Note : use this as markdown guide https://github.com/tayganr/purviewlab/blob/main/modules/module00.md
-crtl-Shift- V to view
-Crtl-K then V for side by side
-Markdown Notes
-https://code.visualstudio.com/Docs/languages/markdown
-
--- Deployment Center
-
+-- Sample Application
 https://ms-poc-sdg-ui.azurewebsites.net/
+
+Credentials
+search-admin@emtecexpzone.onmicrosoft.com
+Emtec@12345
+
 ```
 
-#### For this  Document
+#### For this  Document 
+#### Deploy to Azure is in Progress
 -  [Create Deploy to Azure Template](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
-- Add other items here 
-
 
 1. Transcribe this from the PowerPoint Presentation
 
@@ -34,22 +30,23 @@ https://ms-poc-sdg-ui.azurewebsites.net/
 
 ## High Level Lab Environment Setup
 
-1. Deploy a Resource Group named  *Lab Setup*
-1. Deploy Azure Cogntive Search (add link to docs)
-1. Deploy Azure Databricks (Free Tier) (add link to docs)
-1. Deploy Azure Storage Account (add link to docs)
+1. Deploy a Resource Group named : *LabSetup*
+1. [Deploy Azure Cogntive Search]() (add link to docs)
+1. [Deploy Azure Databricks (Free Tier)](#databricks-setup) (add link to docs)
+1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
     - Create Two Containers in the storage account. (add link to docs)
  
-1. Install Service BUS (Type Service Bus) (add link to docs)
+1. [Install Service BUS]() (Type Service Bus) (add link to docs)
     - Basic
     - Create a Queue 
         - Named: DocumentEntitySkillSetExecuted
 
-1. Web App
+1. [Web App Frontend](#deploy-web-app-service-front-end)
+1. [Web App Backend](#deploy-web-app-service-backend-api)
     - Create Two Web App Services (add link to docs)
-1. SQL Database (add link to docs)
+1. [SQL Database](#deploy-azure-sql-database)
     - SQL Use Authentication
-1. Language Service(add link to docs)
+1. [Language Service](#deploy-language-service)
     - Install Language Service
     - Connect tothe 
 
@@ -71,9 +68,8 @@ https://ms-poc-sdg-ui.azurewebsites.net/
 
 ![Install SynapseML](../images/module00/install_synapse_ml.png) 
 Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordinates**
-1. How to Import Notebooks to a workspace
-In Databrick UI >> Click Workspace
-- Notebook 1
+1. DataBricks will be used later on in the lab for the OpenAI Section
+
 
 ## Deploy Azure Storage Account
 From the Azure Portal in the resource group for the lab create an Azure Storage Account. [Documentation](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal)
@@ -87,11 +83,13 @@ Choose the following options for this resource:
 1. Redundancy LRS (Locally Redundant Storage)
 1. Keep the defaults for other options then click **Review >> Create**. 
 
-# Create Containers in Azure Storage 
+# Create the following Containers in Azure Storage 
 1. Create a blob storage contained named : **sdgstorage**
 1. Create a blob storage contained named : **storagesearchdocs**
 
-
+# Deploy Azure Service Bus
+1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Language Service*
+![Lang Service](../images/module00/install_lang
 
 ## Deploy Language Service
 1. From within the Lab Resource group, Click *Create* and Enter *Language Service* into the Search Box. Select the *Language Service*
