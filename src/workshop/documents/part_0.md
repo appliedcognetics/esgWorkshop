@@ -51,7 +51,7 @@ Credentials
 1. [Deploy Language Service](#deploy-language-service)
 1. [Train the Custom [NER](#ner---name-entity-recognition) Language Model](./part_00.1.md)
 1. [Deploy Azure Cogntive Search]() (add link to docs)
-1. [Deploy Azure Databricks (Free Tier)](#databricks-setup) (add link to docs)
+1. [Deploy Azure Databricks (Free Tier)](part_databricks.md) 
 
  
 1. [Install Service BUS]() (Type Service Bus) (add link to docs)
@@ -68,25 +68,6 @@ Credentials
     - Install Language Service
     - Connect tothe 
 
-
-
-## Databricks Setup
-1. Launch Databricks Workspace
-![Launch DB](../images/module00/launch_db.png) 
-1. Create a Cluster
-![Create A Cluster](../images/module00/create_a_cluster.png) 
-1. Using the default settings
-![Cluster Settings](../images/module00/default_cluster.png) 
-1. Install PyMUPDF
-![Install Libraries](../images/module00/install_libraries.png)  
-- Enter **pymupdf=1.21.0**
-- Click **Install**
-![Install PyMUPDF](../images/module00/install_pymupdf.png) 
-1. [Install SynapseML Package](https://microsoft.github.io/SynapseML/docs/getting_started/installation/#databricks)  NOTE: **Make sure to used Coordinates com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** , otherwise you will get an error.
-
-![Install SynapseML](../images/module00/install_synapse_ml.png) 
-Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordinates**
-1. DataBricks will be used later on in the lab for the OpenAI Section
 
 
 ## Deploy Azure Storage Account
