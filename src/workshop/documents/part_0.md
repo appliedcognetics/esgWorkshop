@@ -49,7 +49,7 @@ Credentials
 1. Deploy a Resource Group named : *LabSetup*
 1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
 1. [Deploy Language Service](#deploy-language-service)
-1. [Train the Custom [NER](#ner---name-entity-recognition) Language Model](./part_00.1.md)
+1. [Train the Custom [NER](#ner---name-entity-recognition) Here : [Language Model](./part_1.md)
 1. [Deploy Azure Cogntive Search]() (add link to docs)
 1. [Deploy Azure Databricks (Free Tier)](part_databricks.md) 
 
@@ -64,9 +64,7 @@ Credentials
     - Create Two Web App Services (add link to docs)
 1. [SQL Database](#deploy-azure-sql-database)
     - SQL Use Authentication
-1. [Language Service](#deploy-language-service)
-    - Install Language Service
-    - Connect tothe 
+1.[Install Azure Function](./part_00.1.md)
 
 
 
@@ -89,15 +87,11 @@ Choose the following options for this resource:
 1. Create a blob storage contained named : **esg-documents**
 
 
-# Deploy Azure Service Bus
-1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Language Service*
-![Lang Service](../images/module00/install_lang
-
 ## Deploy Language Service
 1. From within the Lab Resource group, Click *Create* and Enter *Language Service* into the Search Box. Select the *Language Service*
 ![Lang Service](../images/module00/install_language_service.png)
 1. Click the Language Service and you will arrive at the "Addtional Features* screen. Select the feature *Custom text Classification & Custom Named Entity Recognition* . Then *Click*  **Continue to create your resource**.
-![Lang Service](../images/module00/install_language_service_add_01.png)
+![Lang Service 2](../images/module00/install_language_service_add_01.png)
 1. Resource Group: Use the resource group you created for the Lab.
 1. Region: Select the same *Region* as your Lab. 
 1. Enter a unique name for the language resource.
@@ -105,7 +99,7 @@ Choose the following options for this resource:
 1. Storage Account :Select *Existing* and the storage account you previously created for this Lab.
 1. Check the *Disclosures* Check box.
 1. Click **Review>>Create**
-
+![Lang Service 2](../images/module00/install_language_service_add_02.png)
 ## Deploy Web App Service Front End 
 This Application Requires two **Azure Web App** services, one for the front end application and a second for the Backend API layer.
 1. From within the Lab Resource group, Click *Create* and Enter *Web App* into the Search Box. Select the *Web App*
@@ -122,6 +116,12 @@ This Application Requires two **Azure Web App** services, one for the front end 
     1. Click the "Monitoring" tab and *Disable Application Insights*.
     1. Click **Review>>Create**
 ![WebDotNetIcon](../images/module00/web-node-webapp.png)
+
+
+## Deploy Azure Service Bus
+1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Language Service*
+![Lang Service](../images/module00/install_lang
+
 
 ## Deploy Web App Service Backend API 
 1. From within the Lab Resource group, Click *Create* and Enter *Web App* into the Search Box. Select the *Web App*
@@ -195,7 +195,15 @@ Enter the following Values
     1. Windows Plan : Select "Free" or "D1 Shared", or leave default if not selectable.
     1. Click the "Monitoring" tab and *Disable Application Insights*.
     1. Click **Review>>Create**
-
+1.Ensure the you have network access to the *Azure SQL Server*. Navigate to the *Azure SQL Server* you created. In the Azure Portal. *Click* **Networking**. *Click* **Selected Networks**. *Click* **Add Your Client IPV4 Address**,. *Click* **Save**
+![SqlNetworking](../images/module00/SQLNetworkAccess.png) 
+1. Runs the SQL Setup Scripts to create the Database. 
+  - Navigate to the SQL Database you created. *Click* the name of the database you created in the previous step.
+![SelectDB](../images/module00/sql-select-db.png)
+1. *Click* **Query editor(Preview)**
+![queryeditor](../images/module00/sqlqueryeditor.png)
+1. Cut and Paste the Scripts to build the database. The scripts are located [here](../databasescripts)
+* THIS NEEDS DOING. Need a Powershell or something to run all of the scripts into the DB
 
 
 
@@ -203,36 +211,6 @@ Enter the following Values
 # NEEDS TO BE COMPLETED
 
 
-
-# Deploy Code into the Functions and the Web App(s)
-At this stage we will deploy the code into to the Azure Functions and the Web App Services.
-
-
-
-1. Update the URI in the publish package for the front end URI
-1. Need tenantID, app registration 
-
-Active Direcotry >> New Registration
-Accounts in this organizational directory only (Microsoft only - Single tenant)
-
-
-Function App: Emtec.Cognitive.Search.EventSubscriber
-*Start with Function One*
-1. Download function app published code from below path
-Path →
-SAS URL : https://sdgpublish.blob.core.windows.net/publish?sp=rl&st=2023-02-
-09T12:30:02Z&se=2023-02-09T20:30:02Z&spr=https&sv=2021-06-
-08&sr=c&sig=o%2Fgy4Zq%2Bw0emHeiTEkUdimbXwcGRLhkplQtsRoazD4Q%3D
-File Name : Emtec.Cognitive.Search.EventSubscriber-publish.zip
-2. Unzip the published zip file.
-3. Login into Azure portal
-4. Go to respective resource group
-5. Open function app
-6. Click on Advanced Tools under Development Tools as shown below
-7. Click on ‘Go →’ link
-
-
--- Function Use for event Subscriber
 
 
 

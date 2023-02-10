@@ -2,6 +2,38 @@
 [PDF File Re Writing this below](../documents/ms-sdg-poc-publish-setups.pdf)
 
 
+# Deploy Code into the Functions and the Web App(s)
+At this stage we will deploy the code into to the Azure Functions and the Web App Services.
+
+
+
+1. Update the URI in the publish package for the front end URI
+1. Need tenantID, app registration 
+
+Active Direcotry >> New Registration
+Accounts in this organizational directory only (Microsoft only - Single tenant)
+
+
+Function App: Emtec.Cognitive.Search.EventSubscriber
+*Start with Function One*
+1. Download function app published code from below path
+Path →
+SAS URL : https://sdgpublish.blob.core.windows.net/publish?sp=rl&st=2023-02-
+09T12:30:02Z&se=2023-02-09T20:30:02Z&spr=https&sv=2021-06-
+08&sr=c&sig=o%2Fgy4Zq%2Bw0emHeiTEkUdimbXwcGRLhkplQtsRoazD4Q%3D
+File Name : Emtec.Cognitive.Search.EventSubscriber-publish.zip
+2. Unzip the published zip file.
+3. Login into Azure portal
+4. Go to respective resource group
+5. Open function app
+6. Click on Advanced Tools under Development Tools as shown below
+7. Click on ‘Go →’ link
+
+
+-- Function Use for event Subscriber
+
+
+
 # Register a New Application
 
 In the Azure Portal , search for "Azure Active Directory"
