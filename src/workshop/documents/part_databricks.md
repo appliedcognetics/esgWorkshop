@@ -29,3 +29,4 @@ Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordin
 1. DataBricks will be used later on in the lab for the OpenAI Section
 1. Proceed to [OpenAI Modules Here] 
 
+hello
