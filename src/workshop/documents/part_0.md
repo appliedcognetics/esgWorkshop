@@ -202,8 +202,23 @@ Enter the following Values
 ![SelectDB](../images/module00/sql-select-db.png)
 1. *Click* **Query editor(Preview)**
 ![queryeditor](../images/module00/sqlqueryeditor.png)
-1. Cut and Paste the Scripts to build the database. The scripts are located [here](../databasescripts)
-* THIS NEEDS DOING. Need a Powershell or something to run all of the scripts into the DB
+1. Populate the database with tables and stored procedures
+        The scripts are located [here](../databasescripts)
+* Navigate the the Azure Cloudshell CLI in the Azure Portal or *Navigate* to http://shell.azure.com 
+* Copy database_scripts.zip to the *clouddrive*
+* From the cloudshell CLI type  
+    * **cd clouddrive**
+    * **unzip database_scripts.zip**
+    * Type cloudshell in the **clouddrive* directory  Run 
+    sh db_bashscript.sh , then press **ENTER**
+
+run the scripts that were uploaded into the directory clouddrive
+# Set the environment variables for sqlcmd
+
+export SQLCMDPASSWORD=Br99klyn_718
+export SQLCMDDBNAME=esg-2023
+export SQLCMDSERVER=esg-2023lab.database.windows.net
+export SQLCMDUSER=sqladmin
 
 1. SQLCMD
 
