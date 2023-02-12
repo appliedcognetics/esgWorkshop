@@ -206,6 +206,9 @@ Enter the following Values
         The scripts are located [here](../databasescripts)
 * Navigate the the Azure Cloudshell CLI in the Azure Portal or *Navigate* to http://shell.azure.com 
 * Copy database_scripts.zip to the *clouddrive*
+    * *Click*  Upload Files in cloudshell
+    * Supply the directory of the github location of the database scripts
+    https://github.com/appliedcognetics/esgWorkshop/blob/main/src/workshop/databasescripts/database_scripts.zip?raw=true
 * From the cloudshell CLI type  
     * **cd clouddrive**
     * **unzip database_scripts.zip**
@@ -215,12 +218,11 @@ Enter the following Values
 run the scripts that were uploaded into the directory clouddrive
 # Set the environment variables for sqlcmd
 
-export SQLCMDPASSWORD=Br99klyn_718
+export SQLCMDPASSWORD= **Your SQL Admin Password**
 export SQLCMDDBNAME=esg-2023
-export SQLCMDSERVER=esg-2023lab.database.windows.net
+export SQLCMDSERVER= **Your SQL Server Name**
 export SQLCMDUSER=sqladmin
 
-1. SQLCMD
 
  [Continue to Deploy Functions and Web Apps >](../documents/part_00.1.md)
 # NEEDS TO BE COMPLETED
