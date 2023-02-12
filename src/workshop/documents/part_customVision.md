@@ -50,10 +50,13 @@ export CV_RESOURCEID
 
 # Remaining 
 1. Upload the script (done script needs changing)
-1. Upload the directory of the SDG Images (find the images)
-1. Test the script with the SDG Images
+1. Test the script with the SDG Images Modify the script to use the directory
+1. Get images for SDG 14  :)
+1. Retrain and test the model
 
 
+# Reference Material
+1. https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api
 # Cloud Drive for Azure Shell
 - Open the >_ Cloud Console in the portal, a storage account is created.
 Use storage Explorer , find the cloud-storage account in the portal. A resource group is created that will contain **Storage Account**. A **File Share** will be created files can be uploaded here which will then appear in the **clouddrive** directory of the CLI in the portal.
