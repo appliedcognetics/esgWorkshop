@@ -77,6 +77,7 @@ The example will attempt to understand the classification of each page >accoring
 
 
 ## Important Subjects
+1. https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/streamline-collaboration-and-insights-with-simplified-machine/ba-p/2924707
 1. https://beta.openai.com/docs/introduction/key-concepts
     1. 1500 Words for context
     2. [Tokenizer Tool](https://beta.openai.com/tokenizer)
