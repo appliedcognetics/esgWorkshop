@@ -25,7 +25,8 @@ IF NOT EXISTS (SELECT 1 FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Do
           CreatedBy BIGINT,
           ModificationDate DATETIME DEFAULT GETDATE(),
           ModifiedBy BIGINT,
-          OverrideCount int default 0
+          OverrideCount int default 0,
+          DocumentIndexerStatusId int 
      )
   END
 GO

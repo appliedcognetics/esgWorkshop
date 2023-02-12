@@ -205,7 +205,7 @@ Enter the following Values
 1. Cut and Paste the Scripts to build the database. The scripts are located [here](../databasescripts)
 * THIS NEEDS DOING. Need a Powershell or something to run all of the scripts into the DB
 
-
+1. SQLCMD
 
  [Continue to Deploy Functions and Web Apps >](../documents/part_00.1.md)
 # NEEDS TO BE COMPLETED
