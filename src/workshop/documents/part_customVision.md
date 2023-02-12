@@ -26,15 +26,15 @@ Train an **Azure Cognitive Service Custom Vision** Model to Recognize SDG Icons
     - Example: If the images represents SDG1 the image must be in a directory named SDG1. The directory names are used as the labels for the images.
 - Open the **cloud shell** from the portal or go to [Azure Cloud Shell](https://shell.azure.com)
 - The Python script and training images are located [here](../code/customvision/)
-- Set the environment variables in the cloudshell before running the python script
-
+- Copy the python script to the **cloudshell**
+- From **cloudshell** run ```pip install azure-cognitiveservices-vision-customvision```
+- Set the environment variables in the cloudshell before running the python script, you copied these in a previous step.
 ```bash
 export CV_TRAININGENDPOINT
 export CV_TRAININGKEY
 export CV_RESOURCEID
 ```
 - Run the python to upload & tag the images , then train and publish the model. 
-- The script is named (customvision.py)
 - Get the prediction URL and Endpoint from the [Custom Vision WebSite](https://www.customvision.ai/) 
     - *Click* the **Classification Project** created by the previous run of the python script.
     ![cvClassification](../images/customvision/cv_selectclassificationproject.jpg)
@@ -49,8 +49,8 @@ export CV_RESOURCEID
 - Test the Custom Vision with SynapseML by sending the images from the document to the endpoint.
 
 # Remaining 
-1. Upload the script
-1. Upload the directory of the SDG Images
+1. Upload the script (done script needs changing)
+1. Upload the directory of the SDG Images (find the images)
 1. Test the script with the SDG Images
 
 
