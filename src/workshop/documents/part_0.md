@@ -119,8 +119,14 @@ This Application Requires two **Azure Web App** services, one for the front end 
 
 
 ## Deploy Azure Service Bus
-1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Language Service*
-![Lang Service](../images/module00/install_lang
+1. From within the Lab Resource group, Click *Create* and Enter *Service Bus* into the Search Box. Select the *Service Bus
+![Service Bus](../images/module00/create_service_bus.jpg)
+1. Complete the details for the creation of the **Service Bus**
+    * Resource Group : Same as your **Lab**
+    * Name Space : Unique Name
+    * Location : Same as your **Lab** region 
+    * Pricing : Basic
+![Service Bus](../images/module00/create_service_bus_part2.jpg)
 
 
 ## Deploy Web App Service Backend API 
