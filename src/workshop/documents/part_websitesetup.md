@@ -44,6 +44,7 @@ In this setup the deployed application will be registered in **Azure Active Dire
 1. To Add User logins to the Enterprise Application *Click* **Enterprise Applications** >> **Enter the Name of the App Registration** created in a previous step. *Click* **Users ang Groups** >> Add user/group >> Users, then enter a username, this can be the user name of the lab or any email address can be invited to the application.
 ![AddUsers](../images/websitesetup/AddUsersToEnterpriseApp.jpg)
 
+1. Important Information from App Registration, **tenantid** etc located here:  ![appreginfo](../images/websitesetup/tenantidneededforapp.jpg)
 
 ##  Testing the API Swagger Page Backend API
 Once the backend API is deployed it can be tested here , **Replace with the prefix** from the previous deployment as shown in this link.
