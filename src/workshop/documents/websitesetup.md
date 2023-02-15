@@ -8,11 +8,16 @@ Install-Module Az
 Install-Module Az.ServiceBus
 Install-Module Az.Search
 ```
+
+Change Slashes
 3. Copy applicationUI.zip to the **cloudshell** home directory 
-* The 
+* This can be done by selecting **Upload** from **cloudshell** and pasting in the URL of the zip file ```https://github.com/appliedcognetics/esgWorkshop/raw/main/src/workshop/applicationUI/applicationUI.zip```
+* When the file is uploaded by url we need to rename the file , from the **cloudshell** type **ls** and you will see **applicationUI[1].zip**.
+* While in **Powershell** Rename the file ```Rename-item -Path "applicationUI[1].zip" -NewName applicationUI.zip```
 4. unzip the applicationUI.zip ```unzip applicationUI.zip```
 5. Edit ```code ms-poc-sdg-infra-deploy.ps1```
     Enter the key and connection string 
+    * Set-AzContext -Subscription "COPY SUBSCRIPTION
     * $prefix = **Enter a Prefix Name for the services**
     * $resourceGroupName = **Name of your resource group**
     * $location = **Location of your resource group**
