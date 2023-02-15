@@ -25,7 +25,7 @@ Given the complexity of ESG reporting this project will provide a framework for 
 # The Process
     - The framework will show an example of consuming the GRI guidelines as an example of how the project can consume semi-structured data to produce a rule set which will be used by the remainder of the platform to perform the needful processing.
 
-[Proceed to the Workshop](src/workshop/documents/part_0.md)
+[Proceed to the Workshop](src/workshop/README.md)
 
 	SDG Guidelines Include: Add Description Here:
 
