@@ -18,7 +18,6 @@ Credentials
 #### Deploy to Azure is in Progress
 -  [Create Deploy to Azure Template](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
 
-1. Check against the PowerPoint
 
 ## Prerequisites
 * An [Azure account](https://azure.microsoft.com/free/) with an active subscription.
@@ -31,7 +30,8 @@ Credentials
   * Language Studio
   * App Service
   * Functions
-  * **todo**  Enumerate other service
+
+
 
 ## Outline
 
@@ -50,9 +50,10 @@ Credentials
 1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
 1. [Deploy Language Service](#deploy-language-service)
 1. [Train the Custom [NER](#ner---name-entity-recognition) Here : [Language Model](./part_1.md)
-1. [Deploy Azure Cogntive Search]() (add link to docs)
+1. [Deploy Azure Cognitive Search]() (add link to docs)
 1. [Deploy Azure Databricks (Free Tier)](part_databricks.md) 
 
+**These steps are now automatic**
  
 1. [Install Service BUS]() (Type Service Bus) (add link to docs)
     - Basic
@@ -238,3 +239,5 @@ export SQLCMDUSER=sqladmin
 
 
 
+-- Website API URL 
+https://prefix212sdg-backend-api.azurewebsites.net/Emtec.Cognitive.Search.Api/swagger/index.html
