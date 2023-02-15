@@ -77,8 +77,6 @@ Choose the following options for this resource:
 1. Keep the defaults for other options then click **Review >> Create**. 
 
 # Create the following Containers in Azure Storage 
-1. Create a blob storage contained named : **sdgstorage**
-1. Create a blob storage contained named : **storagesearchdocs**
 1. Create a blob storage contained named : **esg-ls-training**
 1. Create a blob storage contained named : **esg-documents**
 
@@ -201,38 +199,27 @@ Enter the following Values
 ![SqlNetworking](../images/module00/SQLNetworkAccess.png) 
 1. Runs the SQL Setup Scripts to create the Database. 
   - Navigate to the SQL Database you created. *Click* the name of the database you created in the previous step.
-![SelectDB](../images/module00/sql-select-db.png)
-1. *Click* **Query editor(Preview)**
+
 ![queryeditor](../images/module00/sqlqueryeditor.png)
 1. Populate the database with tables and stored procedures
         The scripts are located [here](../databasescripts)
 * Navigate the the Azure Cloudshell CLI in the Azure Portal or *Navigate* to http://shell.azure.com 
-* Copy database_scripts.zip to the *clouddrive*
-    * *Click*  Upload Files in cloudshell
+1. Copy database_scripts.zip to the *Cloud Shell*
+    * *Click*  Upload Files in *Cloud Shell*
     * Supply the directory of the github location of the database scripts
     https://github.com/appliedcognetics/esgWorkshop/blob/main/src/workshop/databasescripts/database_scripts.zip?raw=true
-* From the cloudshell CLI type  
-    * **cd clouddrive**
-    * **unzip database_scripts.zip**
-    * Type cloudshell in the **clouddrive* directory  Run 
-    sh db_bashscript.sh , then press **ENTER**
-
-run the scripts that were uploaded into the directory clouddrive
-# Set the environment variables for sqlcmd
-
+1. From the cloudshell CLI type  
+     * **unzip database_scripts.zip**
+ 
+1. Set the environment variables for sqlcmd
+```
 export SQLCMDPASSWORD= **Your SQL Admin Password**
 export SQLCMDDBNAME=esg-2023
 export SQLCMDSERVER= **Your SQL Server Name**
 export SQLCMDUSER=sqladmin
+```
+1.  sh db_bashscript.sh , then press **ENTER**
+
+ [Continue to Deploy the Web Application](../documents/part_websitesetup.md)
 
 
- [Continue to Deploy Functions and Web Apps >](../documents/part_00.1.md)
-# NEEDS TO BE COMPLETED
-
-
-
-
-
-
--- Website API URL 
-https://prefix212sdg-backend-api.azurewebsites.net/Emtec.Cognitive.Search.Api/swagger/index.html
