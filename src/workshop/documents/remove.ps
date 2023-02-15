@@ -1,0 +1,33 @@
+#---  Login  ----------------------------------------------
+
+Connect-AzAccount  #Enter the credentials to login
+
+Set-AzContext -Subscription "df526445-07d7-40cc-a91d-cb13b3f693ec"  #Select the Subscrption
+
+ 
+
+ 
+
+#Set parameters
+
+$prefix = "prefix33"
+
+$resourceGroupName = "esglab2"
+
+$location = "eastus"
+
+$languagestudio_projectdeployURL = "https://labnertraining001.cognitiveservices.azure.com"
+
+$languagestudio_azureAPIKey = "71a6c3a5bbfe4bdaaa63f2d2cd9b8268"
+
+$languagestudio_projectname = "TrainNET"
+
+$languagestudio_deploymentName = "deployment1"
+
+$searchserviceSKU = "Standard" ### Free Or Standard
+
+$sql_connectionstring = "Server=tcp:esg-2023lab.database.windows.net,1433;Initial Catalog=esg-2023;Persist Security Info=False;User ID=sqladmin;Password=Br99klyn_718;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+
+$webapp_ui_clientid = "a8cc6ce1-411a-4a99-a807-8371396820fc"
+
+$webapp_ui_tenantid = "aa3252f7-3727-466f-ba71-a426869b9d7d"
