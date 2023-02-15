@@ -29,7 +29,7 @@ Note: Change Slashes in the deployment file
     * $sql_connectionstring = **this is the SQL Database connection string** Ensure the SQL Database is configured [Instructions Here](../documents/part_0.md#deploy-azure-sql-database)
 ![SQlconnect](../images/websitesetup/website_sqlconnectionstring.jpg)
 
-
+ 
 # Create an app registration 
 In this setup the deployed application will be registered in **Azure Active Directory** in order to enable logins. [Additional reading on Application Registation](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app). 
 1. In the **Azure Portal** search bar *type* **Azure Active Directory** , *Click** the **Azure Active Directory** service icon.
