@@ -1,4 +1,4 @@
-# Website Install
+# Front and and API Install
  
 ## Cloud Shell on Azure
 1. Go to the cloud shell on Azure , locat the icon in the Azure Portal or go to [shell.azure.com](shell.azure.com).
@@ -45,21 +45,16 @@ In this setup the deployed application will be registered in **Azure Active Dire
 ![AddUsers](../images/websitesetup/AddUsersToEnterpriseApp.jpg)
 
 
-Configure Redirect URL in app registration 
->> Authentication >> Add Platform >> Single Page Application 
-https://{**Your Prefix**}sdg-ui.azurewebsites.net/login
-
-Add User go to active directory
-
-esg-test-app | Users and groups
-Enterprise Application
-
-## Swagger Page Backend API
+##  Testing the API Swagger Page Backend API
 Once the backend API is deployed it can be tested here , **Replace with the prefix** from the previous deployment as shown in this link.
 https://{**Your prefix from app deployment**}sdg-backend-api.azurewebsites.net/Emtec.Cognitive.Search.Api/swagger/index.html
 
 https://{Your prefix from app deployment}sdg-ui.azurewebsites.net
 
+
+# Smart Search UI 
+
+## Review Smart Search UI  [See this document](../documents/part_3.md)
 
 
 
