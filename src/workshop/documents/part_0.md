@@ -187,14 +187,11 @@ You will return to the dialog for *Create SQL Database* and must complete this s
 ![AzureSQLDCreateServer](../images/module00/create_azureSQLFinalSettings.png)
 Enter the following Values
 
-    1. Resource Group: Use the resource group you created for the Lab.
-    1. Database Name: *esg-db*
-    1. Server: Choose the Azure SQL Server you created in the previous step.
-    1. Elastic Pool: No
-    1. Compute + Storage : Should be at *Basic* from the preceding step.
-    1. Windows Plan : Select "Free" or "D1 Shared", or leave default if not selectable.
-    1. Click the "Monitoring" tab and *Disable Application Insights*.
-    1. Click **Review>>Create**
+1. Resource Group: Use the resource group you created for the Lab.
+1. Database Name: *esg-db*
+1. Server: Choose the Azure SQL Server you created in the previous step.
+1. Elastic Pool: No
+   
 1.Ensure the you have network access to the *Azure SQL Server*. Navigate to the *Azure SQL Server* you created. In the Azure Portal. *Click* **Networking**. *Click* **Selected Networks**. *Click* **Add Your Client IPV4 Address**,. *Click* **Save**
 ![SqlNetworking](../images/module00/SQLNetworkAccess.png) 
 1. Runs the SQL Setup Scripts to create the Database. 
@@ -203,23 +200,28 @@ Enter the following Values
 ![queryeditor](../images/module00/sqlqueryeditor.png)
 1. Populate the database with tables and stored procedures
         The scripts are located [here](../databasescripts)
-* Navigate the the Azure Cloudshell CLI in the Azure Portal or *Navigate* to http://shell.azure.com 
+1. Navigate the the Azure Cloudshell CLI in the Azure Portal or *Navigate* to http://shell.azure.com 
 1. Copy database_scripts.zip to the *Cloud Shell*
     * *Click*  Upload Files in *Cloud Shell*
-    * Supply the directory of the github location of the database scripts
+    * Supply the directory of the github location sqladmin the database scripts
     https://github.com/appliedcognetics/esgWorkshop/blob/main/src/workshop/databasescripts/database_scripts.zip?raw=true
 1. From the cloudshell CLI type  
      * **unzip database_scripts.zip**
  
 1. Set the environment variables for sqlcmd
-```
-export SQLCMDPASSWORD= **Your SQL Admin Password**
-export SQLCMDDBNAME=esg-2023
-export SQLCMDSERVER= **Your SQL Server Name**
-export SQLCMDUSER=sqladmin
-```
+    ```
+    export SQLCMDPASSWORD= **Your SQL Admin Password**
+    export SQLCMDDBNAME=** Your Database Name**
+    export SQLCMDSERVER= **Your SQL Server Name**
+    export SQLCMDUSER= ** Your SQL Server Admin Name**
+    ```
 1.  sh db_bashscript.sh , then press **ENTER**
 
  [Continue to Deploy the Web Application](../documents/part_websitesetup.md)
 
 
+
+export SQLCMDPASSWORD=password22!
+export SQLCMDDBNAME=esg-db
+export SQLCMDSERVER=steveazuredb.database.windows.net
+export SQLCMDUSER=sqladmin
