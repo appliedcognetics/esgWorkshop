@@ -4,7 +4,7 @@
 To train custom NER (Named Entity Recognition) Model for use in the application. The NER model will be trained on ESG documents to recognized to identify relevant ESG data and terms in a document. The results of the NER process will be stored in the Azure SQL Database and the Azure Search Index for use by the application.
 
 ``` 
-Add Later Sub Goal Train Custom Vision Model or use existing custom vision model.
+Training of a Custom Vision model to recognize SDG Images is available.
 ```
 
 1. Ensure prerequistes are completed from [Part 0](documents/part_0.md)  
@@ -58,3 +58,5 @@ Choose the *Blob Storage Container* that has your training data
 1. Setup *Blob Storage Container* for *Language Studio*
 ![LSLocation](../images/module01/create-project_enter_basic.png)
 
+
+# Discuss Azure Search With the Group

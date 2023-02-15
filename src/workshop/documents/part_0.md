@@ -15,10 +15,6 @@ Credentials
 ## Setup
 
 
-#### Deploy to Azure is in Progress
--  [Create Deploy to Azure Template](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
-
-
 ## Prerequisites
 * An [Azure account](https://azure.microsoft.com/free/) with an active subscription.
 * Owner permissions within a Resource Group to create resources and manage role assignments.
@@ -31,6 +27,9 @@ Credentials
   * App Service
   * Functions
 
+Note :
+### Sample ESG Documents are located in the repo here 
+[ESG Reports](https://github.com/appliedcognetics/esgWorkshop/tree/main/src/workshop/data/ESG_reports)
 
 
 ## Outline
@@ -53,10 +52,9 @@ Credentials
 1. [Deploy Azure Cognitive Search]() (add link to docs)
 1. [Deploy Azure Databricks (Free Tier)](part_databricks.md) 
 
-**These steps are now automatic**
+1. Deploy the Web Application [Follow these instructions](../documents/part_websitesetup.md)
  
-1. [Install Service BUS]() (Type Service Bus) (add link to docs)
-    - Basic
+1. Ensure Configure Service Bus has the following queue created
     - Create a Queue 
         - Named: DocumentEntitySkillSetExecuted
 

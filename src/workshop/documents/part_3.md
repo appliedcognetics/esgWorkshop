@@ -22,3 +22,14 @@ Add Text about the different views of the application
 
 ## Uploading A Document & Triggering the Pipeline
 ![UploadandTrigger](../images/module03/uploadandanalyze.png)
+
+
+# Discuss Azure Search and how the Custom Skills work 
+
+1. Go to Azure Search Service
+1. Observe the Navigation Bar
+![SearchNAv](../images/module03/AzureSearchNav.jpg)
+1. *Click*  **Index**
+1. Select **azureblob-index**
+1. In this interface you will be able to *Search* the *Index* and observe the enrichment provided by the *Custom Language Model* which was trained. The enrichments are in the JSON.
+![SearchIndex](../images/module03/AzureSearch_Search_index.jpg) 
