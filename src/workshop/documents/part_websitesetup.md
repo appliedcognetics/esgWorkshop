@@ -1,5 +1,23 @@
 # Front-End UI and Back-End API Install
- 
+
+# Step 0
+# Create an app registration 
+In this setup the deployed application will be registered in **Azure Active Directory** in order to enable logins. [Additional reading on Application Registation](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app). 
+1. In the **Azure Portal** search bar *type* **Azure Active Directory** , *Click** the **Azure Active Directory** service icon.
+![Search](../images/websitesetup/activedirectorysearch.jpg)
+1. *Click* **App Registrations** >> **New Registration**
+![applandingpage](../images/websitesetup/appregistration_landingpage.jpg)
+1. Enter the details for the application
+![appregistrationdetails](../images/websitesetup/registeranapplication.jpg)
+    * Redirect URI is located in the Web App for the UI as shown, **append /login** to the URL
+    * The redirect URL will be: ```https://{**Your Prefix**}sdg-ui.azurewebsites.net/login``` remember to append **/login**
+![redirectURI](../images/websitesetup/URLforUI.jpg)
+1. To Add User logins to the Enterprise Application *Click* **Enterprise Applications** >> **Enter the Name of the App Registration** created in a previous step. *Click* **Users ang Groups** >> Add user/group >> Users, then enter a username, this can be the user name of the lab or any email address can be invited to the application.
+![AddUsers](../images/websitesetup/AddUsersToEnterpriseApp.jpg)
+
+1. Important Information from App Registration, **tenantid** etc located here:  ![appreginfo](../images/websitesetup/tenantidneededforapp.jpg)
+
+
 ## Cloud Shell on Azure
 1. Go to the cloud shell on Azure , locat the icon in the Azure Portal or go to [shell.azure.com](shell.azure.com).
 1. Run the following Power Shell Commands (make sure to switch to Powershell ) these commands will ensure that the necessary **Powershell** modules are install. Confirm **Yes** if a confirmation dialog appears after running the commands. 
@@ -28,23 +46,11 @@ Note: Change Slashes in the deployment file
     * $languagestudio_deploymentName = **From Language Service**
     * $sql_connectionstring = **this is the SQL Database connection string** Ensure the SQL Database is configured [Instructions Here](../documents/part_0.md#deploy-azure-sql-database)
 ![SQlconnect](../images/websitesetup/website_sqlconnectionstring.jpg)
+These next two parameters come [from the app registration](#create-an-app-registration) blade.
+    * $webapp_ui_clientid  Also known and the **ApplicationID** 
+    * $webapp_ui_tenantid  Also Known as **Directory**
 
  
-# Create an app registration 
-In this setup the deployed application will be registered in **Azure Active Directory** in order to enable logins. [Additional reading on Application Registation](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app). 
-1. In the **Azure Portal** search bar *type* **Azure Active Directory** , *Click** the **Azure Active Directory** service icon.
-![Search](../images/websitesetup/activedirectorysearch.jpg)
-1. *Click* **App Registrations** >> **New Registration**
-![applandingpage](../images/websitesetup/appregistration_landingpage.jpg)
-1. Enter the details for the application
-![appregistration](../images/websitesetup/registeranapplication.jpg)
-    * Redirect URI is located in the Web App for the UI as shown, **append /login** to the URL
-    * The redirect URL will be: ```https://{**Your Prefix**}sdg-ui.azurewebsites.net/login``` remember to append **/login**
-![redirectURI](../images/websitesetup/URLforUI.jpg)
-1. To Add User logins to the Enterprise Application *Click* **Enterprise Applications** >> **Enter the Name of the App Registration** created in a previous step. *Click* **Users ang Groups** >> Add user/group >> Users, then enter a username, this can be the user name of the lab or any email address can be invited to the application.
-![AddUsers](../images/websitesetup/AddUsersToEnterpriseApp.jpg)
-
-1. Important Information from App Registration, **tenantid** etc located here:  ![appreginfo](../images/websitesetup/tenantidneededforapp.jpg)
 
 ##  Testing the API Swagger Page Backend API
 Once the backend API is deployed it can be tested here , **Replace with the prefix** from the previous deployment as shown in this link.
