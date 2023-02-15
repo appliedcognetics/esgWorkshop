@@ -1,5 +1,5 @@
 # Website Install
-
+ 
 ## Cloud Shell on Azure
 1. Go to the cloud shell on Azure , locat the icon in the Azure Portal or go to [shell.azure.com](shell.azure.com).
 1. Run the following Power Shell Commands (make sure to switch to Powershell )
