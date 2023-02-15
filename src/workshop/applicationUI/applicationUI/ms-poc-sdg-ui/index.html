@@ -1,0 +1,107 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/public/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,maximum-scale=1,minimum-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link href="https://cdn.jsdelivr.net/npm/@progress/kendo-theme-material@4.42.0/dist/all.min.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"><link rel="manifest" href="/public/manifest.json"/><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/><meta http-equiv="Content-Security-Policy" content="default-src * 'self';frame-src * 'self';script-src 'self' 'unsafe-inline' 'unsafe-eval';style-src 'self' 'unsafe-inline';style-src-elem 'self' 'unsafe-inline' *;font-src * data: ;img-src * 'self' data:;"><title>Smart Search</title><style>* {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      display: table;
+      width: 100%;
+      height: 100vh;
+    }
+
+    .center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+    ::-webkit-scrollbar {
+      width: 5px;
+      height: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #f1f1f1;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #888;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+
+
+
+    .lds-ring {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin: 8px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #fff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+    .overlayL{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px !important;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 2;
+    cursor: pointer;
+    }
+
+    .overlaycenter{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    font-size: 12px !important;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-align: center!important;
+    margin: 50vh !important;
+    color: whitesmoke !important;
+    }</style><script defer="defer" src="/assets/js/bundle.js"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="mfe-loading-indicator" style="display: none;"><div class="overlayL"><div class="overlaycenter"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div></div></div></body></html>
