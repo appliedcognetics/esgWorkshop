@@ -3,9 +3,10 @@
 ## Lab Goals
 1. Complete the deployment and test the application
 2. Upload documents to trigger the pipelines
-3. Discuss how to extend with more Cognitive Services
-4. Discuss additional training
-5.  ** Stretch Goal ** Add the Vision Service
+1. Sample ESG Documents for testing the UI are located here: [ESG Reports](https://github.com/appliedcognetics/esgWorkshop/tree/main/src/workshop/data/ESG_reports)
+3. Discuss how to extend with more **Cognitive Services**
+4. Discuss training additional Models
+5.  ** Day 2 Stretch Goal ** [Add the Vision Service](../documents/part_customVision.md), need to upload the code.
 6. [Move on to OpenAI Section of the Workshop](../documents/part_2.md)
 
 

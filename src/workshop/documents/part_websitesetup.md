@@ -56,8 +56,10 @@ https://{**Your prefix from app deployment**}sdg-ui.azurewebsites.net
 # **Next Steps** 
 ## Smart Search UI 
 
+1. Sample ESG Documents for testing the UI are located here: [ESG Reports](https://github.com/appliedcognetics/esgWorkshop/tree/main/src/workshop/data/ESG_reports)
 1. Review Smart Search UI and work with the output [See this document](../documents/part_3.md)
 1. Review the Azure Search Indexes , and observe the output of the **Azure Cognitive Services**.
+
 
 
 

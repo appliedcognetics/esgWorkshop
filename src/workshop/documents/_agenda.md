@@ -25,15 +25,3 @@
 | | Wrap Up|
 
 
-
-## Diagram Examples
-## [Merimaid Diagrams](https://mermaid.js.org/intro/)
-## Markdown in VS Code https://code.visualstudio.com/Docs/languages/markdown
-```mermaid
-flowchart LR
-
-A[Step1] -->|Process| B(Step2)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```

@@ -9,11 +9,9 @@ Credentials
   password: ask administrator
 
 ```
-## Glossary
-### NER - Name Entity Recognition
+[Glossary Here ](../documents/glossary.md)
 
-## Setup
-
+# Setup
 
 ## Prerequisites
 * An [Azure account](https://azure.microsoft.com/free/) with an active subscription.
@@ -26,10 +24,6 @@ Credentials
   * Language Studio
   * App Service
   * Functions
-
-Note :
-### Sample ESG Documents are located in the repo here 
-[ESG Reports](https://github.com/appliedcognetics/esgWorkshop/tree/main/src/workshop/data/ESG_reports)
 
 
 ## Outline
