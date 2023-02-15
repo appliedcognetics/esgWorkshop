@@ -8,7 +8,7 @@ Install-Module Az
 Install-Module Az.ServiceBus
 Install-Module Az.Search
 ```
-
+ 
 Note: Change Slashes in the deployment file 
 3. Copy applicationUI.zip to the **cloudshell** home directory 
 * This can be done by selecting **Upload** from **cloudshell** and pasting in the URL of the zip file ```https://github.com/appliedcognetics/esgWorkshop/raw/main/src/workshop/applicationUI/applicationUI.zip```
