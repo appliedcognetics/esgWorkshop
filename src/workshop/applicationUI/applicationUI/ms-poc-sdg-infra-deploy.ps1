@@ -20,25 +20,25 @@ Install-Module Az.Search
 
 
 Connect-AzAccount  #Enter the credentials to login
-Set-AzContext -Subscription "b89fd61c-968d-49b8-bf2d-75265bc24301"  #Select the Subscrption
+Set-AzContext -Subscription "*********Your Subscription**************"  #Select the Subscrption
 
 #Set parameters
 $prefix = "prefix1"
-$resourceGroupName = "lab2"
-$location = "eastus"
+$resourceGroupName = "*********** Your RESOURCE GROUP *******************"
+$location = "eastus" ## REGION FOR YOUR DEPLOYMENT 
 $storageaccount_name = $prefix + "storagesdg"
 $container_documents = "documents"
 $servicebus_name = $prefix + "asb-sdg"
 $servicebus_queue_name = "asb-sdg"
 $functionapp_skillset_name = $prefix + "func-sdg-skillset"
 $functionapp_eventsubscriber_name = $prefix + "func-sdg-event-subscriber"
-$languagestudio_projectdeployURL = "https://labnertraining001.cognitiveservices.azure.com"
-$languagestudio_azureAPIKey = "71a6c3a5bbfe4bdaaa63f2d2cd9b8268"
-$languagestudio_projectname = "TrainNET"
-$languagestudio_deploymentName = "deployment1"
+$languagestudio_projectdeployURL = "********** LANGUAGE URL HERE *****************"
+$languagestudio_azureAPIKey = "*********** LANGUAGE API KEY ******************"
+$languagestudio_projectname = "*****PROJECT NAME ************"
+$languagestudio_deploymentName = "******** DEPLOYMENT NAME ***************"
 $searchservice_name = $prefix + "search-sdg"
 $searchserviceSKU = "Standard" ### Free Or Standard
-$sql_connectionstring = "Server=tcp:esg-2023lab.database.windows.net,1433;Initial Catalog=esg-2023;Persist Security Info=False;User ID=sqladmin;Password=Br99_klun718;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+$sql_connectionstring = "**** SQL CONNECTION STRING **************"
 $webapp_serviceplan = $prefix + "sdg-backend-api_sp"
 $webapp_backendapi_name = $prefix + "sdg-backend-api"
 $webapp_ui_name = $prefix + "sdg-ui"
