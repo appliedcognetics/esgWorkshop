@@ -39,7 +39,7 @@ Credentials
 
 ## High Level Lab Environment Setup
 
-1. Deploy a Resource Group named : *LabSetup*
+
 1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
 1. [Deploy Language Service](#deploy-language-service)
 1. [Train the Custom [NER](#ner---name-entity-recognition) Here : [Language Model](./part_1.md)
