@@ -40,8 +40,11 @@ Credentials
 ## High Level Lab Environment Setup
 
 1. Deploy a Resource Group named : *LabSetup*
+1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
 1. [Deploy Language Service](#deploy-language-service)
 1. [Train the Custom [NER](#ner---name-entity-recognition) Here : [Language Model](./part_1.md)
+1. [SQL Database](#deploy-azure-sql-database)
+    - SQL Use Authentication
 
 1. [Deploy Azure Databricks (Free Tier)](part_databricks.md) 
 
@@ -52,8 +55,7 @@ Credentials
 1. [Web App Frontend](#deploy-web-app-service-front-end)
 1. [Web App Backend](#deploy-web-app-service-backend-api)
     - Create Two Web App Services (add link to docs)
-1. [SQL Database](#deploy-azure-sql-database)
-    - SQL Use Authentication
+
 1.[Install Azure Function](./part_00.1.md)
 
 1. [Deploy Azure Cognitive Search]() (add link to docs)
@@ -61,8 +63,7 @@ Credentials
 1. Ensure Configure Service Bus has the following queue created
     - Create a Queue 
         - Named: DocumentEntitySkillSetExecuted
-        
-1. [Deploy Azure Storage Account](#deploy-azure-storage-account)
+
 ## Deploy Azure Storage Account
 From the Azure Portal in the resource group for the lab create an Azure Storage Account. [Documentation](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal)
 
