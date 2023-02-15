@@ -1,4 +1,4 @@
-# Front and and API Install
+# Front-End UI and Back-End API Install
  
 ## Cloud Shell on Azure
 1. Go to the cloud shell on Azure , locat the icon in the Azure Portal or go to [shell.azure.com](shell.azure.com).
