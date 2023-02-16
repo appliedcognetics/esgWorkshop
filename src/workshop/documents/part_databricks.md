@@ -27,6 +27,6 @@
     ![Install SynapseML](../images/module00/install_synapse_ml.png)
 1. Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordinates**
 1. DataBricks will be used later on in the lab for the OpenAI Section
-1. Proceed to [OpenAI Modules Here] 
+1. Proceed to [OpenAI Modules Here](../documents/part_openai.md) 
 
-hello
+
