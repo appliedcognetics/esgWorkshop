@@ -1,10 +1,10 @@
 ## Databricks Setup
 
 
-1. Create a Free DataBricks Service in your *Lab* **Resource Group**. [See Documentation Here](https://learn.microsoft.com/en-us/azure/databricks/getting-started/)
+1. Create a Free DataBricks Service in your **Resource Group**. [See Documentation Here](https://learn.microsoft.com/en-us/azure/databricks/getting-started/)
 1. *Click* **Create a Resource**, type **databricks** and *Click* the **DataBricks** tile.
 ![CrearteDB](../images/module00/portal_createDatabricks.png)
-1. *Select* the *Lab* **Resource Group** , Enter the Instance Details.
+1. *Select* the **Azure Databricks Resource** and enter the instance details.
     * Workspace Name : *Unique name for your Workspace*
     * Region : **Same Region as you *Lab* Resource Group** 
     * Pricing Tier : *Select* **Free**
@@ -14,9 +14,9 @@
 ![Launch DB](../images/module00/launch_db.png) 
 1. Create a Cluster
 ![Create A Cluster](../images/module00/create_a_cluster.png) 
-1. Using the default settings
+1. Using the default settings, shown in the image, for this *Lab* we only need a single user instance. **Apache 3.3.0**, **DataBricks 11.3 LTS** worked in this example. Check the advise of the SynapseML documentation if there is an issue.
 ![Cluster Settings](../images/module00/default_cluster.png) 
-1. Install PyMUPDF
+1. Install the PyMUPDF libraries for the cluster.
 ![Install Libraries](../images/module00/install_libraries.png)  
 1. Enter **pymupdf==1.21.0**
 1. Click **Install**
