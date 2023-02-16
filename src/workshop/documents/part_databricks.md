@@ -22,7 +22,7 @@
 1. Click **Install**
     ![Install PyMUPDF](../images/module00/install_pymupdf.png)
 
-1. Next [install SynapseML Package](https://microsoft.github.io/SynapseML/docs/getting_started/installation/#databricks)
+1. Next install the SynapseML Package.
     * NOTE: **Make sure to used Coordinates com.microsoft.azure:synapseml-cognitive_2.12:0.10.2**,otherwise you will get an error.
     ![Install SynapseML](../images/module00/install_synapse_ml.png)
 1. Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordinates**
@@ -30,3 +30,5 @@
 1. Proceed to [OpenAI Modules Here](../documents/part_openai.md) 
 
 
+## Reference Links
+1. [SynapseML Documenation](https://microsoft.github.io/SynapseML/docs/getting_started/installation/#databricks)
