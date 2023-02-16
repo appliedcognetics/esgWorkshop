@@ -1,5 +1,6 @@
 ## Databricks Setup
 
+```Note :There are various documentation and reference links below```
 
 1. Create a Free DataBricks Service in your **Resource Group**. [See Documentation Here](https://learn.microsoft.com/en-us/azure/databricks/getting-started/)
 1. *Click* **Create a Resource**, type **databricks** and *Click* the **DataBricks** tile.
@@ -27,8 +28,19 @@
     ![Install SynapseML](../images/module00/install_synapse_ml.png)
 1. Enter **com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** into the **Coordinates**
 1. DataBricks will be used later on in the lab for the OpenAI Section
+1. Setup the Secret Scopes
+* You will need the lab keyvault to complete this next step
+* [Databricks KeyVault secret scopes](https://learn.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes)  use scope named **labsecrets**
+* A lab coach will help with this section
+* If there is not enough time hard code the keys in your notebook 
+    
 1. Proceed to [OpenAI Modules Here](../documents/part_openai.md) 
 
 
 ## Reference Links
 1. [SynapseML Documenation](https://microsoft.github.io/SynapseML/docs/getting_started/installation/#databricks)
+1. [Databricks KeyVault secret scopes](https://learn.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes) 
+1. [Secret Scopes](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/)
+
+# Setup 
+
