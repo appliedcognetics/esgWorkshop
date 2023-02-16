@@ -18,8 +18,8 @@
 ![Cluster Settings](../images/module00/default_cluster.png) 
 1. Install PyMUPDF
 ![Install Libraries](../images/module00/install_libraries.png)  
-    - Enter **pymupdf==1.21.0**
-    - Click **Install**
+1. Enter **pymupdf==1.21.0**
+1. Click **Install**
 ![Install PyMUPDF](../images/module00/install_pymupdf.png) 
 1. [Install SynapseML Package](https://microsoft.github.io/SynapseML/docs/getting_started/installation/#databricks)  NOTE: **Make sure to used Coordinates com.microsoft.azure:synapseml-cognitive_2.12:0.10.2** , otherwise you will get an error.
 
