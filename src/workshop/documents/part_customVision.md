@@ -1,7 +1,47 @@
+<!-- Adding Style to MARKDOWN -->
+<style>
+.boxed {
+    background: #F2F2F2;
+    color: red;
+    border: 3px solid #535353;
+    /*margin: 0px auto;*/
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}  
+</style>
+
+<https://stackoverflow.com/questions/61945328/can-i-create-a-box-around-text-in-markdown-using-html>
+
+_<https://www.markdownguide.org/basic-syntax>_
+
 # Azure Cognitive Services and Custom Vision to Recognize SDG Icons
 
 ## Goal
 
+**<div class="boxed">This is an example of an important note </div>**
+
+---
+title: "Quickstart: Register an app in the Microsoft identity platform"
+description: In this quickstart, you learn how to register an application with the Microsoft identity platform.
+services: active-directory
+author: cilwerner
+manager: CelesteDG
+ms.author: cwerner
+ms.date: 11/14/2022
+ms.topic: include
+ms.service: active-directory
+ms.subservice: develop
+ms.workload: identity
+
+# This include file is currently referenced in the following documentation:
+
+# https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
+# https://learn.microsoft.com/en-us/graph/auth-register-app-v2
+---
+
+> [!TIP]
+> To register an application for Azure AD B2C, follow the steps in [Tutorial: Register a web application in Azure AD B2C](../articles/active-directory-b2c/tutorial-register-applications.md).
 
 Train an **Azure Cognitive Service Custom Vision** Model to Recognize SDG Icons
 1. Deploy an **Azure Cognitive Services Multi Service Account**
@@ -55,10 +95,11 @@ export CV_RESOURCEID
 1. Retrain and test the model
 
 
+
 # Reference Material
-1. https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api
+1. [Using the **Azure Custom Vision** prediction API](https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api)
 # Cloud Drive for Azure Shell
-- Open the >_ Cloud Console in the portal, a storage account is created.
+* Click the  the <div class="boxed">>_</div> Cloud Console in the portal, a storage account is created.
 Use storage Explorer , find the cloud-storage account in the portal. A resource group is created that will contain **Storage Account**. A **File Share** will be created files can be uploaded here which will then appear in the **clouddrive** directory of the CLI in the portal.
 
 - ls clouddrive from the Azure Portal CLI
